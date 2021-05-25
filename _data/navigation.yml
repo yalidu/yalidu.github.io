@@ -1,0 +1,26 @@
+# main links links
+main:
+  - title: "Bio/CV"
+    url: /bio/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching & Talks"
+    url: /teaching/
+
+ # - title: "Services"
+ #   url: /services/
+
+  - title: "Demos"
+    url: /portfolio/
+
+ # - title: "Talks"
+ #   url: /talks/
+
+        
+ # - title: "Blog Posts"
+ #   url: /year-archive/
+
+  #- title: "Guide"
+  # url: /markdown/
