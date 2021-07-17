@@ -18,14 +18,11 @@ Liheng Chen, Hongyi Guo, **Yali Du**, Fei Fang, Haifeng Zhang, Yaoming Zhu, Ming
 ## Conferences
 
 * [Estimating Alpha-Rank from A Few Entries with Low Rank Matrix Completion]() <br>
-**Yali Du**, Xue Yan, Xu Chen,   Jun Wang， Haifenng Zhang <br>
+**Yali Du**, Xue Yan, Xu Chen, Jun Wang, Haifenng Zhang <br>
 <i>  International Conference on Machine Learning (ICML), 2021.  </i> <br>
  [PDF](http://proceedings.mlr.press/v139/du21e/du21e.pdf)
  |
  [Code](https://github.com/yalidu/optEval)
-
-
-
 
 * [Learning in Nonzero-Sum Stochastic Games with Potentials]() <br>
 David Mguni, Yutong Wu, **Yali Du**, Yaodong Yang, Ziyi Wang, Minne Li, Ying Wen, Joel Jennings, Jun Wang <br>
@@ -112,7 +109,7 @@ Artificial Intelligence and Security (AISec@CCS), 2018. </i> <br>
 
 * [ Reinforcement Learning with Multiple Relational Attention for Solving Vehicle Routing Problems
 ]() <br>
-Yunqiu Xu, Meng Fang, Ling Chen, Gangyan Xu, **Yali Du**, Chengqi Zhang
+Yunqiu Xu, Meng Fang, Ling Chen, Gangyan Xu, **Yali Du**, Chengqi Zhang <br>
 <i> IEEE Transactions on Cybernetics (TCYB), 2021.  </i> <br>
 [PDF](https://ieeexplore.ieee.org/abstract/document/9478307)
 
