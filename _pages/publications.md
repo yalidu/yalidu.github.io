@@ -19,7 +19,7 @@ Liheng Chen, Hongyi Guo, **Yali Du**, Fei Fang, Haifeng Zhang, Yaoming Zhu, Ming
 
 * [Estimating Alpha-Rank from A Few Entries with Low Rank Matrix Completion]() <br>
 **Yali Du**, Xue Yan, Xu Chen,   Jun Wang， Haifenng Zhang <br>
-<i>  International Conference on Machine Learning, 2021.  </i> <br>
+<i>  International Conference on Machine Learning (ICML), 2021.  </i> <br>
  [PDF](http://proceedings.mlr.press/v139/du21e/du21e.pdf)
  |
  [Code](https://github.com/yalidu/optEval)
@@ -29,7 +29,7 @@ Liheng Chen, Hongyi Guo, **Yali Du**, Fei Fang, Haifeng Zhang, Yaoming Zhu, Ming
 
 * [Learning in Nonzero-Sum Stochastic Games with Potentials]() <br>
 David Mguni, Yutong Wu, **Yali Du**, Yaodong Yang, Ziyi Wang, Minne Li, Ying Wen, Joel Jennings, Jun Wang <br>
-<i>  International Conference on Machine Learning, 2021.  </i> <br>
+<i>  International Conference on Machine Learning (ICML), 2021.  </i> <br>
  [PDF](https://arxiv.org/pdf/2103.09284.pdf)
 
 
