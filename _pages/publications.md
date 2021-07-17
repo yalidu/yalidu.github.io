@@ -8,6 +8,7 @@ author_profile: true
 ([BibTex](https://github.com/yalidu/yalidu.github.io/blob/master/bibtex_ydu.bib) 
 | * equal contributions
 )
+
 ## Preprints 
 * [Signal Instructed Coordination in Cooperative Multi-agent Reinforcement Learning]() <br>
 Liheng Chen, Hongyi Guo, **Yali Du**, Fei Fang, Haifeng Zhang, Yaoming Zhu, Ming Zhou, Weinan Zhang, Qing Wang, Yong Yu<br>
@@ -15,6 +16,23 @@ Liheng Chen, Hongyi Guo, **Yali Du**, Fei Fang, Haifeng Zhang, Yaoming Zhu, Ming
 [PDF](https://arxiv.org/abs/1909.04224) 
 
 ## Conferences
+
+* [Estimating Alpha-Rank from A Few Entries with Low Rank Matrix Completion]() <br>
+**Yali Du**, Xue Yan, Xu Chen,   Jun Wang， Haifenng Zhang <br>
+<i>  International Conference on Machine Learning, 2021.  </i> <br>
+ [PDF](http://proceedings.mlr.press/v139/du21e/du21e.pdf)
+ |
+ [Code](https://github.com/yalidu/optEval)
+
+
+
+
+* [Learning in Nonzero-Sum Stochastic Games with Potentials]() <br>
+David Mguni, Yutong Wu, **Yali Du**, Yaodong Yang, Ziyi Wang, Minne Li, Ying Wen, Joel Jennings, Jun Wang <br>
+<i>  International Conference on Machine Learning, 2021.  </i> <br>
+ [PDF](https://arxiv.org/pdf/2103.09284.pdf)
+
+
 * [Ordering-Based Causal Discovery with Reinforcement Learning]() <br>
 Xiaoqiang Wang,
 **Yali Du**,
@@ -24,7 +42,10 @@ Zhitang Chen,
 Jianye Hao,
 Jun Wang  <br>
 <i> 30th International Joint Conference on Artificial Intelligence (IJCAI-21) </i> <br> 
-[PDF (coming soon...)]()
+[PDF](https://arxiv.org/abs/2105.06631)
+|
+[Code](https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle)
+
 
 * [Reinforcement Recommendation with User Multi-aspect Preference]() <br>
 Xu Chen, **Yali Du**, Long Xia,  Jun Wang <br>
@@ -88,6 +109,13 @@ Artificial Intelligence and Security (AISec@CCS), 2018. </i> <br>
 [PDF](https://opus.lib.uts.edu.au/bitstream/10453/126336/4/ijcai17-Collaborative%20Rating%20Allocation.pdf)
 
 ## Journals
+
+* [ Reinforcement Learning with Multiple Relational Attention for Solving Vehicle Routing Problems
+]() <br>
+Yunqiu Xu, Meng Fang, Ling Chen, Gangyan Xu, **Yali Du**, Chengqi Zhang
+<i> IEEE Transactions on Cybernetics (TCYB), 2021.  </i> <br>
+[PDF](https://ieeexplore.ieee.org/abstract/document/9478307)
+
 * [ Enhancing the Robustness of Neural Collaborative Filtering Systems Under Malicious Attacks]() <br>
 **Yali Du**, Meng Fang, Jinfeng Yi, Jun Cheng, Dacheng Tao <br>
 <i> IEEE Transactions on Multimedia (TMM), 2019.  </i> <br>
