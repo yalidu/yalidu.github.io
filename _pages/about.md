@@ -20,7 +20,11 @@ redirect_from:
 * I am happy to host (remote) undergradaute / graduate visitors. If you are interested in working with me, please feel free to send me an email with your CV.
  
 # Recent News
-* 29 Apr 2021 - Our paper on reinforcement learning for causal discovery has been accepted by [IJCAI-21](https://ijcai-21.org)
+
+* 07 Aug 2021 - Invited to serve at Senior PC for AAAI 2022.
+* 10 Jul 2021 - Our paper on Reinforcement Learning for Vehicle Routing has been accepted by [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/abstract/document/9478307).
+* 08 May 2021 - Two papers on multi-agent evaluation by alpha-rank and solving general sum stochastic games are accepted by ICML 2021.
+* 29 Apr 2021 - Our paper on reinforcement learning for causal discovery has been accepted by [IJCAI-21](https://ijcai-21.org).
 * 16 Jan 2021 - Our paper on reinforcement learning for multi-aspect recommendation has been accepted by [The Web Conference](https://www2021.thewebconf.org/).
 * 18 Dec 2020 - One paper on learning correlated communication topology for MARL has been accepted by [AAMAS 2021](https://aamas2021.soton.ac.uk/) (~~London~~ Online) as oral presentation.
 * 09 Dec 2020 - Invited to serve as the reviewer for ICML 2021.
