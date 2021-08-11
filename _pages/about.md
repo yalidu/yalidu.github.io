@@ -21,7 +21,7 @@ redirect_from:
  
 # Recent News
 
-* 07 Aug 2021 - Invited to serve at Senior PC for AAAI 2022.
+* 07 Aug 2021 - Invited to serve at Senior PC for [AAAI 2022]().
 * 10 Jul 2021 - Our paper on Reinforcement Learning for Vehicle Routing has been accepted by [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/abstract/document/9478307).
 * 08 May 2021 - Two papers on multi-agent evaluation by alpha-rank and solving general sum stochastic games are accepted by [ICML 2021]().
 * 29 Apr 2021 - Our paper on reinforcement learning for causal discovery has been accepted by [IJCAI-21](https://ijcai-21.org).
