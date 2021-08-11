@@ -20,7 +20,7 @@ redirect_from:
 * I am happy to host (remote) undergradaute / graduate visitors. If you are interested in working with me, please feel free to send me an email with your CV.
  
 # Recent News
-
+* 16 Aug 2021 - I will give a talk on RLChina summer school, [check schedule](https://mp.weixin.qq.com/s/Paru8_A2dxavNbO8v7OOFQ).  
 * 07 Aug 2021 - Invited to serve at Senior PC for [AAAI 2022]().
 * 10 Jul 2021 - Our paper on Reinforcement Learning for Vehicle Routing has been accepted by [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/abstract/document/9478307).
 * 08 May 2021 - Two papers on multi-agent evaluation by alpha-rank and solving general sum stochastic games are accepted by [ICML 2021]().
