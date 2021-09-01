@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-I am currently a postdoctoral research fellow at University College London working with [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/). 
+I am currently a Lecturer (Assistant Professor) in Artificial Intelligencee at [King's College London](https://www.kcl.ac.uk/). 
+Previously, I was a postdoctoral research fellow at Centre for AI, University College London working with [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/). 
 Previously, I received my PhD degree from University of Technology Sydney in 2019 supervised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en). 
 I am fortunate to have worked with [Prof. Tong Zhang](http://tongzhang-ml.org/), [Dr. Lei Han](https://leihan.org/) and [Dr. Ji Liu](http://jiliu-ml.org/).   
 

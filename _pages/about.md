@@ -15,7 +15,8 @@ redirect_from:
 
 # About Me
 
-* I am currently a Lecturer (Assistant Professor) in Artificial Intelligencee at [King's College London](https://www.kcl.ac.uk/). Previously I was a research fellow at [AI Centre](https://www.ucl.ac.uk/ai-centre/), [University College London](ucl.ac.uk). My research interest lies in machine learning, reinforcement learning and their applications to game AI, data science, and classic control problems.
+* I am currently a Lecturer (Assistant Professor) in Artificial Intelligencee at [King's College London](https://www.kcl.ac.uk/). 
+My research interest lies in machine learning, reinforcement learning and their applications to game AI, data science, and classic control problems.
 
 * I am happy to host (remote) undergradaute / graduate visitors. If you are interested in working with me, please feel free to send me an email with your CV.
  
