@@ -17,9 +17,9 @@ My research interest lies in machine learning, reinforcement learning and their 
 * I am happy to host (remote) undergradaute / graduate visitors. If you are interested in working with me, please feel free to send me an email with your CV.
 
 <i> <span style="color:red"> Hiring PhDs: </span>
-Multiple positions are available now in our group: PhD/M.S./Visiting Students. 
+** Multiple positions are available now in our group: PhD/M.S./Visiting Students. 
 We also support students/visitors with scholarships and grants, such as [CSC](https://www.kcl.ac.uk/study/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc). </i>
-
+**
 
 # Recent News
 * 16 Aug 2021 - Invited talk on RLChina summer school, [check schedule](https://mp.weixin.qq.com/s/Paru8_A2dxavNbO8v7OOFQ).
