@@ -7,11 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!--
-<p align="center">
-  <img src="https://yalidu.github.io/images/ydu.png?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
--->
+
 
 # About Me
 
@@ -19,7 +15,12 @@ redirect_from:
 My research interest lies in machine learning, reinforcement learning and their applications to game AI, data science, and classic control problems.
 
 * I am happy to host (remote) undergradaute / graduate visitors. If you are interested in working with me, please feel free to send me an email with your CV.
- 
+
+<i> Multiple positions are available now in our group: PhD/M.S./Visiting Students. 
+We also support students/visitors with scholarships and grants, such as [CSC](https://www.kcl.ac.uk/study/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc). </i>
+
+<span style="color:red">some *blue* text</span>
+
 # Recent News
 * 16 Aug 2021 - Invited talk on RLChina summer school, [check schedule](https://mp.weixin.qq.com/s/Paru8_A2dxavNbO8v7OOFQ).
 * 07 Aug 2021 - Invited to serve at Senior PC for [AAAI 2022]().
@@ -50,3 +51,9 @@ She is also fortunate to have worked with [Prof. Tong Zhang](http://tongzhang-ml
 
 
 --> 
+
+<!--
+<p align="center">
+  <img src="https://yalidu.github.io/images/ydu.png?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+-->
