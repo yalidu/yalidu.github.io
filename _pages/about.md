@@ -9,16 +9,14 @@ redirect_from:
 ---
 
 
-# About Me
-
-* I am currently a Lecturer (Assistant Professor) in Artificial Intelligencee at [King's College London](https://www.kcl.ac.uk/). 
+# About Me 
+I am currently a Lecturer (Assistant Professor) in Artificial Intelligencee at [King's College London](https://www.kcl.ac.uk/). 
 My research interest lies in machine learning, reinforcement learning and their applications to game AI, data science, and classic control problems.
 
-* I am happy to host (remote) undergradaute / graduate visitors. If you are interested in working with me, please feel free to send me an email with your CV.
 
-
-<span style="color:red"> Multiple positions are available now in our group: PhD/M.S./Visiting Students. 
-We also support students/visitors with scholarships and grants, such as [CSC](https://www.kcl.ac.uk/study/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc). </span>
+<span style="color:red"> 
+I am looking for PhD/M.S./Visiting students to work with me. Drop me an email if you are interested.
+</span>
 
 
 # Recent News
@@ -39,6 +37,9 @@ We also support students/visitors with scholarships and grants, such as [CSC](ht
 
 
 <!--
+
+* I am happy to host (remote) undergradaute / graduate visitors. Please feel free to send me an email with your CV.
+
 ## Contact 
 Email:  [yali\<dot\>dux\<at\>gmail.com](mailto:yali.dux@gmail.com)  <br>
 Address: Bush House, 30 Aldwych, WC2B 4BG 
@@ -57,4 +58,8 @@ Hiring PhDs:
 <p align="center">
   <img src="https://yalidu.github.io/images/ydu.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
+
+Multiple positions are available now in our group: PhD/M.S./Visiting Students. 
+We also support students/visitors with scholarships and grants, such as [CSC](https://www.kcl.ac.uk/study/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc). 
+
 -->
