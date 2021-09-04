@@ -15,7 +15,7 @@ My research interest lies in machine learning, reinforcement learning and their 
 
 
 <span style="color:red"> 
-I am looking for PhD/M.S./Visiting students to work with me. Drop me an email if you are interested.
+I am looking for PhD/M.S./Visiting students to work with me. Feel free to drop me an email if you are interested.
 </span>
 
 
