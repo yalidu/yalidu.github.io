@@ -36,13 +36,17 @@ My research interest lies in machine learning, reinforcement learning and their 
 * Mar 2020 - Invited to serve as the Reviewer for NeurIPS and IROS 2020.
 * Dec 2019 - Invited to serve as the PC of IJCAI, ICML 2020.
 
+
+<!--
 ## Contact 
 Email:  [yali\<dot\>dux\<at\>gmail.com](mailto:yali.dux@gmail.com)  <br>
 Address: Bush House, 30 Aldwych, WC2B 4BG 
 
-<!--
 Email: [yali.dux@gmail.com](mailto:yali.dux@gmail.com) 
 Email: [yali.du86@gmail.com](mailto:yali.du86@gmail.com) 
 
 * 7 Apr 2020 - Invited talk at [Department of Computer Science](http://www.bris.ac.uk/engineering/departments/computerscience/), University of Bristol
+She is also fortunate to have worked with [Prof. Tong Zhang](http://tongzhang-ml.org/), [Dr. Lei Han](https://leihan.org/) and [Dr. Ji Liu](http://jiliu-ml.org/).   
+
+
 --> 
