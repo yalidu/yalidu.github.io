@@ -6,14 +6,9 @@ author_profile: true
 ---
 <br>
 ([BibTex](https://github.com/yalidu/yalidu.github.io/blob/master/bibtex_ydu.bib) 
+| [Full list](https://scholar.google.com/citations?hl=en&user=WMlPkOoAAAAJ)
 | * equal contributions
 )
-
-## Preprints 
-* [Signal Instructed Coordination in Cooperative Multi-agent Reinforcement Learning]() <br>
-Liheng Chen, Hongyi Guo, **Yali Du**, Fei Fang, Haifeng Zhang, Yaoming Zhu, Ming Zhou, Weinan Zhang, Qing Wang, Yong Yu<br>
-<i> arXiv:1909.04224, 2019 </i> <br>
-[PDF](https://arxiv.org/abs/1909.04224) 
 
 ## Conferences
 
