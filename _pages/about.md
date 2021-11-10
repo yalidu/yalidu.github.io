@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me 
 I am currently a Lecturer (Assistant Professor) in Artificial Intelligence at [King's College London](https://www.kcl.ac.uk/). 
-My research interest lies in machine learning/reinforcement learning/multi-agent gaming and their applications to game AI, data science, etc.
+My research interest lies in machine learning/reinforcement learning/multi-agent gaming/evaluation and their applications to game AI, data science, etc.
 
 
 <span style="color:red"> 
@@ -19,8 +19,9 @@ I am looking for PhD/M.S./Visiting students to work with me. Feel free to drop m
 </span>
 
 # Recent News
+* 10 Nov 2021 - Invited to serve as Session Chair for [ACML 2021](http://acml-conf.org/2021/)
 * 16 Aug 2021 - Invited talk on RLChina summer school, [check schedule](https://mp.weixin.qq.com/s/Paru8_A2dxavNbO8v7OOFQ).
-* 07 Aug 2021 - Invited to serve at Senior PC for [AAAI 2022]().
+* 07 Aug 2021 - Invited to serve as Senior PC for [AAAI 2022]().
 * 10 Jul 2021 - Our paper on Reinforcement Learning for Vehicle Routing has been accepted by [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/abstract/document/9478307).
 * 08 May 2021 - Two papers on multi-agent evaluation by alpha-rank and solving general sum stochastic games are accepted by [ICML 2021]().
 * 29 Apr 2021 - Our paper on reinforcement learning for causal discovery has been accepted by [IJCAI-21](https://ijcai-21.org).
