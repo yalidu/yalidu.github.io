@@ -35,6 +35,9 @@ I am looking for PhD/M.S./Visiting students to work with me. Feel free to drop m
 * Mar 2020 - Invited to serve as the Reviewer for NeurIPS and IROS 2020.
 * Dec 2019 - Invited to serve as the PC of IJCAI, ICML 2020.
 
+## Contact 
+Email:  [yali\<dot\>dux\<at\>gmail.com](mailto:yali.dux@gmail.com)  <br>
+Address: Bush House, 30 Aldwych, WC2B 4BG 
 
 <!--
 
