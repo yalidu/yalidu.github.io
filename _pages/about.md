@@ -19,7 +19,7 @@ I am looking for PhD/M.S./Visiting students to work with me. Feel free to drop m
 </span>
 
 # Recent News
-* 10 Nov 2021 - Invited to serve as Session Chair for [ACML 2021](http://acml-conf.org/2021/)
+* 10 Nov 2021 - Invited to serve as Session Chair for [Reinforcement Learning](http://acml-conf.org/2021/conference/parallel-sessions/4b/) in  [Asian Conference on Machine Learning 2021](http://acml-conf.org/2021/)
 * 16 Aug 2021 - Invited talk on RLChina summer school, [check schedule](https://mp.weixin.qq.com/s/Paru8_A2dxavNbO8v7OOFQ).
 * 07 Aug 2021 - Invited to serve as Senior PC for [AAAI 2022]().
 * 10 Jul 2021 - Our paper on Reinforcement Learning for Vehicle Routing has been accepted by [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/abstract/document/9478307).
