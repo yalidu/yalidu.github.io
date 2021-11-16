@@ -14,12 +14,13 @@ She is also fortunate to have worked with [Prof. Tong Zhang](http://tongzhang-ml
 
 
 ## Services 
-### Conference (Program Committee and Reviewer)
-
-* International Conference on Machine Learning (ICML) 2020
-* International Joint Conference on Artificial Intelligence (IJCAI-PRICAI), 2020
-* AAAI Conference on Artificial Intelligence (AAAI), 2020
-* International Conference on Data Mining (ICDM), 2017
+### Conference 
+* Senior PC for AAAI 2022
+* Session Chair for ACML 2021
+* PC&Reviewer for 
+    * ICML (2020-2021); NeurIPS(2020-2021); ICLR(2021);
+    * IJCAI-PRICAI (2020); AAAI (2020-2021); 
+    * AAMAS(2022); theWebConf(2022); IROS (2020-2022); 
 
 
 ### Journal (Invited Reviewer)
@@ -29,3 +30,10 @@ She is also fortunate to have worked with [Prof. Tong Zhang](http://tongzhang-ml
 * Elsevier Pattern Recognition
 * Elsevier Journal of Information Sciences
 * Elsevier Neurocomputing
+
+<!--
+* International Conference on Machine Learning (ICML) 2020
+* International Joint Conference on Artificial Intelligence (IJCAI-PRICAI), 2020
+* AAAI Conference on Artificial Intelligence (AAAI), 2020
+* International Conference on Data Mining (ICDM), 2017
+-->
