@@ -44,7 +44,7 @@ I am looking for PhD/M.S./Visiting students to work with me. Feel free to drop m
 * Dec 2019 - Invited to serve as the PC of IJCAI, ICML 2020.
 
 ## Contact 
-Email:  [yali\<dot\>dux\<at\>gmail.com](mailto:yali.dux@gmail.com)  <br>
+Email:  [yali.dux\<at\>gmail.com](mailto:yali.dux@gmail.com)  <br>
 Address: Bush House, 30 Aldwych, WC2B 4BG 
 
 <!--
@@ -52,7 +52,7 @@ Address: Bush House, 30 Aldwych, WC2B 4BG
 * I am happy to host (remote) undergradaute / graduate visitors. Please feel free to send me an email with your CV.
 
 ## Contact 
-Email:  [yali\<dot\>dux\<at\>gmail.com](mailto:yali.dux@gmail.com)  <br>
+Email:  [yali.dux(at)gmail.com](mailto:yali.dux@gmail.com)  <br>
 Address: Bush House, 30 Aldwych, WC2B 4BG 
 
 Email: [yali.dux@gmail.com](mailto:yali.dux@gmail.com) 
