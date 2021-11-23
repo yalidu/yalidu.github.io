@@ -12,7 +12,7 @@ redirect_from:
 # About Me 
 
 I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/), affiliated to [Distributed Artificial Intelligence Group](https://www.kcl.ac.uk/research/dai).
-Prior to joining King's, I was a postdoc researcher at [Centre for AI, University College London](https://www.ucl.ac.uk/ai-centre/) working with [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/). 
+Prior to joining King's, I was a postdoc researcher at Centre for AI, [University College London](https://www.ucl.ac.uk/ai-centre/) working with [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/). 
 I received my PhD from University of Technology Sydney in 2019, advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en). 
 
 My research interest lies in machine learning and reinforcement learning, especially in the following topics
