@@ -16,10 +16,10 @@ Prior to joining King's, I was a postdoc researcher at [Centre for AI, Universit
 I received my PhD from University of Technology Sydney in 2019, advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en). 
 
 My research interest lies in machine learning and reinforcement learning, especially in the following topics
-* (multi-agent) reinforcement learning
+* (Multi-agent) Reinforcement learning
 * Policy evaluation 
-* socializing agents
-* game AI, data science.
+* Socializing agents
+* Game AI, data science.
 
 
 <span style="color:red"> 
