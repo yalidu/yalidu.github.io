@@ -10,8 +10,16 @@ redirect_from:
 
 
 # About Me 
-I am currently a Lecturer (Assistant Professor) in Artificial Intelligence at [King's College London](https://www.kcl.ac.uk/). 
-My research interest lies in machine learning/reinforcement learning/multi-agent gaming/evaluation and their applications to game AI, data science, etc.
+
+I am currently an Assistant Professor (UK Lecturer) in Artificial Intelligence at [King's College London](https://www.kcl.ac.uk/). 
+Prior to joining King's, I was a postdoc researcher at Centre for AI, University College London working with [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/). 
+I received my PhD from University of Technology Sydney in 2019, advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en). 
+
+My research interest lies in machine learning and reinforcement learning, especially in the following topics
+* (multi-agent) reinforcement learning
+* Policy evaluation 
+* socializing agents
+* game AI, data science.
 
 
 <span style="color:red"> 
@@ -75,4 +83,7 @@ Hiring PhDs:
 Multiple positions are available now in our group: PhD/M.S./Visiting Students. 
 We also support students/visitors with scholarships and grants, such as [CSC](https://www.kcl.ac.uk/study/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc). 
 
+I am currently a Lecturer (Assistant Professor) in Artificial Intelligence at [King's College London](https://www.kcl.ac.uk/). 
+
+machine learning/
 -->

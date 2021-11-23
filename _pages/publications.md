@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -9,6 +9,26 @@ author_profile: true
 | [Full list](https://scholar.google.com/citations?hl=en&user=WMlPkOoAAAAJ)
 | * equal contributions
 )
+
+## Journals
+
+* [ Reinforcement Learning with Multiple Relational Attention for Solving Vehicle Routing Problems
+]() <br>
+Yunqiu Xu, Meng Fang, Ling Chen, Gangyan Xu, **Yali Du**, Chengqi Zhang <br>
+<i> IEEE Transactions on Cybernetics (TCYB), 2021.  </i> <br>
+[PDF](https://ieeexplore.ieee.org/abstract/document/9478307)
+
+* [ Enhancing the Robustness of Neural Collaborative Filtering Systems Under Malicious Attacks]() <br>
+**Yali Du**, Meng Fang, Jinfeng Yi, Jun Cheng, Dacheng Tao <br>
+<i> IEEE Transactions on Multimedia (TMM), 2019.  </i> <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8576563)
+
+*  [Matrix Factorization for Collaborative Budget Allocation](). <br>
+**Yali Du**, Chang Xu, Dacheng Tao. <br>
+IEEE Transactions on Automation Science and Engineering (TASE), 2018. <br>
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8437150)
+
+
 
 ## Conferences
 
@@ -99,23 +119,5 @@ Artificial Intelligence and Security (AISec@CCS), 2018. </i> <br>
 **Yali Du**, Chang Xu, Dacheng Tao <br>
 <i>In International Joint Conference on Artificial Intelligence (IJCAI), 2017  </i> <br>
 [PDF](https://opus.lib.uts.edu.au/bitstream/10453/126336/4/ijcai17-Collaborative%20Rating%20Allocation.pdf)
-
-## Journals
-
-* [ Reinforcement Learning with Multiple Relational Attention for Solving Vehicle Routing Problems
-]() <br>
-Yunqiu Xu, Meng Fang, Ling Chen, Gangyan Xu, **Yali Du**, Chengqi Zhang <br>
-<i> IEEE Transactions on Cybernetics (TCYB), 2021.  </i> <br>
-[PDF](https://ieeexplore.ieee.org/abstract/document/9478307)
-
-* [ Enhancing the Robustness of Neural Collaborative Filtering Systems Under Malicious Attacks]() <br>
-**Yali Du**, Meng Fang, Jinfeng Yi, Jun Cheng, Dacheng Tao <br>
-<i> IEEE Transactions on Multimedia (TMM), 2019.  </i> <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8576563)
-
-*  [Matrix Factorization for Collaborative Budget Allocation](). <br>
-**Yali Du**, Chang Xu, Dacheng Tao. <br>
-IEEE Transactions on Automation Science and Engineering (TASE), 2018. <br>
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8437150)
 
 

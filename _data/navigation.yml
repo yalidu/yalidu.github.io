@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Bio"
-    url: /bio/
 
   - title: "Publications"
     url: /publications/
@@ -11,6 +9,9 @@ main:
 
  # - title: "Services"
  #   url: /services/
+  - title: "Services"
+    url: /bio/
+
 
   - title: "Demos"
     url: /portfolio/
