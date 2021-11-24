@@ -44,8 +44,10 @@ I am looking for PhD/M.S./Visiting students to work with me. Feel free to drop m
 * Dec 2019 - Invited to serve as the PC of IJCAI, ICML 2020.
 
 ## Contact 
-Email:  [yali.dux\<at\>gmail.com](mailto:yali.dux@gmail.com)  <br>
+Email:  [yali.dux"at"gmail.com](mailto:yali.dux@gmail.com)  <br>
 Address: Bush House, 30 Aldwych, WC2B 4BG 
+
+
 
 <!--
 
@@ -66,13 +68,11 @@ She is also fortunate to have worked with [Prof. Tong Zhang](http://tongzhang-ml
 
 <!--
 
-
 ## Preprints 
 * [Signal Instructed Coordination in Cooperative Multi-agent Reinforcement Learning]() <br>
 Liheng Chen, Hongyi Guo, **Yali Du**, Fei Fang, Haifeng Zhang, Yaoming Zhu, Ming Zhou, Weinan Zhang, Qing Wang, Yong Yu<br>
 <i> arXiv:1909.04224, 2019 </i> <br>
 [PDF](https://arxiv.org/abs/1909.04224) 
-
 
 
 Hiring PhDs: 
