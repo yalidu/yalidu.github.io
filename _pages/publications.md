@@ -32,6 +32,26 @@ IEEE Transactions on Automation Science and Engineering (TASE), 2018. <br>
 
 ## Conferences
 
+
+* [GCS: Graph-Based Coordination Strategy for Multi-AgentReinforcement Learning]() <br>
+Jingqing Ruan, **Yali Du**, Xuantang Xiong, Dengpeng Xing, Xiyun Li, Linghui Meng, Haifeng Zhang, Jun Wang, Bo Xu
+ <br>
+<i>  AAMAS 2022.  </i> <br>
+ [PDF(coming)](http://proceedings.mlr.press/v139/du21e/du21e.pdf)
+ |
+ [Code(coming)](https://github.com/yalidu/optEval)
+
+
+* [Learning to Identify Top Elo Ratings:
+A Dueling Bandits Approach]() <br>
+Xue Yan, **Yali Du**, Binxin Ru, Jun Wang, Haifeng Zhang, Xu Chen <br>
+<i>  AAAI 2022.  </i> <br>
+ [PDF(coming)](http://proceedings.mlr.press/v139/du21e/du21e.pdf)
+ |
+ [Code(coming)](https://github.com/yalidu/optEval)
+
+
+
 * [Estimating Alpha-Rank from A Few Entries with Low Rank Matrix Completion]() <br>
 **Yali Du**, Xue Yan, Xu Chen, Jun Wang, Haifenng Zhang <br>
 <i>  International Conference on Machine Learning (ICML), 2021.  </i> <br>
