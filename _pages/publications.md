@@ -32,7 +32,12 @@ IEEE Transactions on Automation Science and Engineering (TASE), 2018. <br>
 
 ## Conferences
 
-
+* [ How to train your agent: Active learning from human preferences and justifications in safety-critical environments]() <br>
+Ilias Kazantzidis, Yali Du, Christopher Freeman, and Tim Norman.
+ <br>
+<i>  AAMAS 2022. (Extended Abstract) </i> <br>
+ [PDF(coming)](http://proceedings.mlr.press/v139/du21e/du21e.pdf)
+ 
 * [GCS: Graph-Based Coordination Strategy for Multi-AgentReinforcement Learning]() <br>
 Jingqing Ruan, **Yali Du**, Xuantang Xiong, Dengpeng Xing, Xiyun Li, Linghui Meng, Haifeng Zhang, Jun Wang, Bo Xu
  <br>
