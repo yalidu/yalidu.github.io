@@ -27,8 +27,8 @@ I am looking for PhD/M.S./Visiting students to work with me. Feel free to drop m
 </span>
 
 # Recent News
-* 21 Jan 2022 - Our paper on improving goal-conditioned supervised learning (GCSL) has been accepted by [ICLR 2022](https://openreview.net/pdf?id=KJztlfGPdwW).
-* 10 Dec 2022 - One paper got accepted by AAMAS 2022. We propose a [graph coordination strategy (GCS)](https://arxiv.org/abs/2201.06257) that learns the coordination structure among agent and coordinated strategy upon that.    
+* 21 Jan 2022 - Our paper on [offline goal-conditioned reinforcement learning](https://openreview.net/pdf?id=KJztlfGPdwW) has been accepted by [ICLR 2022](https://openreview.net/pdf?id=KJztlfGPdwW).
+* 10 Dec 2022 - One paper got accepted by [AAMAS 2022](https://arxiv.org/abs/2201.06257). We propose to coordinate agents' behaviours based on directed acyclic graphs (DAGs).    
 * 10 Nov 2021 - Invited to serve as Session Chair for [Reinforcement Learning](http://acml-conf.org/2021/conference/parallel-sessions/4b/) in  [Asian Conference on Machine Learning 2021](http://acml-conf.org/2021/)
 * 16 Aug 2021 - Invited talk on RLChina summer school, [check schedule](https://mp.weixin.qq.com/s/Paru8_A2dxavNbO8v7OOFQ).
 * 07 Aug 2021 - Invited to serve as Senior PC for [AAAI 2022]().
