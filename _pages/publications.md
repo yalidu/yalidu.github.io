@@ -12,6 +12,12 @@ author_profile: true
 
 ## Journals
 
+* [Diversity-augmented intrinsic motivation for deep reinforcement learning]() <br>
+Tianhong Dai, **Yali Du**, Meng Fang, Anil Anthony Bharath <br>
+<i> In Neurocomputing 2022 </i><br>
+[code](https://github.com/TianhongDai/daim-rl)
+
+
 * [ Reinforcement Learning with Multiple Relational Attention for Solving Vehicle Routing Problems
 ]() <br>
 Yunqiu Xu, Meng Fang, Ling Chen, Gangyan Xu, **Yali Du**, Chengqi Zhang <br>
@@ -32,45 +38,47 @@ IEEE Transactions on Automation Science and Engineering (TASE), 2018. <br>
 
 ## Conferences
 
-* [ How to train your agent: Active learning from human preferences and justifications in safety-critical environments]() <br>
-Ilias Kazantzidis, Yali Du, Christopher Freeman, and Tim Norman.
+
+* [Rethinking Goal-Conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/pdf?id=KJztlfGPdwW) <br>
+Rui Yang, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, **Yali Du**, Xiu Li, Lei Han, Chongjie Zhang
  <br>
-<i>  AAMAS 2022. (Extended Abstract) </i> <br>
- [PDF(coming)](http://proceedings.mlr.press/v139/du21e/du21e.pdf)
+<i>  ICLR 2022. </i> <br>
+ [Code](https://anonymous.4open.science/r/WGCSL-527C/README.md)
  
-* [GCS: Graph-Based Coordination Strategy for Multi-AgentReinforcement Learning]() <br>
+* [ How to train your agent: Active learning from human preferences and justifications in safety-critical environments]() <br>
+Ilias Kazantzidis, Tim Norman, **Yali Du**, Christopher Freeman.
+ <br>
+<i>  AAMAS 2022. </i> <br>
+ 
+* [GCS: Graph-Based Coordination Strategy for Multi-AgentReinforcement Learning](https://arxiv.org/abs/2201.06257) <br>
 Jingqing Ruan, **Yali Du**, Xuantang Xiong, Dengpeng Xing, Xiyun Li, Linghui Meng, Haifeng Zhang, Jun Wang, Bo Xu
  <br>
 <i>  AAMAS 2022.  </i> <br>
- [PDF(coming)](http://proceedings.mlr.press/v139/du21e/du21e.pdf)
- |
- [Code(coming)](https://github.com/yalidu/optEval)
-
+ [Code](https://github.com/Amanda-1997/GCS_aamas337)
 
 * [Learning to Identify Top Elo Ratings:
-A Dueling Bandits Approach]() <br>
+A Dueling Bandits Approach](https://arxiv.org/abs/2201.04480) <br>
 Xue Yan, **Yali Du**, Binxin Ru, Jun Wang, Haifeng Zhang, Xu Chen <br>
 <i>  AAAI 2022.  </i> <br>
- [PDF(coming)](http://proceedings.mlr.press/v139/du21e/du21e.pdf)
- |
- [Code(coming)](https://github.com/yalidu/optEval)
+ [Code](https://github.com/yanxue7/MaxIn-Elo)
 
 
+* [Generalization in Text-based Games via Hierarchical Reinforcement Learning](https://arxiv.org/pdf/2109.09968.pdf)<br>
+Yunqiu Xu, Meng Fang, Ling Chen, Yali Du, Chengqi Zhang <br>
+<i>In EMNLP 2021 (Findings) </i> <br>
+[code](https://github.com/YunqiuXu/H-KGA)
 
-* [Estimating Alpha-Rank from A Few Entries with Low Rank Matrix Completion]() <br>
+* [Estimating Alpha-Rank from A Few Entries with Low Rank Matrix Completion](http://proceedings.mlr.press/v139/du21e/du21e.pdf) <br>
 **Yali Du**, Xue Yan, Xu Chen, Jun Wang, Haifenng Zhang <br>
 <i>  International Conference on Machine Learning (ICML), 2021.  </i> <br>
- [PDF](http://proceedings.mlr.press/v139/du21e/du21e.pdf)
- |
- [Code](https://github.com/yalidu/optEval)
+[Code](https://github.com/yalidu/optEval)
 
-* [Learning in Nonzero-Sum Stochastic Games with Potentials]() <br>
+* [Learning in Nonzero-Sum Stochastic Games with Potentials](https://arxiv.org/pdf/2103.09284.pdf) <br>
 David Mguni, Yutong Wu, **Yali Du**, Yaodong Yang, Ziyi Wang, Minne Li, Ying Wen, Joel Jennings, Jun Wang <br>
 <i>  International Conference on Machine Learning (ICML), 2021.  </i> <br>
- [PDF](https://arxiv.org/pdf/2103.09284.pdf)
 
 
-* [Ordering-Based Causal Discovery with Reinforcement Learning]() <br>
+* [Ordering-Based Causal Discovery with Reinforcement Learning](https://arxiv.org/abs/2105.06631) <br>
 Xiaoqiang Wang,
 **Yali Du**,
 Shengyu Zhu,
@@ -79,31 +87,25 @@ Zhitang Chen,
 Jianye Hao,
 Jun Wang  <br>
 <i> 30th International Joint Conference on Artificial Intelligence (IJCAI-21) </i> <br> 
-[PDF](https://arxiv.org/abs/2105.06631)
-|
 [Code](https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle)
 
 
-* [Reinforcement Recommendation with User Multi-aspect Preference]() <br>
+* [Reinforcement Recommendation with User Multi-aspect Preference](https://dl.acm.org/doi/abs/10.1145/3442381.3449846) <br>
 Xu Chen, **Yali Du**, Long Xia,  Jun Wang <br>
 <i> 30th The Web Conference (TheWebConf), 2021.  </i> <br>
- [PDF](https://drive.google.com/file/d/1sgF6G6I2fhOwCGNS3Tfwc12C1y01B2VC/view?usp=sharing)
 
-* [Learning Correlated Communication Topology in Multi-Agent Reinforcement learning]() <br>
+* [Learning Correlated Communication Topology in Multi-Agent Reinforcement learning](http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p456.pdf) <br>
 **Yali Du**,  Bo Liu, Vincent Moens, Ziqi Liu,  Zhicheng Ren,  Jun Wang, Xu Chen, Haifeng Zhang <br>
 <i> International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2021.  </i> <br>
- [PDF](http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p456.pdf)
 
-* [Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-based Games]() <br>
+* [Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-based Games](https://arxiv.org/abs/2010.11655) <br>
 Yunqiu Xu<sup>*</sup>, Meng Fang<sup>*</sup>, Ling Chen, **Yali Du**, Joey Tianyi Zhou, Chengqi Zhang <br>
 <i> Annual Conference on Neural Information Processing Systems (NeurIPS), 2020.  </i> <br>
- [PDF](https://arxiv.org/abs/2010.11655)
-| [Code](https://github.com/YunqiuXu/SHA-KG)
+[Code](https://github.com/YunqiuXu/SHA-KG)
 
-* [Learning Multi-Agent Communication with Policy Fingerprints for Adaptive Traffic Signal Control]() <br>
+* [Learning Multi-Agent Communication with Policy Fingerprints for Adaptive Traffic Signal Control](https://ieeexplore.ieee.org/document/9216981) <br>
 Yifan Zhao, Gangyan Xu, **Yali Du**, Meng Fang <br>
 <i> IEEE 16th International Conference on Automation Science and Engineering (CASE), 2020 </i> <br>
- [PDF](https://ieeexplore.ieee.org/document/9216981)
  
 * [LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning]() <br>
 **Yali Du**, Lei Han, Meng Fang, Tianhong Dai, Ji Liu, Dacheng Tao<br>
