@@ -10,4 +10,4 @@ location: "London, UK"
 
 6CCS3OME: Optimisation Methods
 
-An introduction to discrete and continuous optimisation methods, especially convex optimisation.  
+An introduction to discrete and continuous optimisation methods.  
