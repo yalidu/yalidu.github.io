@@ -23,10 +23,15 @@ My research interest lies in machine learning and reinforcement learning, especi
 
 
 <span style="color:red"> 
+Oxford Machine Learning Summer School(https://www.oxfordml.school/) is looking for attendants. Apply [here](https://www.oxfordml.school/). 
+</span>
+
+<span style="color:red"> 
 I am looking for PhD/M.S./Visiting students to work with me. Feel free to drop me an email if you are interested.
 </span>
 
 # Recent News
+* 08 Mar 2022 - Invited to give a tutorial at [Oxford Machine Learning Summer School](https://www.oxfordml.school/). This is a three-hour tutorial on optimisation for machine learning. Welcome to join! 
 * 21 Jan 2022 - Our paper on [offline goal-conditioned reinforcement learning](https://openreview.net/pdf?id=KJztlfGPdwW) has been accepted by [ICLR 2022](https://openreview.net/pdf?id=KJztlfGPdwW).
 * 10 Dec 2022 - One paper got accepted by [AAMAS 2022](https://arxiv.org/abs/2201.06257). We propose to coordinate agents' behaviours based on directed acyclic graphs (DAGs).    
 * 10 Nov 2021 - Invited to serve as Session Chair for [Reinforcement Learning](http://acml-conf.org/2021/conference/parallel-sessions/4b/) in  [Asian Conference on Machine Learning 2021](http://acml-conf.org/2021/)
