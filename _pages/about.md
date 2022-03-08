@@ -20,8 +20,7 @@ My research interest lies in machine learning and reinforcement learning, especi
 I am looking for PhD students to work with me. Feel free to drop me an email if you are interested.
 </span>
 
-:loudspeaker:
-:loudspeaker: <span style="color:red"> 
+<span style="color:red"> 
  Oxford Machine Learning Summer School is looking for attendants. Apply [here](https://www.oxfordml.school/). 
 </span>
 
