@@ -22,7 +22,7 @@ I am looking for PhD students to work with me. Feel free to drop me an email if 
 
 
 <span style="color:red"> 
-Oxford Machine Learning Summer School is looking for attendants. Apply [here](https://www.oxfordml.school/). 
+:loudspeaker: Oxford Machine Learning Summer School is looking for attendants. Apply [here](https://www.oxfordml.school/). 
 </span>
 
 
