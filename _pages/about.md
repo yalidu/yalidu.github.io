@@ -15,20 +15,16 @@ I am currently an Assistant Professor (UK Lecturer) at [King's College London](h
 Prior to joining King's, I was a postdoc researcher at Centre for AI, [University College London](https://www.ucl.ac.uk/ai-centre/) working with [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/). 
 I received my PhD from University of Technology Sydney in 2019, advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en). 
 
-My research interest lies in machine learning and reinforcement learning, especially in the following topics
-* (Multi-agent) Reinforcement learning
-* Policy evaluation 
-* Socializing agents
-* Game AI, data science.
+My research interest lies in machine learning and reinforcement learning, especially in the topics of multi-agent learning, policy evaluation, social agents, and applications to Game AI and data science.
+<span style="color:red"> 
+I am looking for PhD students to work with me. Feel free to drop me an email if you are interested.
+</span>
 
 
 <span style="color:red"> 
-Oxford Machine Learning Summer School(https://www.oxfordml.school/) is looking for attendants. Apply [here](https://www.oxfordml.school/). 
+Oxford Machine Learning Summer School is looking for attendants. Apply [here](https://www.oxfordml.school/). 
 </span>
 
-<span style="color:red"> 
-I am looking for PhD/M.S./Visiting students to work with me. Feel free to drop me an email if you are interested.
-</span>
 
 # Recent News
 * 08 Mar 2022 - Invited to give a tutorial at [Oxford Machine Learning Summer School](https://www.oxfordml.school/). This is a three-hour tutorial on optimisation for machine learning. Welcome to join! 
