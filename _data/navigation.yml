@@ -13,7 +13,7 @@ main:
  # - title: "Services"
  #   url: /services/
   - title: "Services"
-    url: /bio/
+    url: /services/
 
   - title: "Openings"
     url: /opening/

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Services"
+title: "Openings"
 permalink: /opening/
 author_profile: true
 ---
