@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "People"
+    url: /publications/
+
   - title: "Publications"
     url: /publications/
 
@@ -12,6 +15,8 @@ main:
   - title: "Services"
     url: /bio/
 
+  - title: "Openings"
+    url: /bio/
 
   - title: "Demos"
     url: /portfolio/
