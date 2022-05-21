@@ -7,7 +7,14 @@ author_profile: true
 
 
 I am always looking for PhD students and postdocs to work with me on reinforcement learning and multi-agent learning.
-Topics of interest include multi-agent cooperation/coordination, policy generalization/evaluation, social aspects of learning agents (e.g. explainability, ethics, fairness),and industrial applications. We, the Multi-agent Learning Group, provide a collaborative, open and inclusive environment for research and learning.
+Topics of interest include 
+* Multi-Agent Cooperation and Coordination
+* Reinforcement Learning and Generalisation
+* Evaluation of Human and AI players
+* Social Aspects of Learning Agents (e.g. explainability, ethics, fairness),
+* Applications in Game AI, Data Science, etc. 
+
+We, the Multi-agent Learning Group, provide a collaborative, open and inclusive environment for research and learning.
 If you are interested in joining us, please consider the options below.
 * [PhD](#phd-positions)
 * [PostDocs and Research Fellows](#postdoc-and-research-fellow-positions)
@@ -38,3 +45,10 @@ However, here are some potential funding opportunities for postdoc fellowships:
 ## Internships and Visiting Positions
 Students can apply through the [Visiting research students](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)
 programme at King's.
+
+
+<!--
+
+multi-agent cooperation/coordination, policy generalization/evaluation, social aspects of learning agents (e.g. explainability, ethics, fairness),and industrial applications. 
+
+-->

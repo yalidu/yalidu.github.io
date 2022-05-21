@@ -88,4 +88,6 @@ We also support students/visitors with scholarships and grants, such as [CSC](ht
 I am currently a Lecturer (Assistant Professor) in Artificial Intelligence at [King's College London](https://www.kcl.ac.uk/). 
 
 machine learning/
+multi-agent cooperation/coordination, policy generalization/evaluation, social aspects of learning agents (e.g. explainability, ethics, fairness),and industrial applications. 
+
 -->
