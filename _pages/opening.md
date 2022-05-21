@@ -5,33 +5,30 @@ permalink: /opening/
 author_profile: true
 ---
 
-If you are interested in joining us, please consider the options below.
 
+I am always looking for PhD students and postdocs to work with me on reinforcement learning and multi-agent learning. Topics interested include multi-agent cooperation/coordination, policy generalization/evaluation, social aspects of learning agents (e.g. explainability, etihcs, fairness),and industrial applications. We, the Multi-agent Learning Group, provide a collaborative, open and inclusive environment for research and learning.
+If you are interested in joining us, please consider the options below.
 * [PhD](#phd-positions)
 * [Post-Docs and Research Fellows](#post-doc-and-research-fellow-positions)
-* Internships and Visiting Positions
+* [Internships and Visiting Positions](#internships-and-visiting-positions)
 
 ## PhD Positions
-MPhil/PhD Computer Science Research at King's
-https://www.kcl.ac.uk/informatics/postgraduate/research-degrees
-
+Information about MPhil/PhD Computer Science Research at King's, [click here](https://www.kcl.ac.uk/informatics/postgraduate/research-degrees)
 
 ### Funding opportunities
-[Safe and Trusted AI CDT](https://safeandtrustedai.org/)
-
-[Informatics PhD Funding in the Department](https://www.kcl.ac.uk/informatics/postgraduate/research-degrees#)
-
-[King’s International PhD Scholarships](https://www.kcl.ac.uk/research/funding-opportunities/doctoral-research-opportunities/international-scholarships)
-
-For students from China: [King’s-China Scholarship Council PhD Scholarship programme (K-CSC)](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) 
-
-For [international student from overseas countries](https://www.kcl.ac.uk/study-legacy/postgraduate/fees-and-funding/student-funding/postgraduate-research-funding/international-student-research-funding) (including the USA, developing Commonwealth countries, Indonesia,  Mexico, etc.)
-
+* For home and international students, [Safe and Trusted AI CDT](https://safeandtrustedai.org/)
+* For home and international students,[Informatics PhD Funding in the Department](https://www.kcl.ac.uk/informatics/postgraduate/research-degrees#)
+* For International students, [King’s International PhD Scholarships](https://www.kcl.ac.uk/research/funding-opportunities/doctoral-research-opportunities/international-scholarships)
+* For students from China: [King’s-China Scholarship Council PhD Scholarship programme (K-CSC)](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) 
+* For students from Commonwealth Countries,[Commonwealth Scholarship](https://www.kcl.ac.uk/study-legacy/postgraduate/fees-and-funding/student-funding/postgraduate-research-funding/international-student-research-funding) (including the USA, developing Commonwealth countries, Indonesia,  Mexico, etc.)
 
 ## Post-doc and Research Fellow Positions
 We welcome applications by post-doc and research fellows. 
-Unfortunately, we do not have funding available at this time. However, if you want to propose a collaboration based on an externally-funded post-doctoral scholarship, please get in touch. Here are some potential funding opportunities:
-
+We do not have funding available at this time. 
+However, here are some potential funding opportunities for postdoc fellowships:
+* Marie Curie
+* Royal Academy of Engineering
+* Royal Society
 
 ## Internships and Visiting Positions
 Students can apply through the [Visiting research students](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)

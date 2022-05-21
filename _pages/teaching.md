@@ -4,11 +4,6 @@ title: "Teaching & Talks"
 permalink: /teaching/
 author_profile: true
 ---
-<br>
-([BibTex](https://github.com/yalidu/yalidu.github.io/blob/master/bibtex_ydu.bib) 
-| [Full list](https://scholar.google.com/citations?hl=en&user=WMlPkOoAAAAJ)
-| * equal contributions
-)
 
 ## Teaching
 

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Group"
+title: "Multi-Agent Learning Group"
 permalink: /people/
 author_profile: true
 ---
@@ -20,4 +20,4 @@ author_profile: true
 
 ### Master Students
 
-### Intern
+### Interns
