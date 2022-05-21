@@ -2,7 +2,7 @@
 main:
 
   - title: "People"
-    url: /ydu_people/
+    url: /people/
 
   - title: "Publications"
     url: /publications/
