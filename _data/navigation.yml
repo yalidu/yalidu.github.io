@@ -16,7 +16,7 @@ main:
     url: /bio/
 
   - title: "Openings"
-    url: /bio/
+    url: /opening/
 
   - title: "Demos"
     url: /portfolio/
