@@ -36,10 +36,8 @@ Exemplars include:
 
 ## Postdoc and Research Fellow Positions
 We welcome applications by postdoc and research fellows.
-We do not have funding available at this time.
-However, here are some potential funding opportunities for postdoc fellowships:
-* Marie Curie
-* Royal Academy of Engineering
+Here are some potential funding opportunities for postdoc fellowships:
+* [Fellowship opportunities](https://www.kcl.ac.uk/research/funding-opportunities/fellowships-for-early-career-researchers) at King's College London
 * For Chinese citizens, CSC-funded [Postdoc Programme]( https://www.csc.edu.cn/chuguo)
 
 ## Internships and Visiting Positions
@@ -50,5 +48,6 @@ programme at King's.
 <!--
 
 multi-agent cooperation/coordination, policy generalization/evaluation, social aspects of learning agents (e.g. explainability, ethics, fairness),and industrial applications. 
+We do not have funding available at this time.
 
 -->
