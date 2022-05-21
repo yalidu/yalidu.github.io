@@ -11,6 +11,10 @@ If you are interested in joining us, please consider the options below:
 * Post-Docs and Research Fellows
 * Internships
 
+
+Unfortunately, we cannot offer internships.
+
+
 <!--
 
 Dr. Yali Du is currently a Lecturer (Assistant Professor) in Artificial Intelligencee at [King's College London](https://www.kcl.ac.uk/). 
