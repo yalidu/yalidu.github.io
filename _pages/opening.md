@@ -11,7 +11,7 @@ Topics of interest include
 * Multi-Agent Cooperation and Coordination
 * Reinforcement Learning and Generalisation
 * Evaluation of Human and AI players
-* Social Aspects of Learning Agents (e.g. explainability, ethics, fairness),
+* Social Aspects of Learning Agents (e.g. explainability, human-in-the-loop learning, ethics),
 * Applications in Game AI, Data Science, etc. 
 
 We, the Multi-agent Learning Group, provide a collaborative, open and inclusive environment for research and learning.
@@ -40,7 +40,7 @@ We do not have funding available at this time.
 However, here are some potential funding opportunities for postdoc fellowships:
 * Marie Curie
 * Royal Academy of Engineering
-* Royal Society
+* For Chinese citizens, CSC-funded [Postdoc Programme]( https://www.csc.edu.cn/chuguo)
 
 ## Internships and Visiting Positions
 Students can apply through the [Visiting research students](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students)
