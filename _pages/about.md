@@ -16,8 +16,10 @@ Prior to joining King's, I was a postdoc researcher at Centre for AI, [Universit
 I received my PhD from University of Technology Sydney in 2019, advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en).
 My research interest lies in machine learning and reinforcement learning, especially in the topics of multi-agent learning, policy evaluation, social agents, and applications to Game AI and data science.
 
-* I am actively looking for PhD students and postdocs to work with me. Check [Openings](opening.md) for funding opportunities and topics of interest. Please drop me an email with your CV and interest.
+* I am actively looking for [PhD students and postdocs](opening.md) to work with me. Check [Openings](opening.md) for funding opportunities and topics of interest. Please drop me an email with your CV and interest.
 * I am happy to host (remote) undergraduate / graduate visitors and supervise summer research projects. Please drop me an email with your CV and interest.
+* For [Master's and undergrad’s project]() at [King’s](), please contact me beforehand to discuss the project topics.
+
 
 
 # Recent News
