@@ -18,8 +18,7 @@ My research interest lies in machine learning and reinforcement learning, especi
 
 * I am actively looking for [PhD students](opening.md) and [postdocs](opening.md) to work with me. Check [Openings](opening.md) for funding opportunities and topics of interest. Please drop me an email with your CV and interest.
 * I am happy to host (remote) undergraduate / graduate visitors and supervise summer research projects. Please drop me an email with your CV and interest.
-* For [Master's]() and [undergrad’s project]() at [King’s](), please contact me beforehand to discuss the project topics.
-
+* For [Master's]() and [undergrad’s project]() at [King’s](), please contact me before putting me forward as the supervisor.
 
 
 # Recent News
