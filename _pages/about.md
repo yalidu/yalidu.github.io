@@ -21,7 +21,12 @@ My research interest lies in machine learning and reinforcement learning, especi
 * For [Master's]() and [undergrad’s project]() at [King’s](), please contact me before putting me forward as the supervisor.
 
 
-# Recent News
+# Recent 
+*  1 Sep 2022 - we are organizing the 1st International Workshop on Safe Reinforcement
+Learning Theory and its Applications at 2022 IEEE International Conference on
+Multisensor Fusion and Integration (20-22 Sep). [Registration Deadline: Sep 1, 2022](http://saferl.online/2022/)
+* 17 Aug 2022 - I am giving a talk on "Decision Structure in Decentralized Multi-Agent Learning" at International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW) 2022.
+* 30 Jun 2022 - One paper on "Scalable model-based policy optimization for decentralized networked systems" has been accepted by  2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 * 08 Mar 2022 - Invited to give a tutorial at [Oxford Machine Learning Summer School](https://www.oxfordml.school/). This is a three-hour tutorial on optimisation for machine learning. Welcome to join!
 * 21 Jan 2022 - Our paper on [offline goal-conditioned reinforcement learning](https://openreview.net/pdf?id=KJztlfGPdwW) has been accepted by [ICLR 2022](https://openreview.net/pdf?id=KJztlfGPdwW).
 * 10 Dec 2022 - One paper got accepted by [AAMAS 2022](https://arxiv.org/abs/2201.06257). We propose to coordinate agents' behaviors based on directed acyclic graphs (DAGs).   

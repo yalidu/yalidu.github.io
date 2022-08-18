@@ -20,6 +20,8 @@ If you are interested in joining us, please consider the options below.
 * [PostDocs and Research Fellows](#postdoc-and-research-fellow-positions)
 * [Internships and Visiting Positions](#internships-and-visiting-positions)
 
+**King’s College London (KCL)** is ranked 31st in the 2019 QS world universities ranking and was ranked sixth nationally in the “power” ranking in the 2014 REF. The Department of Informatics was placed in the top 10 of computer science and informatics departments in the UK, when measured by the power ranking, with 92% of its research output rated as world-leading or internationally excellent. 
+
 ## PhD Positions
 Information about MPhil/PhD Computer Science Research at King's, [click here](https://www.kcl.ac.uk/informatics/postgraduate/research-degrees)
 

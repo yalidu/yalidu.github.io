@@ -33,6 +33,13 @@ IEEE Transactions on Automation Science and Engineering (TASE), 2018. <br>
 
 
 ## Conferences
+* [ Scalable model-based policy optimization for decentralized networked systems. ](https://arxiv.org/abs/2207.06559) <br>
+ Yali Du, Chengdong Ma, Yuchen Liu, Runji Lin, Hao Dong, Jun Wang, and Yaodong Yang. 
+ <br>
+<i> In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), pages 1–8. IEEE.
+ 2022 </i> <br>
+[code](https://github.com/PKU-MARL/Model-Based-MARL)
+
 
 * [Perceiving the World: Question-guided Reinforcement Learning for Text-based Games]() <br>
 Yunqiu Xu, Meng Fang, Ling Chen, Yali Du, Joey Tianyi Zhou, Chengqi Zhang <br>

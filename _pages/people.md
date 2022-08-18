@@ -11,7 +11,7 @@ author_profile: true
 * Usman Islam (Incoming 2022-, )
 * [Stefan Roesch](https://www.linkedin.com/in/stefan-roesch-950a5b205/?originalSubdomain=uk) (Incoming 2022-, )
 * [Ziyan Wang](https://www.linkedin.com/in/ziyan-jeffery-wang-b28407143/) (Incoming 2022-, )
-* [Ming Zhou](https://www.mingzak.com/) (Incoming 2022-, visiting PhD)
+* [Jiarui Jin](https://scholar.google.com/citations?user=unCPHQEAAAAJ&hl=en) (Aug 2022-, visiting PhD)
 * Xingzhou Lou (Incoming 2022-, visiting PhD)
 * [Xue Yan](http://marl.ia.ac.cn/yanxue.html) (2021-, co-advise with [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/))
 * [Qirui Mi](http://marl.ia.ac.cn/miqirui.html) (2021-, co-advise with [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/))
