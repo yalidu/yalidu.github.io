@@ -10,26 +10,6 @@ author_profile: true
 | * equal contributions
 )
 
-## Journals
-
-* [Diversity-augmented intrinsic motivation for deep reinforcement learning]() <br>
-Tianhong Dai, **Yali Du**, Meng Fang, Anil Anthony Bharath <br>
-<i> In Neurocomputing 2022 </i><br>
-[Code](https://github.com/TianhongDai/daim-rl)
-
-
-* [ Reinforcement Learning with Multiple Relational Attention for Solving Vehicle Routing Problems
-](https://ieeexplore.ieee.org/abstract/document/9478307) <br>
-Yunqiu Xu, Meng Fang, Ling Chen, Gangyan Xu, **Yali Du**, Chengqi Zhang <br>
-<i> IEEE Transactions on Cybernetics (TCYB), 2021.  </i> <br>
-
-* [ Enhancing the Robustness of Neural Collaborative Filtering Systems Under Malicious Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8576563) <br>
-**Yali Du**, Meng Fang, Jinfeng Yi, Jun Cheng, Dacheng Tao <br>
-<i> IEEE Transactions on Multimedia (TMM), 2019.  </i> <br>
-
-*  [Matrix Factorization for Collaborative Budget Allocation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8437150). <br>
-**Yali Du**, Chang Xu, Dacheng Tao. <br>
-IEEE Transactions on Automation Science and Engineering (TASE), 2018. <br>
 
 
 ## Conferences
@@ -44,7 +24,7 @@ IEEE Transactions on Automation Science and Engineering (TASE), 2018. <br>
 * [Perceiving the World: Question-guided Reinforcement Learning for Text-based Games]() <br>
 Yunqiu Xu, Meng Fang, Ling Chen, Yali Du, Joey Tianyi Zhou, Chengqi Zhang <br>
 <i> In ACL 2022 </i> <br>
-[code(coming)]()
+[code](https://github.com/YunqiuXu/QWA)
 
 * [Rethinking Goal-Conditioned Supervised Learning and Its Connection to Offline RL](https://openreview.net/pdf?id=KJztlfGPdwW) <br>
 Rui Yang, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, **Yali Du**, Xiu Li, Lei Han, Chongjie Zhang
@@ -147,3 +127,26 @@ Artificial Intelligence and Security (AISec@CCS), 2018. </i> <br>
 * [Collaborative Rating Allocation](https://opus.lib.uts.edu.au/bitstream/10453/126336/4/ijcai17-Collaborative%20Rating%20Allocation.pdf) <br>
 **Yali Du**, Chang Xu, Dacheng Tao <br>
 <i>In International Joint Conference on Artificial Intelligence (IJCAI), 2017  </i> <br>
+
+
+
+## Journals
+
+* [Diversity-augmented intrinsic motivation for deep reinforcement learning]() <br>
+Tianhong Dai, **Yali Du**, Meng Fang, Anil Anthony Bharath <br>
+<i> In Neurocomputing 2022 </i><br>
+[Code](https://github.com/TianhongDai/daim-rl)
+
+
+* [ Reinforcement Learning with Multiple Relational Attention for Solving Vehicle Routing Problems
+](https://ieeexplore.ieee.org/abstract/document/9478307) <br>
+Yunqiu Xu, Meng Fang, Ling Chen, Gangyan Xu, **Yali Du**, Chengqi Zhang <br>
+<i> IEEE Transactions on Cybernetics (TCYB), 2021.  </i> <br>
+
+* [ Enhancing the Robustness of Neural Collaborative Filtering Systems Under Malicious Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8576563) <br>
+**Yali Du**, Meng Fang, Jinfeng Yi, Jun Cheng, Dacheng Tao <br>
+<i> IEEE Transactions on Multimedia (TMM), 2019.  </i> <br>
+
+*  [Matrix Factorization for Collaborative Budget Allocation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8437150). <br>
+**Yali Du**, Chang Xu, Dacheng Tao. <br>
+IEEE Transactions on Automation Science and Engineering (TASE), 2018. <br>
