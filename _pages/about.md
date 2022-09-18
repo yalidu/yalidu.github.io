@@ -21,7 +21,7 @@ My research interest lies in machine learning and reinforcement learning, especi
 * For [Master's]() and [undergrad’s project]() at [King’s](), please contact me before putting me forward as the supervisor.
 
 <span style="color:red">
-I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML 2022](https://www.acml-conf.org/2022/cfp.html)， together with [Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
+I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 at Hyderabad, India， together with [Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
 </span>
 
 
