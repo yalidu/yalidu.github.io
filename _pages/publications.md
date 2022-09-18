@@ -13,6 +13,15 @@ author_profile: true
 
 
 ## Conferences
+
+* [ Meta-Reward-Net: Implicitly Differentiable Reward Learning for Preference-based Reinforcement Learning
+](https://openreview.net/forum?id=OZKBReUF-wX) <br>
+Runze Liu, Fengshuo Bai, Yali Du, Yaodong Yang
+ <br>
+<i> In NeurIPS 2022 </i> <br>
+[code(coming)]()
+
+
 * [ Scalable model-based policy optimization for decentralized networked systems. ](https://arxiv.org/abs/2207.06559) <br>
  Yali Du, Chengdong Ma, Yuchen Liu, Runji Lin, Hao Dong, Jun Wang, and Yaodong Yang. 
  <br>
