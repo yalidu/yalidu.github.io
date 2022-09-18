@@ -21,12 +21,12 @@ My research interest lies in machine learning and reinforcement learning, especi
 * For [Master's]() and [undergrad’s project]() at [King’s](), please contact me before putting me forward as the supervisor.
 
 <span style="color:red">
-I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" for a tutorial at [ACML 2022](https://www.acml-conf.org/2022/cfp.html)， together with [Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
+I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML 2022](https://www.acml-conf.org/2022/cfp.html)， together with [Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
 </span>
 
 
 # Recent 
-* 17 Sep 2022 - I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" for a tutorial at [ACML 2022](https://www.acml-conf.org/2022/cfp.html)， together with [Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
+* 17 Sep 2022 - I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML 2022](https://www.acml-conf.org/2022/cfp.html)， together with [Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
 * 1 Sep 2022 - we are organizing the 1st International Workshop on Safe Reinforcement
 Learning Theory and its Applications at 2022 IEEE International Conference on
 Multisensor Fusion and Integration (20-22 Sep). [Registration Deadline: Sep 1, 2022](http://saferl.online/2022/)
