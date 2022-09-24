@@ -39,7 +39,7 @@ Yunqiu Xu, Meng Fang, Ling Chen, Yali Du, Joey Tianyi Zhou, Chengqi Zhang <br>
 Rui Yang, Yiming Lu, Wenzhe Li, Hao Sun, Meng Fang, **Yali Du**, Xiu Li, Lei Han, Chongjie Zhang
  <br>
 <i>  ICLR 2022. </i> <br>
- [Code](https://anonymous.4open.science/r/WGCSL-527C/README.md)
+ [Code](https://github.com/YangRui2015/AWGCSL)
  
 * [ How to train your agent: Active learning from human preferences and justifications in safety-critical environments]() <br>
 Ilias Kazantzidis, Tim Norman, **Yali Du**, Christopher Freeman.

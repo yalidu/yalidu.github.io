@@ -14,7 +14,7 @@ Topics of interest include
 * Social Aspects of Learning Agents (e.g. explainability, human-in-the-loop learning, ethics),
 * Applications in Game AI, Data Science, etc. 
 
-We, the Multi-agent Learning Group, provide a collaborative, open and inclusive environment for research and learning.
+We, the Cooperative AI Lab, provide a collaborative, open and inclusive environment for research and learning.
 If you are interested in joining us, please consider the options below.
 * [PhD](#phd-positions)
 * [PostDocs and Research Fellows](#postdoc-and-research-fellow-positions)

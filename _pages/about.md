@@ -12,13 +12,12 @@ redirect_from:
 # About Me
 
 I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/) and a member of [Distributed Artificial Intelligence Group](https://www.kcl.ac.uk/research/dai).
-Prior to joining King's, I was a postdoc researcher at Centre for AI, [University College London](https://www.ucl.ac.uk/ai-centre/) working with [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/).
-I received my PhD from University of Technology Sydney in 2019, advised by [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en).
+Prior to joining King's, I was a postdoc researcher at Centre for AI, [University College London](https://www.ucl.ac.uk/ai-centre/).
+I received my PhD from University of Technology Sydney in 2019.
 My research interest lies in machine learning and reinforcement learning, especially in the topics of multi-agent learning, policy evaluation, social agents, and applications to Game AI and data science.
 
 * I am actively looking for [PhD students](opening.md) and [postdocs](opening.md) to work with me. Check [Openings](opening.md) for funding opportunities and topics of interest. Please drop me an email with your CV and interest.
 * I am happy to host (remote) undergraduate / graduate visitors and supervise summer research projects. Please drop me an email with your CV and interest.
-* For [Master's]() and [undergrad’s project]() at [King’s](), please contact me before putting me forward as the supervisor.
 
 <span style="color:red">
 I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 at Hyderabad, India， together with [Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
@@ -26,7 +25,6 @@ I will give a tutorial on “Cooperative multi-agent learning: a review of progr
 
 
 # Recent 
-* 17 Sep 2022 - I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML 2022](https://www.acml-conf.org/2022/cfp.html)， together with [Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
 * 1 Sep 2022 - we are organizing the 1st International Workshop on Safe Reinforcement
 Learning Theory and its Applications at 2022 IEEE International Conference on
 Multisensor Fusion and Integration (20-22 Sep). [Registration Deadline: Sep 1, 2022](http://saferl.online/2022/)
@@ -58,6 +56,8 @@ Address: Bush House, 30 Aldwych, WC2B 4BG
 
 
 <!--
+
+* For [Master's]() and [undergrad’s project]() at [King’s](), please contact me before putting me forward as the supervisor.
 
 
 <span style="color:red">
