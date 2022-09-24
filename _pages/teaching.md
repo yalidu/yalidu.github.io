@@ -10,7 +10,7 @@ author_profile: true
 ### 2022/2023
 
 * [ Decision Structure in Decentralized Multi-Agent Learning](https://www.oxfordml.school/) <br>
-This talk discusses factorizability of multi-agent systems including the transition dynamics and action coordinations, and propose novel scalable decentralized multi-agent learning algorithms. Theoretically we find that the localized policy gradient is a close approximation to true policy gradients and provide the conditions for monotonic improvement under factorized model-based policy optimization.
+This talk discusses factorizability of multi-agent systems including the transition dynamics and action coordinations. We discusse the proposed scalable model-based RL in networked systems.
 <br> 
 The International Joint Conference on Theoretical Computer Science (IJTCS 2022)
 
