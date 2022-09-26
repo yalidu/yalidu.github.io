@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-### Conference 
+### Conference and workshops
+* Organizer for [the 1st International Workshop on Safe Reinforcement Learning Theory and its Applications, 2022](https://saferl.online/2022/)
 * Session Chair for Reinforcement Learning in [IROS 2022](https://iros2022.org/)
 * Senior PC for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
 * Session Chair for Reinforcement Learning in [ACML 2021](https://www.acml-conf.org/2021/)
