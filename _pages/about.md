@@ -13,7 +13,6 @@ redirect_from:
 
 I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/) and a member of [Distributed Artificial Intelligence Group](https://www.kcl.ac.uk/research/dai).
 Prior to joining King's, I was a postdoc researcher at Centre for AI, [University College London](https://www.ucl.ac.uk/ai-centre/).
-
 My research interest lies in machine learning and reinforcement learning, especially in the topics of multi-agent learning, policy evaluation, social agents, and applications to Game AI and data science.
 
 * I am actively looking for [PhD students](opening.md) and [postdocs](opening.md) to work with me. Check [Openings](opening.md) for funding opportunities and topics of interest. Please drop me an email with your CV and interest.
