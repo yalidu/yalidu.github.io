@@ -23,9 +23,10 @@ I will give a tutorial on “Cooperative multi-agent learning: a review of progr
 </span>
 
 
-# Recent
-* [Upcomimg] 25 Jan 2022 - I am invited to give a talk on cooperative multi-agent learning at  Dept. of Computer Science, University of Warwick, hosted by Prof. [Long Tran-Thanh
-](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/) and [Yu Guan](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/) 
+# Recent News
+* **Upcomimg 25 Jan 2022** - I am invited to give a talk on cooperative multi-agent learning at  Dept. of Computer Science, University of Warwick, hosted by Prof. [Long Tran-Thanh
+](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/) and [Yu Guan](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/)
+ 
 * 1 Sep 2022 - we are organizing the 1st International Workshop on Safe Reinforcement
 Learning Theory and its Applications at 2022 IEEE International Conference on
 Multisensor Fusion and Integration (20-22 Sep). [Registration Deadline: Sep 1, 2022](http://saferl.online/2022/)
