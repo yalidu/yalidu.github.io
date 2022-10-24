@@ -8,7 +8,6 @@ author_profile: true
 
 ## Tutorials 
 
-I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 at Hyderabad, India， together with [Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
 * [Multi-Agent Learning and Evaluation](https://www.bilibili.com/video/BV1Hf4y1G7hX) <br>
 An introduction to Stochastic Games for Multi-Agent Learning, Evaluation of Human and AI agents. <br>
 RLChina Summer School, 2021
