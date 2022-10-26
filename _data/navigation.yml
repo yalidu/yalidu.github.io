@@ -4,10 +4,10 @@ main:
   - title: "People"
     url: /people/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
-  - title: "Tutorial & Talks"
+  - title: "Teaching"
     url: /teaching/
 
  # - title: "Services"

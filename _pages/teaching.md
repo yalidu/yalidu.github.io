@@ -33,6 +33,7 @@ Host: Prof. Max Welling & Evangelos Kanoulas
 
 * [Agent learning with flexibilty and diversity]() <br>
 Center on Frontiers of Computing, Peking University, Apr 2020.
+
 ## Teaching
 
 * [Optimisation Methods](https://www.kcl.ac.uk/abroad/module-options/optimisation-methods-2) <br>
