@@ -52,12 +52,15 @@ Multisensor Fusion and Integration (20-22 Sep). [Registration Deadline: Sep 1, 2
 * Dec 2019 - Invited to serve as the PC of IJCAI, ICML 2020.
 
 ## Contact
-Email:  [yali.dux AT gmail.com](mailto:yali.dux@gmail.com)  <br>
+Email:  [yali.du AT kcl.ac.uk](mailto:yali.du@kcl.ac.uk)  <br>
 Address: Bush House, 30 Aldwych, WC2B 4BG
 
 
 
 <!--
+
+Email:  [yali.dux AT gmail.com](mailto:yali.dux@gmail.com)  <br>
+
 
 * For [Master's]() and [undergrad’s project]() at [King’s](), please contact me before putting me forward as the supervisor.
 
