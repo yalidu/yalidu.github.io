@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /people/
+permalink: https://coopailab.github.io/
 author_profile: true
 ---
 
