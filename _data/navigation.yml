@@ -1,8 +1,8 @@
 # main links links
 main:
 
-#  - title: "People"
-#    url: /people/
+  - title: "Group"
+    url: /people/
 
   - title: "Research"
     url: /research/
@@ -10,8 +10,6 @@ main:
   - title: "Tutorial & Talks"
     url: /teaching/
 
- # - title: "Services"
- #   url: /services/
   - title: "Services"
     url: /services/
 
@@ -21,12 +19,3 @@ main:
 #  - title: "Demos"
 #    url: /portfolio/
 
- # - title: "Talks"
- #   url: /talks/
-
-        
- # - title: "Blog Posts"
- #   url: /year-archive/
-
-  #- title: "Guide"
-  # url: /markdown/

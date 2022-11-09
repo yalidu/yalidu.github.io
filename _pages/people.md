@@ -1,10 +1,14 @@
 ---
 layout: archive
-title: "Multi-Agent Learning Group"
+title: ""
 permalink: /people/
 author_profile: true
 ---
 
+
+<!--
+
+Multi-Agent Learning Group
 
 ### PhDs 
 
@@ -20,8 +24,6 @@ author_profile: true
 * [Jennifer Barnes-Nunn](https://www.ecs.soton.ac.uk/people/jabn1n20) (2021-, co-advise with [Tim Norman](https://www.ecs.soton.ac.uk/people/tjn1f15))
 
 
-
-<!--
 ### Master Students
 
 -->
