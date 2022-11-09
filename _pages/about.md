@@ -12,8 +12,8 @@ redirect_from:
 # About Me
 
 I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/) and a member of [Distributed Artificial Intelligence Group](https://www.kcl.ac.uk/research/dai).
-Prior to joining King's, I was a postdoc researcher at Centre for AI, [University College London](https://www.ucl.ac.uk/ai-centre/).
-My research interest lies in machine learning and reinforcement learning, especially in the topics of multi-agent learning, policy evaluation, social agents, and applications to Game AI and data science.
+I lead the [Cooperative AI Research Lab](https://coopailab.github.io/).
+My research interest lies in  reinforcement learning and multi-agent systems and topics include Multi-Agent Cooperation and Coordination, Reinforcement Learning and Generalisation, Evaluation of Human and AI players, Applications in Game AI, Data Science.
 
 * I am actively looking for [PhD students](opening.md) and [postdocs](opening.md) to work with me. Check [Openings](opening.md) for funding opportunities and topics of interest. Please drop me an email with your CV and interest.
 * I am happy to host (remote) undergraduate / graduate visitors and supervise summer research projects. Please drop me an email with your CV and interest.
@@ -58,6 +58,9 @@ Address: Bush House, 30 Aldwych, WC2B 4BG
 
 
 <!--
+machine learning and reinforcement learning, especially in the topics of multi-agent learning, policy evaluation, social agents, and applications to Game AI and data science.
+
+# Prior to joining King's, I was a postdoc researcher at Centre for AI, [University College London](https://www.ucl.ac.uk/ai-centre/).
 
 Email:  [yali.dux AT gmail.com](mailto:yali.dux@gmail.com)  <br>
 
