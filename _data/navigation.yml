@@ -2,7 +2,8 @@
 main:
 
   - title: "Group"
-    url: /people/
+    url: https://coopailab.github.io/
+#    /people/
 
   - title: "Research"
     url: /research/
