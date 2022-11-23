@@ -19,14 +19,21 @@ My research interest lies in  reinforcement learning and multi-agent systems and
 * I am happy to host (remote) undergraduate / graduate visitors and supervise summer research projects. Please drop me an email with your CV and interest.
 
 <span style="color:red">
-I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 at Hyderabad, India, together with [Dr. Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
 </span>
 
 
-# Recent News
-* **Upcomimg 25 Jan 2022** - I am invited to give a talk on cooperative multi-agent learning at  Dept. of Computer Science, University of Warwick, hosted by [Prof. Long Tran-Thanh
+## Upcomimg Events
+* Dec 2022 - I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 at Hyderabad, India, together with [Dr. Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
+ 
+* Feb 2022 - I am Selected for the 2023 [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/)
+
+* 25 Jan 2022 - I am invited to give a talk on cooperative multi-agent learning at  Dept. of Computer Science, University of Warwick, hosted by [Prof. Long Tran-Thanh
 ](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/) and [Prof. Yu Guan](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/)
  
+
+# Recent News
+
+* 23 Nov 2022 - Welcome [Dr. Tingting Yuan](https://sites.google.com/view/tyuan) from University of Göttingen, Germany to visit our group. Her visit is supported by Alexander von Humboldt Foundation	 
 * 1 Sep 2022 - we are organizing the 1st International Workshop on Safe Reinforcement
 Learning Theory and its Applications at 2022 IEEE International Conference on
 Multisensor Fusion and Integration (20-22 Sep). [Registration Deadline: Sep 1, 2022](http://saferl.online/2022/)
