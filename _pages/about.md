@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/) and a member of [Distributed Artificial Intelligence Group](https://www.kcl.ac.uk/research/dai).
+I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/) and a member of [Distributed AI Group](https://www.kcl.ac.uk/research/dai).
 I lead the [Cooperative AI Research Lab](https://coopailab.github.io/).
 My research interest lies in  reinforcement learning and multi-agent systems and topics include Multi-Agent Cooperation and Coordination, Reinforcement Learning and Generalisation, Evaluation of Human and AI players, Applications in Game AI, Data Science.
 
