@@ -8,7 +8,6 @@ redirect_from:
  - /about.html
 ---
 
-
 # About Me
 
 I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/) and a member of [Distributed AI Group](https://www.kcl.ac.uk/research/dai).
@@ -22,14 +21,11 @@ My research interest lies in  reinforcement learning and multi-agent systems and
 </span>
 
 
-## Upcomimg Events
-* Dec 2022 - I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 at Hyderabad, India, together with [Dr. Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
- 
-* Feb 2023 - I am Selected for the 2023 [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/)
-
+# Upcomimg Events
+* 7 Feb 2023 - I am Selected for the 2023 [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/)
 * 25 Jan 2023 - I am invited to give a talk on cooperative multi-agent learning at  Dept. of Computer Science, University of Warwick, hosted by [Prof. Long Tran-Thanh
 ](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/) and [Prof. Yu Guan](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/)
- 
+
 
 # Recent News
 
@@ -71,15 +67,11 @@ machine learning and reinforcement learning, especially in the topics of multi-a
 
 Email:  [yali.dux AT gmail.com](mailto:yali.dux@gmail.com)  <br>
 
-
 * For [Master's]() and [undergrad’s project]() at [King’s](), please contact me before putting me forward as the supervisor.
-
 
 <span style="color:red">
 Oxford Machine Learning Summer School is looking for attendants. Apply [here](https://www.oxfordml.school/).
 </span>
-
-
 
 * I am happy to host (remote) undergraduate / graduate visitors. Please feel free to send me an email with your CV.
 
@@ -94,9 +86,7 @@ Email: [yali.du86@gmail.com](mailto:yali.du86@gmail.com)
 She is also fortunate to have worked with [Prof. Tong Zhang](http://tongzhang-ml.org/), [Dr. Lei Han](https://leihan.org/) and [Dr. Ji Liu](http://jiliu-ml.org/).  
 
 
--->
 
-<!--
 
 ## Preprints
 * [Signal Instructed Coordination in Cooperative Multi-agent Reinforcement Learning]() <br>
