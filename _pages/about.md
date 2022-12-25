@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/) and a member of [Distributed AI Group](https://www.kcl.ac.uk/research/dai).
+I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/).
 I lead the [Cooperative AI Research Lab](https://coopailab.github.io/).
 My research interest lies in  reinforcement learning and multi-agent systems and topics include Multi-Agent Cooperation and Coordination, Reinforcement Learning and Generalisation, Evaluation of Human and AI players, Applications in Game AI, Data Science.
 
@@ -22,7 +22,7 @@ My research interest lies in  reinforcement learning and multi-agent systems and
 
 
 # Upcomimg Events
-* 7 Feb 2023 - I am Selected for the 2023 [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/)
+* 7 Feb 2023 - I am selected for the 2023 [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/)
 * 25 Jan 2023 - I am invited to give a talk on cooperative multi-agent learning at  Dept. of Computer Science, University of Warwick, hosted by [Prof. Long Tran-Thanh
 ](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/) and [Prof. Yu Guan](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/)
 * 12 Dec 2022 - I will give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 together with [Dr. Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
