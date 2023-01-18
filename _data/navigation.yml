@@ -6,7 +6,8 @@ main:
 #    /people/
 
   - title: "Research"
-    url: https://coopailab.github.io/research/
+    url: https://coopailab.github.io/publications/
+#    https://coopailab.github.io/research/
 #    url: /research/
 
   - title: "Tutorial & Talks"
