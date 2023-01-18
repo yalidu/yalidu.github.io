@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Publications"
 permalink: /research/
 author_profile: true
 ---
@@ -10,7 +10,11 @@ author_profile: true
 | * equal contributions
 )
 
+[Publications](https://coopailab.github.io/publications/)
 
+[Research highlights](https://coopailab.github.io/research/)
+
+<!--
 
 ## Conferences
 
@@ -159,3 +163,6 @@ Yunqiu Xu, Meng Fang, Ling Chen, Gangyan Xu, **Yali Du**, Chengqi Zhang <br>
 *  [Matrix Factorization for Collaborative Budget Allocation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8437150). <br>
 **Yali Du**, Chang Xu, Dacheng Tao. <br>
 IEEE Transactions on Automation Science and Engineering (TASE), 2018. <br>
+
+
+-->

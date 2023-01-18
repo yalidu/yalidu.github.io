@@ -15,10 +15,8 @@ I lead the [Cooperative AI Research Lab](https://coopailab.github.io/).
 My research interest lies in  reinforcement learning and multi-agent systems and topics include Multi-Agent Cooperation and Coordination, Reinforcement Learning and Generalisation, Evaluation of Human and AI players, Applications in Game AI, Data Science.
 
 * I am actively looking for [PhD students](opening.md) and [postdocs](opening.md) to work with me. Check [Openings](opening.md) for funding opportunities and topics of interest. Please drop me an email with your CV and interest.
-* I am happy to host (remote) undergraduate / graduate visitors and supervise summer research projects. Please drop me an email with your CV and interest.
+* I am happy to host undergraduate / graduate visitors and supervise summer research projects. Please drop me an email with your CV and interest.
 
-<span style="color:red">
-</span>
 
 
 # Upcomimg Events
@@ -61,8 +59,15 @@ Email:  [yali.du AT kcl.ac.uk](mailto:yali.du@kcl.ac.uk)  <br>
 Address: Bush House, 30 Aldwych, WC2B 4BG
 
 
-
 <!--
+
+<span style="color:red">
+
+* I am looking for PhD starting from Fall 2023. Funding available! Check the project information here: [STAI CDT](https://safeandtrustedai.org/project/safe-reinforcement-learning-from-human-feedback/)
+ 
+* PostDoc position 
+</span>
+
 
 * 23 Nov 2022 - Welcome [Dr. Tingting Yuan](https://sites.google.com/view/tyuan) from University of Göttingen, Germany to visit our group. Her visit is supported by Alexander von Humboldt Foundation	 
 

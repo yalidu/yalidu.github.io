@@ -14,8 +14,8 @@ main:
   - title: "Services"
     url: /services/
 
-  - title: "Openings"
-    url: /opening/
+#  - title: "Openings"
+#    url: /opening/
 
 #  - title: "Demos"
 #    url: /portfolio/
