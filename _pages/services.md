@@ -7,6 +7,7 @@ author_profile: true
 
 
 ### Conference and workshops
+* Associate Editor for [IEEE Transactions on AI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) 
 * Organizer for [the 1st International Workshop on Safe Reinforcement Learning Theory and its Applications, 2022](https://saferl.online/2022/)
 * Session Chair for Reinforcement Learning in [IROS 2022](https://iros2022.org/)
 * Senior PC for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
