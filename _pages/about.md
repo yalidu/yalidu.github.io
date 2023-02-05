@@ -14,6 +14,7 @@ I am currently an Assistant Professor (UK Lecturer) at [King's College London](h
 I lead the [Cooperative AI Research Lab](https://coopailab.github.io/).
 My research interest lies in  reinforcement learning and multi-agent systems and topics include Multi-Agent Cooperation and Coordination, Reinforcement Learning and Generalisation, Evaluation of Human and AI players, Applications in Game AI, Data Science.
 
+#  Active openings 
 
 <span style="color:orangered">
 
@@ -23,7 +24,7 @@ The application deadline is February 10th, 2023.
 Details to application is found [here](https://docs.google.com/document/d/1Z5-Ru52ajWuWtwDfBrDxJPGMcyUHHbMMfr7-59hSjr4/edit?usp=sharing)
 </span>
 
-<span style="color:orange">
+<span style="color:orangered">
 
 [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
  is available for application now! The fellowship lasts for three years.
@@ -32,7 +33,8 @@ The application deadline is February 20th, 2023.
 Details to application is found [here](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
 </span>
 
-# I will be speaking at the following events:
+
+## I will be speaking at the following events:
 * 3-7 May 2023 - Oxford Machine Learning Summer School (July 8-16, 2023). Please find out more [here](https://www.oxfordml.school/)!
 * 10 Feb 2023 - [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/).
 * 7 Feb 2023 -  Tutorial on “Cooperative multi-agent learning” at AAAI 2023. Please find out more [here](https://sites.google.com/view/multi-agent-tutorial/home). 
