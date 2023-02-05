@@ -14,25 +14,38 @@ I am currently an Assistant Professor (UK Lecturer) at [King's College London](h
 I lead the [Cooperative AI Research Lab](https://coopailab.github.io/).
 My research interest lies in  reinforcement learning and multi-agent systems and topics include Multi-Agent Cooperation and Coordination, Reinforcement Learning and Generalisation, Evaluation of Human and AI players, Applications in Game AI, Data Science.
 
-* I am actively looking for [PhD students](opening.md) and [postdocs](opening.md) to work with me. Check [Openings](opening.md) for funding opportunities and topics of interest. Please drop me an email with your CV and interest.
-* I am happy to host undergraduate / graduate visitors and supervise summer research projects. Please drop me an email with your CV and interest.
+
+<span style="color:orangered">
+
+KC Wong PostDoc Fellowship available here at King's College London with a duration of one year. 
+Feel free to contact me if you are interested! 
+The application deadline is February 10th, 2023. 
+Details to application is found [here](https://docs.google.com/document/d/1Z5-Ru52ajWuWtwDfBrDxJPGMcyUHHbMMfr7-59hSjr4/edit?usp=sharing)
+ 
+</span>
+
+<span style="color:orange">
+
+Newton International Fellowships is available for application now! The fellowship lasts for three years.
+Feel free to contact me if you are interested! 
+The application deadline is February 20th, 2023. 
+Details to application is found [here](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
 
 
+ 
+</span>
 
-# Upcomimg Events
-* 7 Feb 2023 - I am selected for the 2023 [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/)
-* 25 Jan 2023 - I am invited to give a talk on cooperative multi-agent learning at  Dept. of Computer Science, University of Warwick, hosted by [Prof. Long Tran-Thanh
-](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/) and [Prof. Yu Guan](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/)
-
+# I will be speaking at the following events:
+* 3-7 May 2023 - Oxford Machine Learning Summer School (July 8-16, 2023). Please find out more [here](https://www.oxfordml.school/)!
+* 10 Feb 2023 - [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/).
+* 7 Feb 2023 -  Tutorial on “Cooperative multi-agent learning” at AAAI 2023. Please find out more [here](https://sites.google.com/view/multi-agent-tutorial/home). 
 
 # Recent News
 
 * 28 Dec 2022 - I am appointed as the an Associate Editor for [IEEE Transactions on AI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) editorial board. Look forward to serving the journal! 
 * 12 Dec 2022 - I give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 together with [Dr. Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
-
 * 1 Sep 2022 - we are organizing the 1st International Workshop on Safe Reinforcement
-Learning Theory and its Applications at 2022 IEEE International Conference on
-Multisensor Fusion and Integration (20-22 Sep). [Registration Deadline: Sep 1, 2022](http://saferl.online/2022/)
+Learning Theory and its Applications. [Registration Deadline: Sep 1, 2022](http://saferl.online/2022/)
 * 17 Aug 2022 - I am giving a talk on "Decision Structure in Decentralized Multi-Agent Learning" at [International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW) 2022](https://conference.cs.cityu.edu.hk/ijtcs2022/).
 * 30 Jun 2022 - One paper on "[Scalable model-based policy optimization for decentralized networked systems](https://github.com/PKU-MARL/Model-Based-MARL)" has been accepted by  2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 * 08 Mar 2022 - Invited to give a tutorial at [Oxford Machine Learning Summer School](https://www.oxfordml.school/). This is a three-hour tutorial on optimisation for machine learning. Welcome to join!
@@ -60,6 +73,17 @@ Address: Bush House, 30 Aldwych, WC2B 4BG
 
 
 <!--
+
+* 25 Jan 2023 - Computer Science Colloquium at  Dept. of Computer Science, University of Warwick.
+
+, hosted by [Prof. Long Tran-Thanh
+](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/) and [Prof. Yu Guan](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/)
+
+
+
+* I am actively looking for [PhD students](opening.md) and [postdocs](opening.md) to work with me. Check [Openings](opening.md) for funding opportunities and topics of interest. Please drop me an email with your CV and interest.
+* I am happy to host undergraduate / graduate visitors and supervise summer research projects. Please drop me an email with your CV and interest.
+
 
 <span style="color:red">
 
