@@ -27,7 +27,7 @@ Details to application is found [here](https://docs.google.com/document/d/1Z5-Ru
  is available for application now! The fellowship lasts for three years.
 Feel free to contact me if you are interested! 
 The application deadline is February 20th, 2023. 
-Details to application is found [here](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
+More details can be  found [here](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
 </span>
 
 
@@ -36,7 +36,7 @@ Details to application is found [here](https://royalsociety.org/grants-schemes-a
 * 10 Feb 2023 - [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/).
 * 7 Feb 2023 -  Tutorial on “Cooperative multi-agent learning” at AAAI 2023. Please find out more [here](https://sites.google.com/view/multi-agent-tutorial/home). 
 
-# Recent News
+## Recent News
 
 * 28 Dec 2022 - I am appointed as the an Associate Editor for [IEEE Transactions on AI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) editorial board. Look forward to serving the journal! 
 * 12 Dec 2022 - I give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 together with [Dr. Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
