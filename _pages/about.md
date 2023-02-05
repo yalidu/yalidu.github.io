@@ -8,7 +8,6 @@ redirect_from:
  - /about.html
 ---
 
-# About Me
 
 I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/).
 I lead the [Cooperative AI Research Lab](https://coopailab.github.io/).
@@ -138,6 +137,7 @@ I am currently a Lecturer (Assistant Professor) in Artificial Intelligence at [K
 
 machine learning/
 multi-agent cooperation/coordination, policy generalization/evaluation, social aspects of learning agents (e.g. explainability, ethics, fairness),and industrial applications.
+# About Me
 
 -->
 
