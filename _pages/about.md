@@ -14,7 +14,7 @@ I am currently an Assistant Professor (UK Lecturer) at [King's College London](h
 I lead the [Cooperative AI Research Lab](https://coopailab.github.io/).
 My research interest lies in  reinforcement learning and multi-agent systems and topics include Multi-Agent Cooperation and Coordination, Reinforcement Learning and Generalisation, Evaluation of Human and AI players, Applications in Game AI, Data Science.
 
-#  Active openings 
+#  <span style="color:blue"> Active openings </span>.
 
 <span style="color:orangered">
 
