@@ -16,6 +16,7 @@ My research interest lies in  reinforcement learning and multi-agent systems and
 
 
 <span style="color:orangered">
+
 KC Wong PostDoc Fellowship available here at King's College London with a duration of one year. 
 Feel free to contact me if you are interested! 
 The application deadline is February 10th, 2023. 
@@ -23,7 +24,9 @@ Details to application is found [here](https://docs.google.com/document/d/1Z5-Ru
 </span>
 
 <span style="color:orange">
-Newton International Fellowships is available for application now! The fellowship lasts for three years.
+
+[Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
+ is available for application now! The fellowship lasts for three years.
 Feel free to contact me if you are interested! 
 The application deadline is February 20th, 2023. 
 Details to application is found [here](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
