@@ -32,7 +32,8 @@ More details can be  found [here](https://royalsociety.org/grants-schemes-awards
 
 
 ## I will be speaking at the following events:
-* May-July 2023 - Oxford Machine Learning Summer School. Please find out more [here](https://www.oxfordml.school/)!
+* 19-21 Feb - Rising Star in AI symposium at KAUST, Thuwal, Saudi Arabia.
+* May 2023 - Oxford Machine Learning Summer School. Please find out more [here](https://www.oxfordml.school/)!
 * 10 Feb 2023 - [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/).
 * 7 Feb 2023 -  Tutorial on “Cooperative multi-agent learning” at AAAI 2023. Please find out more [here](https://sites.google.com/view/multi-agent-tutorial/home). 
 
