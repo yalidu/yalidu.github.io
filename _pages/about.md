@@ -14,9 +14,8 @@ I lead the [Cooperative AI Research Lab](https://coopailab.github.io/).
 My research interest lies in  reinforcement learning and multi-agent systems and topics include Multi-Agent Cooperation and Coordination, Reinforcement Learning and Generalisation, Evaluation of Human and AI players, Applications in Game AI, Data Science.
 
 # Active openings
-
-
 <span style="color:orangered">
+
 [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
  is available for application now! The fellowship lasts for three years.
 Feel free to contact me if you are interested! 
