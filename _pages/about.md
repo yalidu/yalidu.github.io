@@ -26,7 +26,7 @@ Details to application is found [here](https://docs.google.com/document/d/1Z5-Ru
 [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
  is available for application now! The fellowship lasts for three years.
 Feel free to contact me if you are interested! 
-The application deadline is February 20th, 2023. 
+The application deadline is March 28th, 2023. 
 More details can be  found [here](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
 </span>
 
