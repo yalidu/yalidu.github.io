@@ -15,12 +15,6 @@ My research interest lies in  reinforcement learning and multi-agent systems and
 
 # Active openings
 
-<span style="color:orangered">
-KC Wong PostDoc Fellowship available here at King's College London with a duration of one year. 
-Feel free to contact me if you are interested! 
-The application deadline is February 10th, 2023. 
-Details to application is found [here](https://docs.google.com/document/d/1Z5-Ru52ajWuWtwDfBrDxJPGMcyUHHbMMfr7-59hSjr4/edit?usp=sharing)
-</span>
 
 <span style="color:orangered">
 [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
@@ -70,6 +64,14 @@ Address: Bush House, 30 Aldwych, WC2B 4BG
 
 
 <!--
+
+<span style="color:orangered">
+KC Wong PostDoc Fellowship available here at King's College London with a duration of one year. 
+Feel free to contact me if you are interested! 
+The application deadline is February 10th, 2023. 
+Details to application is found [here](https://docs.google.com/document/d/1Z5-Ru52ajWuWtwDfBrDxJPGMcyUHHbMMfr7-59hSjr4/edit?usp=sharing)
+</span>
+
 
 * 25 Jan 2023 - Computer Science Colloquium at  Dept. of Computer Science, University of Warwick.
 
