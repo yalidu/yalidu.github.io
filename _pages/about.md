@@ -21,10 +21,12 @@ My research interest lies in  reinforcement learning and multi-agent systems and
 Feel free to contact me if you are interested! 
 The application deadline is March 28th, 2023. 
 More details can be  found [here](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
+
 </span>
 
 
 ## I will be speaking at the following events:
+* 26 Apr 2023 - Computer Science Colloquium at  Dept. of Computer Science, University of Warwick.
 * May 2023 - Tutorial on "machine learning optimisation" in Oxford Machine Learning Summer School. Please find out more [here](https://www.oxfordml.school/)!
 * 19-21 Feb - Rising Star in AI symposium at KAUST, Thuwal, Saudi Arabia.
 * 10 Feb 2023 - Selected to speak for [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/).
@@ -72,7 +74,6 @@ Details to application is found [here](https://docs.google.com/document/d/1Z5-Ru
 </span>
 
 
-* 25 Jan 2023 - Computer Science Colloquium at  Dept. of Computer Science, University of Warwick.
 
 , hosted by [Prof. Long Tran-Thanh
 ](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/) and [Prof. Yu Guan](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/)
