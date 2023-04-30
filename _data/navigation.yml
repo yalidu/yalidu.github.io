@@ -2,11 +2,12 @@
 main:
 
   - title: "Group"
-    url: https://coopailab.github.io/
+    url: https://coopai.kcl.ac.uk/
+    # https://coopailab.github.io/
 #    /people/
 
   - title: "Publications"
-    url: https://coopailab.github.io/publications/
+    url: https://coopai.kcl.ac.uk/publications/
 #    https://coopailab.github.io/research/
 #    url: /research/
 
