@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/).
 I lead the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
-My research interest lies in  reinforcement learning and multi-agent systems and topics include Multi-Agent Cooperation and Coordination, Reinforcement Learning and Generalisation, Evaluation of Human and AI players, Applications in Game AI, Data Science.
+My research interests lie in reinforcement learning and multi-agent cooperation, with a focus on topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics), among others.
 
 # Active openings
 <span style="color:orangered">
@@ -29,7 +29,7 @@ Funded PhD position: We have a fully funded position on reinforcement learning a
 * ~~7 Feb 2023 -  Tutorial on “Cooperative multi-agent learning” at AAAI 2023. Please find out more [here](https://sites.google.com/view/multi-agent-tutorial/home).~~ 
 
 ## Recent News
-
+(For recent news, please visit [here](https://coopai.kcl.ac.uk/allnews.html))
 * 28 Dec 2022 - I am appointed as the an Associate Editor for [IEEE Transactions on AI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) editorial board. Look forward to serving the journal! 
 * 12 Dec 2022 - I give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 together with [Dr. Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
 * 1 Sep 2022 - we are organizing the 1st International Workshop on Safe Reinforcement
@@ -37,6 +37,14 @@ Learning Theory and its Applications. [Registration Deadline: Sep 1, 2022](http:
 * 17 Aug 2022 - I am giving a talk on "Decision Structure in Decentralized Multi-Agent Learning" at [International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW) 2022](https://conference.cs.cityu.edu.hk/ijtcs2022/).
 * 30 Jun 2022 - One paper on "[Scalable model-based policy optimization for decentralized networked systems](https://github.com/PKU-MARL/Model-Based-MARL)" has been accepted by  2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 * 08 Mar 2022 - Invited to give a tutorial at [Oxford Machine Learning Summer School](https://www.oxfordml.school/). This is a three-hour tutorial on optimisation for machine learning. Welcome to join!
+
+## Contact
+Email:  [yali.du AT kcl.ac.uk](mailto:yali.du@kcl.ac.uk)  <br>
+Address: Bush House, 30 Aldwych, WC2B 4BG
+
+
+<!--
+My research interest lies in  reinforcement learning and multi-agent cooperation with topics including Multi-Agent Cooperation and Coordination, Reinforcement Learning and Generalisation, Evaluation of Human and AI players, Applications in Game AI, Data Science.
 * 21 Jan 2022 - Our paper on [offline goal-conditioned reinforcement learning](https://openreview.net/pdf?id=KJztlfGPdwW) has been accepted by [ICLR 2022](https://openreview.net/pdf?id=KJztlfGPdwW).
 * 10 Dec 2022 - One paper got accepted by [AAMAS 2022](https://arxiv.org/abs/2201.06257). We propose to coordinate agents' behaviors based on directed acyclic graphs (DAGs).   
 * 10 Nov 2021 - Invited to serve as Session Chair for [Reinforcement Learning](http://acml-conf.org/2021/conference/parallel-sessions/4b/) in  [Asian Conference on Machine Learning 2021](http://acml-conf.org/2021/)
@@ -54,14 +62,6 @@ Learning Theory and its Applications. [Registration Deadline: Sep 1, 2022](http:
  [Details can be found here](https://cfcs.pku.edu.cn/announcement/invited_talks/236653.htm).
 * Mar 2020 - Invited to serve as the Reviewer for NeurIPS and IROS 2020.
 * Dec 2019 - Invited to serve as the PC of IJCAI, ICML 2020.
-
-## Contact
-Email:  [yali.du AT kcl.ac.uk](mailto:yali.du@kcl.ac.uk)  <br>
-Address: Bush House, 30 Aldwych, WC2B 4BG
-
-
-<!--
-
 
 [Newton International Fellowships](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
  is available for application now! The fellowship lasts for three years.
