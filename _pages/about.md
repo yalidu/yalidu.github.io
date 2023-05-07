@@ -20,7 +20,8 @@ Funded PhD position: We have a fully funded position on reinforcement learning a
 
 
 ## I will be speaking at the following events:
-* Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL
+* 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL
+* 2nd Jun 2023 - [Berkeley MARL seminar](https://sites.google.com/view/berkeleymarl/home), UC Berkeley on human-in-the-loop RL, host by Eugene Vinitsky. 
 * 24th May 2023 - Computer Science Colloquium at  Dept. of Computer Science, [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/events/colloquia/).
 * 17th May 2023 - Invited Talk @ Fidelity AI Center, [Fidelity Investments](https://labs.fidelity.com/)
 * 8th May 2023 - Tutorial on "machine learning optimisation" in Oxford Machine Learning Summer School. Please find out more [here](https://www.oxfordml.school/)!
