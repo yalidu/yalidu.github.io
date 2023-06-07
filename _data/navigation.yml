@@ -20,6 +20,6 @@ main:
 #  - title: "Openings"
 #    url: /opening/
 
-#  - title: "Demos"
-#    url: /portfolio/
+  - title: "Demos"
+    url: /portfolio/
 

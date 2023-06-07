@@ -6,9 +6,12 @@ author_profile: true
 ---
 
 
-### Conference and workshops
+### Editorships and Organisation Committee 
+* Organization committee for AAMAS 2023
+* Guest Editor for Journal of AAMAS
 * Associate Editor for [IEEE Transactions on AI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) 
 * Organizer for [the 1st International Workshop on Safe Reinforcement Learning Theory and its Applications, 2022](https://saferl.online/2022/)
+### Chair/PC/Senior PC
 * Session Chair for Reinforcement Learning in [IROS 2022](https://iros2022.org/)
 * Senior PC for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
 * Session Chair for Reinforcement Learning in [ACML 2021](https://www.acml-conf.org/2021/)
@@ -21,8 +24,6 @@ author_profile: true
     * IJCAI-PRICAI (2020-present); 
     * AAAI (2020-present); 
     * theWebConf(2022-present); 
-   
-
 ### Journal (Invited Reviewer)
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Multimedia
@@ -31,7 +32,15 @@ author_profile: true
 * Elsevier Journal of Information Sciences
 * Elsevier Neurocomputing
 
+
 <!--
+### Journal (Invited Reviewer)
+* IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Multimedia
+* IEEE Transactions on Automation Science and Engineering
+* Elsevier Pattern Recognition
+* Elsevier Journal of Information Sciences
+* Elsevier Neurocomputing
 
 Dr. Yali Du is currently a Lecturer (Assistant Professor) in Artificial Intelligencee at [King's College London](https://www.kcl.ac.uk/). 
 Prior to joining King's, she was a postdoctoral research fellow at Centre for AI, University College London working with [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/). 

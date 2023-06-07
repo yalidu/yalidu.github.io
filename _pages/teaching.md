@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<embed src="files/202305.pdf" type="application/pdf">
+
 
 ## Tutorials 
 
