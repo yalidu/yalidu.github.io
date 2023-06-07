@@ -34,6 +34,9 @@ author_profile: true
 
 
 <!--
+
+<embed src="/files/202305.pdf" type="application/pdf">
+
 ### Journal (Invited Reviewer)
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Multimedia
