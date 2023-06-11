@@ -21,17 +21,20 @@ Funded PhD position: We have a fully funded position on reinforcement learning a
 
 ## I will be speaking at the following events:
 * 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL
-* 2nd Jun 2023 - [Berkeley MARL seminar](https://sites.google.com/view/berkeleymarl/home), UC Berkeley on human-in-the-loop RL, host by Eugene Vinitsky. 
-* 24th May 2023 - Computer Science Colloquium at  Dept. of Computer Science, [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/events/colloquia/).
-* 23th May 2023 - School of Computing, [Australian National University](https://comp.anu.edu.au/), host by [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). I will give a guest lecture on "Introdoction to Reinforcement Learning" 
-* 17th May 2023 - Invited Talk @ Fidelity AI Center, [Fidelity Investments](https://labs.fidelity.com/), on RL with human values.
+* 7 Jul 2023 -  [World Artificial Intelligence Conference (WAIC), Shanghai China](https://www.worldaic.com.cn/)
+* ~~2nd Jun 2023 - [Berkeley MARL seminar](https://sites.google.com/view/berkeleymarl/home), UC Berkeley on human-in-the-loop RL, host by Eugene Vinitsky.~~ 
+* ~~24th May 2023 - Computer Science Colloquium at  Dept. of Computer Science, [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/events/colloquia/).~~
+* ~~23th May 2023 - School of Computing, [Australian National University](https://comp.anu.edu.au/), host by [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). I will give a guest lecture on "Introdoction to Reinforcement Learning"~~ 
+* ~~17th May 2023 - Invited Talk @ Fidelity AI Center, [Fidelity Investments](https://labs.fidelity.com/), on RL with human values.~~
 * ~~8th May 2023 - Tutorial on "machine learning optimisation" in Oxford Machine Learning Summer School. Please find out more [here](https://www.oxfordml.school/)!~~
 * ~~19-21 Feb - Rising Star in AI symposium at KAUST, Thuwal, Saudi Arabia.~~
 * ~~10 Feb 2023 - Selected to speak for [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/).~~
 * ~~7 Feb 2023 -  Tutorial on “Cooperative multi-agent learning” at AAAI 2023. Please find out more [here](https://sites.google.com/view/multi-agent-tutorial/home).~~ 
 
 ## Recent News
-(For recent news, please visit [here](https://coopai.kcl.ac.uk/allnews.html))
+(For group related news, please visit [here](https://coopai.kcl.ac.uk/allnews.html))
+* Jun 2023 - I served as editor for Journal of AAMAS, [Special Issue on Citizen-Centric AI Systems](https://link.springer.com/collections/fjfgjaafef)
+* May 2023 - I served as organization committee for [AAMAS 2023](https://aamas2023.soton.ac.uk/)
 * 28 Dec 2022 - I am appointed as the an Associate Editor for [IEEE Transactions on AI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) editorial board. Look forward to serving the journal! 
 * 12 Dec 2022 - I give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 together with [Dr. Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
 * 1 Sep 2022 - we are organizing the 1st International Workshop on Safe Reinforcement
