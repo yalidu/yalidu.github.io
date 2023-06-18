@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## Tutorials 
-
+* [A Gentle Dive into Reinforcement Learning]()  <br>
+ Guest lecture at  Australian National University (ANU) invited by [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) 2023. <br>
+[slides](https://drive.google.com/file/d/1-dwHzMUwDnhEG2jxFuXo9GJLPj19tXRt/view?usp=sharing)
 * [Cooperative multi-agent learning: a review of progress and challenges]()  <br>
 In AAAI 2023, ACML 2022, with Joel Z. Leibo (DeepMind). <br>
 [slides](https://sites.google.com/view/multi-agent-tutorial/home)
@@ -15,6 +17,8 @@ Oxford Machine Learning Summer School, 2022 & 2023
 * [Multi-Agent Learning and Evaluation]() <br>
 An introduction to Stochastic Games for Multi-Agent Learning, Evaluation of Human and AI agents, Aug 2021. <br>
 [slides](https://drive.google.com/file/d/101TahcW_BVVFkq88_h8mSuJWAZ3P7aOQ/view?usp=sharing)
+
+
 
 
 ## Recent Talks
