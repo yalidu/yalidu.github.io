@@ -20,8 +20,8 @@ Funded PhD position: We have a fully funded position on reinforcement learning a
 
 
 ## I will be speaking at the following events:
-* 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL
-* 7 Jul 2023 -  [World Artificial Intelligence Conference (WAIC), Shanghai China](https://www.worldaic.com.cn/)
+* 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL.
+* 19th Jul 2023 - AIC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).
 * ~~2nd Jun 2023 - [Berkeley MARL seminar](https://sites.google.com/view/berkeleymarl/home), UC Berkeley on human-in-the-loop RL, host by Eugene Vinitsky.~~ 
 * ~~24th May 2023 - Computer Science Colloquium at  Dept. of Computer Science, [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/events/colloquia/).~~
 * ~~23th May 2023 - School of Computing, [Australian National University](https://comp.anu.edu.au/), host by [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). I will give a guest lecture on "Introdoction to Reinforcement Learning"~~ 
@@ -49,6 +49,10 @@ Address: Bush House, 30 Aldwych, WC2B 4BG
 
 
 <!--
+
+* 7 Jul 2023 -  [World Artificial Intelligence Conference (WAIC), Shanghai China](https://www.worldaic.com.cn/)
+
+
 My research interest lies in  reinforcement learning and multi-agent cooperation with topics including Multi-Agent Cooperation and Coordination, Reinforcement Learning and Generalisation, Evaluation of Human and AI players, Applications in Game AI, Data Science.
 * 21 Jan 2022 - Our paper on [offline goal-conditioned reinforcement learning](https://openreview.net/pdf?id=KJztlfGPdwW) has been accepted by [ICLR 2022](https://openreview.net/pdf?id=KJztlfGPdwW).
 * 10 Dec 2022 - One paper got accepted by [AAMAS 2022](https://arxiv.org/abs/2201.06257). We propose to coordinate agents' behaviors based on directed acyclic graphs (DAGs).   
