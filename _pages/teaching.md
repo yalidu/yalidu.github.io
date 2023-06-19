@@ -6,25 +6,23 @@ author_profile: true
 ---
 
 ## Tutorials 
-* **A Gentle Dive into Reinforcement Learning**  <br>
- Guest lecture at  Australian National University (ANU) invited by [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) 2023. <br>
+* **A Gentle Dive into Reinforcement Learning**,  Guest lecture at  Australian National University (ANU) invited by [Dr. Liang Zheng](https://zheng-lab.cecs.anu.edu.au/) 2023. <br>
 [slides](https://drive.google.com/file/d/1-dwHzMUwDnhEG2jxFuXo9GJLPj19tXRt/view?usp=sharing)
-* **Cooperative multi-agent learning: a review of progress and challenges** <br>
-In AAAI 2023, ACML 2022, with Joel Z. Leibo (DeepMind). <br>
+* **Cooperative multi-agent learning: a review of progress and challenges**, In AAAI 2023, ACML 2022, with Joel Z. Leibo (DeepMind). <br>
 [slides](https://sites.google.com/view/multi-agent-tutorial/home)
-* [Optimisation for Machine Learning](https://www.oxfordml.school/) <br>
+* [Optimisation for Machine Learning](https://www.oxfordml.school/), 
 Oxford Machine Learning Summer School, 2022 & 2023
-* **Multi-Agent Learning and Evaluation** <br>
+* **Multi-Agent Learning and Evaluation**, 
 An introduction to Stochastic Games for Multi-Agent Learning, Evaluation of Human and AI agents, Aug 2021. <br>
 [slides](https://drive.google.com/file/d/101TahcW_BVVFkq88_h8mSuJWAZ3P7aOQ/view?usp=sharing)
 
 
 ## Recent Talks
-* [Decision Structure in Decentralized Multi-Agent Learning]() <br>
+* **Decision Structure in Decentralized Multi-Agent Learning** <br>
 The International Joint Conference on Theoretical Computer Science (IJTCS) Aug 2022 <br>
 [slides](https://drive.google.com/file/d/1-o0Bo5mfrZdRGrk8eYXqLmQTNF0i7lEd/view?usp=sharing)
-* [On the Evaluation of Human and AI agent: Past, Present and Future](https://app6ca5octe2206.pc.xiaoe-tech.com/detail/v_60ffc551e4b0a27d0e366690/3?fromH5=true), Jul 2021 <br> 
-[slides](https://drive.google.com/file/d/103QZsYfeWHI5iuHs8A3D3rQ22SJZG2e2/view?usp=sharing) 
+* **On the Evaluation of Human and AI agent: Past, Present and Future**, Jul 2021 <br> 
+[slides](https://drive.google.com/file/d/103QZsYfeWHI5iuHs8A3D3rQ22SJZG2e2/view?usp=sharing)|[video](https://app6ca5octe2206.pc.xiaoe-tech.com/detail/v_60ffc551e4b0a27d0e366690/3?fromH5=true) 
  
 ## Teaching
 * [Optimisation Methods](https://www.kcl.ac.uk/abroad/module-options/optimisation-methods-2) <br>
