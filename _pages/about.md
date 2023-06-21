@@ -21,7 +21,7 @@ Funded PhD position: We have a fully funded position on reinforcement learning a
 
 ## I will be speaking at the following events:
 * 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL.
-* 19th Jul 2023 - AIC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).
+* Jul 2023 - AIC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).
 * ~~2nd Jun 2023 - [Berkeley MARL seminar](https://sites.google.com/view/berkeleymarl/home), UC Berkeley on human-in-the-loop RL, host by Eugene Vinitsky.~~ 
 * ~~24th May 2023 - Computer Science Colloquium at  Dept. of Computer Science, [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/events/colloquia/).~~
 * ~~23th May 2023 - School of Computing, [Australian National University](https://comp.anu.edu.au/), host by [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). I will give a guest lecture on "Introdoction to Reinforcement Learning"~~ 
