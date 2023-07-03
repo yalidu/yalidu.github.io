@@ -24,7 +24,7 @@ Funded PhD position: We have a fully funded position on reinforcement learning a
 * 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL.
 * 7 Jul 2023 -  [World Artificial Intelligence Conference (WAIC), Shanghai China](https://www.worldaic.com.cn/).
 * ~~9nd Jun 2023 - [Berkeley MARL seminar](https://sites.google.com/view/berkeleymarl/home), UC Berkeley on human-in-the-loop RL, host by Eugene Vinitsky.~~
-* 28 May 2023 - King's Festival of Artificial Intelligence (https://www.kcl.ac.uk/events/next-level-ai-future-of-games) on Learning to play games with human and learning with human to play
+* ~~28 May 2023 - King's Festival of Artificial Intelligence (https://www.kcl.ac.uk/events/next-level-ai-future-of-games) on Learning to play games with human and learning with human to play~~
 * ~~24th May 2023 - Computer Science Colloquium at  Dept. of Computer Science, [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/events/colloquia/).~~
 * ~~23th May 2023 - School of Computing, [Australian National University](https://comp.anu.edu.au/), host by [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). I will give a guest lecture on "Introdoction to Reinforcement Learning"~~ 
 * ~~17th May 2023 - Invited Talk @ Fidelity AI Center, [Fidelity Investments](https://labs.fidelity.com/), on RL with human values.~~
