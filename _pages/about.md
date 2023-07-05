@@ -25,7 +25,7 @@ My research interests lie in reinforcement learning and multi-agent cooperation,
     * Full international scholarship ( tuition fees + a stipend of £1720 per month for 2023/24, with annual increase)
     * Expected starting date is in Fall 2023 or Spring 2024. However,  you can start in February, June, and October throughout the year, or anytime as early as possible.
 * Other scholarships
-    * K-CSC joint PhD programme, with a deadline around Jan 2024. 
+    * K-CSC joint PhD programme, with a deadline around January every year. Next one is expected to be open from Oct 2023 - Jan 2024. 
     
 Interested applicants, please send materials demonstrating your research capabilities such as your CV, representative papers, and transcripts to yali.du@kcl.ac.uk. Please indicate "Postdoc Application + Your Name" or "PhD Student Application + Your Name" in the subject line of the email. The team will evaluate applicant materials comprehensively and arrange interviews as soon as possible. If you have any questions, feel free to inquire via email.
 
