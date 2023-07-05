@@ -17,7 +17,6 @@ My research interests lie in reinforcement learning and multi-agent cooperation,
 <span style="color:orangered">
 
 * 1 x Postdoc on Causal Reinforcement Learning
-
     * Co-supervised with Dr. Biwei Huang from UCSD.
     * Multiple research visits between KCL and UCSD are planned .
     * Expected start date is at the end of 2023 or as soon as possible thereafter. 
@@ -28,7 +27,6 @@ My research interests lie in reinforcement learning and multi-agent cooperation,
     * K-CSC joint PhD programme, with a deadline around January every year. Next one is expected to be open from Oct 2023 - Jan 2024. 
     
 Interested applicants, please send materials demonstrating your research capabilities such as your CV, representative papers, and transcripts to yali.du@kcl.ac.uk. Please indicate "Postdoc Application + Your Name" or "PhD Student Application + Your Name" in the subject line of the email. The team will evaluate applicant materials comprehensively and arrange interviews as soon as possible. If you have any questions, feel free to inquire via email.
-
 </span>
 
 
