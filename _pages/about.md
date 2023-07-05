@@ -15,7 +15,20 @@ My research interests lie in reinforcement learning and multi-agent cooperation,
 
 # Active openings
 <span style="color:orangered">
-Funded PhD position: We have a fully funded position on reinforcement learning and multi-agent learning (start date flexible). Full scholarship for local students (also applicable for international students). Applying or enquiry with your CV to: yali.du(at)kcl.ac.uk
+
+* 1 x Postdoc on Causal Reinforcement Learning
+
+    * Co-supervised with Dr. Biwei Huang from UCSD.
+    * Multiple research visits between KCL and UCSD are planned .
+    * Expected start date is at the end of 2023 or as soon as possible thereafter. 
+* 2 x PhD on Reinforcement Learning and Multi-agent Cooperation
+    * Full international scholarship ( tuition fees + a stipend of £1720 per month for 2023/24, with annual increase)
+    * Expected starting date is in Fall 2023 or Spring 2024. However,  you can start in February, June, and October throughout the year, or anytime as early as possible.
+* Other scholarships
+    * K-CSC joint PhD programme, with a deadline around Jan 2024. 
+    
+Interested applicants, please send materials demonstrating your research capabilities such as your CV, representative papers, and transcripts to yali.du@kcl.ac.uk. Please indicate "Postdoc Application + Your Name" or "PhD Student Application + Your Name" in the subject line of the email. The team will evaluate applicant materials comprehensively and arrange interviews as soon as possible. If you have any questions, feel free to inquire via email.
+
 </span>
 
 
@@ -24,7 +37,7 @@ Funded PhD position: We have a fully funded position on reinforcement learning a
 * 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL.
 * 7 Jul 2023 -  [World Artificial Intelligence Conference (WAIC), Shanghai China](https://www.worldaic.com.cn/).
 * ~~9nd Jun 2023 - [Berkeley MARL seminar](https://sites.google.com/view/berkeleymarl/home), UC Berkeley on human-in-the-loop RL, host by Eugene Vinitsky.~~
-* ~~28 May 2023 - King's Festival of Artificial Intelligence (https://www.kcl.ac.uk/events/next-level-ai-future-of-games) on Learning to play games with human and learning with human to play~~
+* ~~28 May 2023 - [King's Festival of Artificial Intelligence](https://www.kcl.ac.uk/events/next-level-ai-future-of-games) on Learning to play games with human and learning with human to play~~
 * ~~24th May 2023 - Computer Science Colloquium at  Dept. of Computer Science, [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/events/colloquia/).~~
 * ~~23th May 2023 - School of Computing, [Australian National University](https://comp.anu.edu.au/), host by [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). I will give a guest lecture on "Introdoction to Reinforcement Learning"~~ 
 * ~~17th May 2023 - Invited Talk @ Fidelity AI Center, [Fidelity Investments](https://labs.fidelity.com/), on RL with human values.~~
@@ -153,6 +166,8 @@ I am currently a Lecturer (Assistant Professor) in Artificial Intelligence at [K
 machine learning/
 multi-agent cooperation/coordination, policy generalization/evaluation, social aspects of learning agents (e.g. explainability, ethics, fairness),and industrial applications.
 # About Me
+
+Applying or enquiry with your CV, transcripts, and any materials that you think are relevant to: yali.du(at)kcl.ac.uk
 
 -->
 
