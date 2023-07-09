@@ -14,11 +14,14 @@ I lead the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
 My research interests lie in reinforcement learning and multi-agent cooperation, with a focus on topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics), among others.
 
 # Active openings
-<span style="color:orangered">
-One Postdoc and two PhD positions with full international scholarship are available in our lab.  Topics include Causal Modelling, Reinforcement Learning and Multi-agent Cooperation. 
-Interested applicants please contact yali.du@kcl.ac.uk with your CV, representative papers, and transcripts. Welcome to join us! More information is found [here](http://rlchina.org/topic/748). 
-</span>
+<span style="color:red">
+PostDoc position: One PostDoc position available with example topics on Causal Modelling, Reinforcement Learning and Multi-agent Cooperation. 
+</span> <br>
 
+<span style="color:orangered">
+Two PhD positions: Full international scholarship are available in our lab. <br>
+Interested applicants please contact yali.du@kcl.ac.uk with your CV, representative papers, and transcripts. Welcome to join us! More information is found [here](http://rlchina.org/topic/748).
+</span>
 
 ## I will be speaking at the following events:
 * 19 Jul 2023 - AIC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).
