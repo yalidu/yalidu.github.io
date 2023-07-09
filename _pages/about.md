@@ -20,7 +20,7 @@ PostDoc position: One PostDoc position available with example topics on Causal M
 
 <span style="color:orangered">
 Two PhD positions: Full international scholarship are available in our lab. <br>
-Interested applicants please contact yali.du@kcl.ac.uk with your CV, representative papers, and transcripts. Welcome to join us! More information is found [here](http://rlchina.org/topic/748).
+Interested applicants please contact yali.du@kcl.ac.uk with your CV, representative papers, and transcripts. More information is found [here](http://rlchina.org/topic/748).
 </span>
 
 ## I will be speaking at the following events:
