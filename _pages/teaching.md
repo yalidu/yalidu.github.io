@@ -6,10 +6,9 @@ author_profile: true
 ---
 
 ## Tutorials 
-* **A Gentle Dive into Reinforcement Learning**,  Two-hour lecture at Frontiers of Artificial Intelligence summer school, Peking University 2023. <br>
-[slides](https://drive.google.com/file/d/1-4yo18OUEggXYXI4qwXDfU-QT6K7aVBS/view?usp=sharing)
-* **A Gentle Dive into Reinforcement Learning**,  One-hour guest lecture at  Australian National University (ANU) 2023. <br>
-[slides](https://drive.google.com/file/d/1-dwHzMUwDnhEG2jxFuXo9GJLPj19tXRt/view?usp=sharing)
+* **A Gentle Dive into Reinforcement Learning**, guest lecture at Peking University and Australian National University (ANU) 2023. <br>
+[slides (one hour)](https://drive.google.com/file/d/1-dwHzMUwDnhEG2jxFuXo9GJLPj19tXRt/view?usp=sharing)
+|[slides (two hours)](https://drive.google.com/file/d/1-4yo18OUEggXYXI4qwXDfU-QT6K7aVBS/view?usp=sharing)
 * **Cooperative multi-agent learning: a review of progress and challenges**, in AAAI 2023, ACML 2022. <br>
 [slides](https://sites.google.com/view/multi-agent-tutorial/home)
 * **Optimisation for Machine Learning**, Oxford Machine Learning Summer School, 2022 & [2023]((https://www.oxfordml.school/))
