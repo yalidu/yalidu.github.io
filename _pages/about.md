@@ -15,11 +15,8 @@ My research interests lie in reinforcement learning and multi-agent cooperation,
 
 # Active openings
 <span style="color:orangered">
-
-* 1 x Postdoc on Causal Reinforcement Learning
-* 2 x PhD on Reinforcement Learning and Multi-agent Cooperation
-* Other scholarships: K-CSC joint PhD programme, with a deadline around January every year. Next one is expected to be open from Oct 2023 - Jan 2024.     
-Interested applicants, please send materials demonstrating your research capabilities such as your CV, representative papers, and transcripts to yali.du@kcl.ac.uk. Please indicate "Postdoc Application + Your Name" or "PhD Student Application + Your Name" in the subject line of the email.
+One Postdoc and two PhD positions with full international scholarship are available in our lab.  Topics include Causal Modelling, Reinforcement Learning and Multi-agent Cooperation. 
+Interested applicants please contact yali.du@kcl.ac.uk with your CV, representative papers, and transcripts. Welcome to join us! More information is found [here](http://rlchina.org/topic/748). 
 </span>
 
 
