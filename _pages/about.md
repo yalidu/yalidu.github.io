@@ -24,10 +24,10 @@ Interested applicants please contact yali.du@kcl.ac.uk with your CV, representat
 </span>
 
 ## I will be speaking at the following events:
-* 19 Jul 2023 - AIC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).
-* 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL.
-* 10-12 Jul 2023 - I am visiting Tsinghua University,  Peking University, MSRA, Renmin University in Beijing.
-* 7 Jul 2023 -  [World Artificial Intelligence Conference (WAIC), Shanghai China](https://www.worldaic.com.cn/).
+* ~~19 Jul 2023 - Keynote speech at AICC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).~~
+* ~~16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL.~~
+* ~~10-12 Jul 2023 - I am visiting Tsinghua University,  Peking University, MSRA, Renmin University in Beijing.~~
+* ~~7 Jul 2023 -  [World Artificial Intelligence Conference (WAIC), Shanghai China](https://www.worldaic.com.cn/).~~
 * ~~9nd Jun 2023 - [Berkeley MARL seminar](https://sites.google.com/view/berkeleymarl/home), UC Berkeley on human-in-the-loop RL, host by Eugene Vinitsky.~~
 * ~~28 May 2023 - [King's Festival of Artificial Intelligence](https://www.kcl.ac.uk/events/next-level-ai-future-of-games) on Learning to play games with human and learning with human to play~~
 * ~~24th May 2023 - Computer Science Colloquium at  Dept. of Computer Science, [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/events/colloquia/).~~
