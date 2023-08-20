@@ -13,6 +13,9 @@ I am currently an Assistant Professor (UK Lecturer) at [King's College London](h
 I lead the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
 My research interests lie in reinforcement learning and multi-agent cooperation, with a focus on topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics), among others.
 
+
+Welcome to attend the [Safe Reinforcement Learning Online Seminar](https://sites.google.com/view/saferl-seminar/home).
+
 # Active openings
 <span style="color:red">
 PostDoc position: One PostDoc position available with example topics on Causal Modelling, Reinforcement Learning and Multi-agent Cooperation. 
