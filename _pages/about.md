@@ -14,7 +14,11 @@ I lead the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
 My research interests lie in reinforcement learning and multi-agent cooperation, with a focus on topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics), among others.
 
 
-Welcome to attend the [Safe Reinforcement Learning Online Seminar](https://sites.google.com/view/saferl-seminar/home).
+Welcome to attend the [Safe Reinforcement Learning Seminar](https://sites.google.com/view/saferl-seminar/home).
+
+[Active Openings](#active-openings)\
+[Recent News](#recent-news)\
+[Recent Talks](#I-will-speak-at-the-following-events)
 
 # Active openings
 <span style="color:red">
@@ -26,7 +30,7 @@ Two PhD positions: Full international scholarship are available in our lab. <br>
 Interested applicants please contact yali.du@kcl.ac.uk with your CV, representative papers, and transcripts. More information is found [here](http://rlchina.org/topic/748).
 </span>
 
-## I will be speaking at the following events:
+## I will speak at the following events:
 * 19 Jul 2023 - Keynote speech at AICC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).
 * 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL.
 * 10-12 Jul 2023 - I am visiting Tsinghua University,  Peking University, MSRA, Renmin University in Beijing.
