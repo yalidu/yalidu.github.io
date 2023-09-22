@@ -13,8 +13,6 @@ I am currently an Assistant Professor (UK Lecturer) at [King's College London](h
 I lead the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
 My research interests lie in reinforcement learning and multi-agent cooperation, with a focus on topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics), among others.
 
-
-
 [Join Us](#join-us)\
 [Recent News](#recent-news)\
 [Recent Talks](#I-will-speak-at-the-following-events)
@@ -46,10 +44,6 @@ Learning Theory and its Applications. [Registration Deadline: Sep 1, 2022](http:
 * 30 Jun 2022 - One paper on "[Scalable model-based policy optimization for decentralized networked systems](https://github.com/PKU-MARL/Model-Based-MARL)" has been accepted by  2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 * 08 Mar 2022 - Invited to give a tutorial at [Oxford Machine Learning Summer School](https://www.oxfordml.school/). This is a three-hour tutorial on optimisation for machine learning. Welcome to join!
 
-## Contact
-Email:  [yali.du AT kcl.ac.uk](mailto:yali.du@kcl.ac.uk)  <br>
-Address: Bush House, 30 Aldwych, WC2B 4BG
-
 ## I will speak at the following events:
 * 19 Jul 2023 - Keynote speech at AICC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).
 * 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL.
@@ -64,6 +58,12 @@ Address: Bush House, 30 Aldwych, WC2B 4BG
 * 19-21 Feb - Rising Star in AI symposium at KAUST, Thuwal, Saudi Arabia.
 * 10 Feb 2023 - Selected to speak for [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/).
 * 7 Feb 2023 -  Tutorial on “Cooperative multi-agent learning” at AAAI 2023. Please find out more [here](https://sites.google.com/view/multi-agent-tutorial/home).
+
+
+## Contact
+Email:  [yali.du AT kcl.ac.uk](mailto:yali.du@kcl.ac.uk)  <br>
+Address: Bush House, 30 Aldwych, WC2B 4BG
+
 
 <!--
 
