@@ -47,6 +47,8 @@ Interested applicants please contact yali.du@kcl.ac.uk with your CV, representat
 
 ## Recent News
 (For group related news, please visit [here](https://coopai.kcl.ac.uk/allnews.html))
+
+* Sep 2023 - 5 papers are accepted to NeurIPS 2023. We explore safe/interpretable/LLM-aligned RL and human-AI coordination. More details will be shared soon!
 * Jun 2023 - I served as editor for Journal of AAMAS, [Special Issue on Citizen-Centric AI Systems](https://link.springer.com/collections/fjfgjaafef)
 * May 2023 - I served as organization committee for [AAMAS 2023](https://aamas2023.soton.ac.uk/)
 * 28 Dec 2022 - I am appointed as the an Associate Editor for [IEEE Transactions on AI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) editorial board. Look forward to serving the journal! 
