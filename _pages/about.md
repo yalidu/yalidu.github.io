@@ -14,13 +14,14 @@ I lead the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
 My research interests lie in reinforcement learning and multi-agent cooperation, with a focus on topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics), among others.
 
 
-Welcome to attend the [Safe Reinforcement Learning Seminar](https://sites.google.com/view/saferl-seminar/home).
 
-[Active Openings](#active-openings)\
+[Join Us](#join-us)\
 [Recent News](#recent-news)\
 [Recent Talks](#I-will-speak-at-the-following-events)
 
-# Active openings
+# Join Us!
+Welcome to attend the [Safe Reinforcement Learning Seminar](https://sites.google.com/view/saferl-seminar/home).
+
 <span style="color:red">
 PostDoc position: One PostDoc position available with example topics on Causal Modelling, Reinforcement Learning and Multi-agent Cooperation. 
 </span> <br>
@@ -30,20 +31,6 @@ Two PhD positions: Full international scholarship are available in our lab. <br>
 Interested applicants please contact yali.du@kcl.ac.uk with your CV, representative papers, and transcripts. More information is found [here](http://rlchina.org/topic/748).
 </span>
 
-## I will speak at the following events:
-* 19 Jul 2023 - Keynote speech at AICC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).
-* 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL.
-* 10-12 Jul 2023 - I am visiting Tsinghua University,  Peking University, MSRA, Renmin University in Beijing.
-* 7 Jul 2023 -  [World Artificial Intelligence Conference (WAIC), Shanghai China](https://www.worldaic.com.cn/).
-* 9nd Jun 2023 - [Berkeley MARL seminar](https://sites.google.com/view/berkeleymarl/home), UC Berkeley on human-in-the-loop RL, host by Eugene Vinitsky.
-* 28 May 2023 - [King's Festival of Artificial Intelligence](https://www.kcl.ac.uk/events/next-level-ai-future-of-games) on Learning to play games with human and learning with human to play
-* 24th May 2023 - Computer Science Colloquium at  Dept. of Computer Science, [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/events/colloquia/).
-* 23th May 2023 - School of Computing, [Australian National University](https://comp.anu.edu.au/), host by [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). I will give a guest lecture on "Introdoction to Reinforcement Learning" 
-* 17th May 2023 - Invited Talk @ Fidelity AI Center, [Fidelity Investments](https://labs.fidelity.com/), on RL with human values.
-* 8th May 2023 - Tutorial on "machine learning optimisation" in Oxford Machine Learning Summer School. Please find out more [here](https://www.oxfordml.school/)!
-* 19-21 Feb - Rising Star in AI symposium at KAUST, Thuwal, Saudi Arabia.
-* 10 Feb 2023 - Selected to speak for [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/).
-* 7 Feb 2023 -  Tutorial on “Cooperative multi-agent learning” at AAAI 2023. Please find out more [here](https://sites.google.com/view/multi-agent-tutorial/home).
 
 ## Recent News
 (For group related news, please visit [here](https://coopai.kcl.ac.uk/allnews.html))
@@ -63,6 +50,20 @@ Learning Theory and its Applications. [Registration Deadline: Sep 1, 2022](http:
 Email:  [yali.du AT kcl.ac.uk](mailto:yali.du@kcl.ac.uk)  <br>
 Address: Bush House, 30 Aldwych, WC2B 4BG
 
+## I will speak at the following events:
+* 19 Jul 2023 - Keynote speech at AICC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).
+* 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL.
+* 10-12 Jul 2023 - I am visiting Tsinghua University,  Peking University, MSRA, Renmin University in Beijing.
+* 7 Jul 2023 -  [World Artificial Intelligence Conference (WAIC), Shanghai China](https://www.worldaic.com.cn/).
+* 9nd Jun 2023 - [Berkeley MARL seminar](https://sites.google.com/view/berkeleymarl/home), UC Berkeley on human-in-the-loop RL, host by Eugene Vinitsky.
+* 28 May 2023 - [King's Festival of Artificial Intelligence](https://www.kcl.ac.uk/events/next-level-ai-future-of-games) on Learning to play games with human and learning with human to play
+* 24th May 2023 - Computer Science Colloquium at  Dept. of Computer Science, [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/events/colloquia/).
+* 23th May 2023 - School of Computing, [Australian National University](https://comp.anu.edu.au/), host by [Dr. Liang Zheng](http://zheng-lab.cecs.anu.edu.au/). I will give a guest lecture on "Introdoction to Reinforcement Learning" 
+* 17th May 2023 - Invited Talk @ Fidelity AI Center, [Fidelity Investments](https://labs.fidelity.com/), on RL with human values.
+* 8th May 2023 - Tutorial on "machine learning optimisation" in Oxford Machine Learning Summer School. Please find out more [here](https://www.oxfordml.school/)!
+* 19-21 Feb - Rising Star in AI symposium at KAUST, Thuwal, Saudi Arabia.
+* 10 Feb 2023 - Selected to speak for [AAAI New Faculty Highlights Program](https://aaai.org/Conferences/AAAI-23/new-faculty-highlights-cfp/).
+* 7 Feb 2023 -  Tutorial on “Cooperative multi-agent learning” at AAAI 2023. Please find out more [here](https://sites.google.com/view/multi-agent-tutorial/home).
 
 <!--
 
