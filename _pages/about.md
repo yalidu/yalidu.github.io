@@ -34,7 +34,10 @@ Interested applicants please contact yali.du@kcl.ac.uk with your CV, representat
 (For group related news, please visit [here](https://coopai.kcl.ac.uk/allnews.html))
 
 * Sep 2023 - 5 papers are accepted to NeurIPS 2023. We explore safe/interpretable/LLM-aligned RL and human-AI coordination. More details will be shared soon!
-* Jun 2023 - I served as editor for Journal of AAMAS, [Special Issue on Citizen-Centric AI Systems](https://link.springer.com/collections/fjfgjaafef)
+* Sep 2023 - We are supported by EPSRC grant on [ Exploring Causality in Reinforcement Learning for Robust Decision Making](). One postdoc position is to be filled. Please get in touch if you are interested.
+* Aug 2023 - I authored an article on [The Conversation]() entitled [Why Meta is allowing users to see the inner workings of its new AI chatbot](https://theconversation.com/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-new-ai-chatbot-210079).
+* June 2023 - I authored an article on [The Conversation]() entitled [Microsoft and Google rivalry could supercharge development of AI](https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419).
+* Jun 2023 - I served as editor for Journal of AAMAS, [Special Issue on Citizen-Centric AI Systems](https://link.springer.com/collections/fjfgjaafef).
 * May 2023 - I served as organization committee for [AAMAS 2023](https://aamas2023.soton.ac.uk/)
 * 28 Dec 2022 - I am appointed as the an Associate Editor for [IEEE Transactions on AI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) editorial board. Look forward to serving the journal! 
 * 12 Dec 2022 - I give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 together with [Dr. Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
