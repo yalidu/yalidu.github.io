@@ -21,7 +21,7 @@ My research interests lie in reinforcement learning and multi-agent cooperation,
 Welcome to attend the [Safe Reinforcement Learning Seminar](https://sites.google.com/view/saferl-seminar/home).
 
 <span style="color:red">
-PostDoc position: One PostDoc position available with example topics on Causal Modelling, Reinforcement Learning and Multi-agent Cooperation. 
+PostDoc position: Funded by EPSRC, one PostDoc position is available in our group with example topics on Causal Modelling, Reinforcement Learning and Multi-agent Cooperation. 
 </span> <br>
 
 <span style="color:orangered">

@@ -1,11 +1,18 @@
 ---
 layout: archive
-title: "Tutorials & Talks"
+title: "Talks & Articles"
 permalink: /teaching/
 author_profile: true
 ---
 
-## Tutorials 
+## Public conversations 
+* **Why Meta is allowing users to see the inner workings of its new AI chatbot**, an article published on [The Conversation](https://theconversation.com/uk), Aug 2023. <br>
+ [Link](https://theconversation.com/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-new-ai-chatbot-210079)
+* **Microsoft and Google rivalry could supercharge development of AI**, an article published on [The Conversation](https://theconversation.com/uk), Jun 2023. <br> 
+[Link](https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419)
+* **Learning to Play Games with Humans V.S. Learning with Humans to Play**, Public talk at Next Level - AI and the Future of Games, King’s Festival of Artificial Intelligence. For more info, click [here](https://www.kcl.ac.uk/events/next-level-ai-future-of-games)
+
+## Tutorials
 * **A Gentle Dive into Reinforcement Learning**, guest lecture at Peking University and Australian National University (ANU) 2023. <br>
 [slides (one hour)](https://drive.google.com/file/d/1-dwHzMUwDnhEG2jxFuXo9GJLPj19tXRt/view?usp=sharing)
 |[slides (two hours)](https://drive.google.com/file/d/1-4yo18OUEggXYXI4qwXDfU-QT6K7aVBS/view?usp=sharing)
@@ -15,7 +22,6 @@ author_profile: true
 * **Multi-Agent Learning and Evaluation**, 
 An introduction to Stochastic Games for Multi-Agent Learning, Evaluation of Human and AI agents, Aug 2021. <br>
 [slides](https://drive.google.com/file/d/101TahcW_BVVFkq88_h8mSuJWAZ3P7aOQ/view?usp=sharing)
-
 
 ## Recent Talks
 * **Decision Structure in Decentralized Multi-Agent Learning**, the International Joint Conference on Theoretical Computer Science (IJTCS) Aug 2022 <br>
