@@ -9,9 +9,12 @@ redirect_from:
 ---
 
 
-I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/).
-I lead the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
-My research interests lie in reinforcement learning and multi-agent cooperation, with a focus on topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics), among others.
+
+Yali Du is an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/). She leads the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
+Her research aims to enable machines to exhibit cooperative and trustworthy behavior in intelligent decision-making tasks. 
+Her work focuses on reinforcement learning and multi-agent cooperation, with topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics). She was chosen for the AAAI New Faculty Highlights recipients (2023), Rising Star in AI (KAUST 2023). She has given tutorials on cooperative multi-agent learning at ACML 2022 and AAAI 2023. 
+She serves as the editors Journal of AAMAS and Associate Editor for IEEE Transactions on AI. She was a part of the organizing committee for AAMAS 2023, and served as Senior PC for AAAI. Her research is also supported by the Engineering and Physical Sciences Research Council (UKRI-EPSRC).
+
 
 [Join Us](#join-us)\
 [Recent News](#recent-news)\
@@ -184,7 +187,9 @@ multi-agent cooperation/coordination, policy generalization/evaluation, social a
 # About Me
 
 Applying or enquiry with your CV, transcripts, and any materials that you think are relevant to: yali.du(at)kcl.ac.uk
-
+I am currently an Assistant Professor (UK Lecturer) at [King's College London](https://www.kcl.ac.uk/).
+I lead the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
+My research interests lie in reinforcement learning and multi-agent cooperation, with a focus on topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics), among others.
 -->
 
 
