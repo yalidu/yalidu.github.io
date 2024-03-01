@@ -12,43 +12,25 @@ Dr Yali Du is an Assistant Professor (UK Lecturer)  in Artificial Intelligence a
 She leads the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
 Her research aims to enable machines to exhibit cooperative and responsible behaviour in intelligent decision making tasks. Her work focuses on reinforcement learning and multi-agent cooperation, with topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics). She was chosen for the AAAI New Faculty Highlights award (2023), Rising Star in AI 2023. She has given tutorials on cooperative multi-agent learning at ACML 2022 and AAAI 2023. She serves as the editors for Journal of AAMAS and IEEE Transactions on AI, and organising committee for AAMAS 2023. Her research is also supported by the Engineering and Physical Sciences Research Council (UKRI-EPSRC).
 
-
+For latest news, please visit [here](https://coopai.kcl.ac.uk/allnews.html))
 
 [Join Us](#join-us)\
-[Recent News](#recent-news)\
 [Recent Talks](#I-will-speak-at-the-following-events)
 
 # Join Us!
-Welcome to attend the [Safe Reinforcement Learning Seminar](https://sites.google.com/view/saferl-seminar/home).
 
 <span style="color:red">
-PostDoc position: Funded by EPSRC, one PostDoc position is available in our group with example topics on Causal Modelling, Reinforcement Learning and Multi-agent Cooperation. 
+PostDoc Position: One PostDoc position available in Multi-Agent Reinforcement Learning and Foundation Models. Deadline: 12 Mar 2024. Please apply [here](https://www.kcl.ac.uk/jobs/084006-postdoc-research-associate-in-multi-agent-reinforcement-learning-and-foundation-models).
 </span> <br>
 
 <span style="color:orangered">
-Two PhD positions: Full international scholarship are available in our lab. <br>
-Interested applicants please contact yali.du@kcl.ac.uk with your CV, representative papers, and transcripts. More information is found [here](http://rlchina.org/topic/748).
+PhD Positions: We are constantly looking for highly motivated students to join our lab. Interested applicants, please contact yali.du@kcl.ac.uk.
 </span>
 
 
-## Recent News
-(For group related news, please visit [here](https://coopai.kcl.ac.uk/allnews.html))
-
-* Sep 2023 - 5 papers are accepted to NeurIPS 2023. We explore safe/interpretable/LLM-aligned RL and human-AI coordination. More details will be shared soon!
-* Sep 2023 - We are supported by EPSRC grant on [ Exploring Causality in Reinforcement Learning for Robust Decision Making](). One postdoc position is to be filled. Please get in touch if you are interested.
-* Aug 2023 - I authored an article on [The Conversation]() entitled [Why Meta is allowing users to see the inner workings of its new AI chatbot](https://theconversation.com/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-new-ai-chatbot-210079).
-* June 2023 - I authored an article on [The Conversation]() entitled [Microsoft and Google rivalry could supercharge development of AI](https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419).
-* Jun 2023 - I served as editor for Journal of AAMAS, [Special Issue on Citizen-Centric AI Systems](https://link.springer.com/collections/fjfgjaafef).
-* May 2023 - I served as organization committee for [AAMAS 2023](https://aamas2023.soton.ac.uk/)
-* 28 Dec 2022 - I am appointed as the an Associate Editor for [IEEE Transactions on AI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) editorial board. Look forward to serving the journal! 
-* 12 Dec 2022 - I give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 together with [Dr. Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
-* 1 Sep 2022 - we are organizing the 1st International Workshop on Safe Reinforcement
-Learning Theory and its Applications. [Registration Deadline: Sep 1, 2022](http://saferl.online/2022/)
-* 17 Aug 2022 - I am giving a talk on "Decision Structure in Decentralized Multi-Agent Learning" at [International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW) 2022](https://conference.cs.cityu.edu.hk/ijtcs2022/).
-* 30 Jun 2022 - One paper on "[Scalable model-based policy optimization for decentralized networked systems](https://github.com/PKU-MARL/Model-Based-MARL)" has been accepted by  2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
-* 08 Mar 2022 - Invited to give a tutorial at [Oxford Machine Learning Summer School](https://www.oxfordml.school/). This is a three-hour tutorial on optimisation for machine learning. Welcome to join!
-
 ## I will speak at the following events:
+* 29 Feb 2024 - Invited talk at MBZUAI [AI Talks](https://mbzuai.ac.ae/the-node/ai-talks/).
+* 2 Feb 2024 - Invited talk at Supply Chain AI Lab, University of Cambridge.
 * 19 Jul 2023 - Keynote speech at AICC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).
 * 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL.
 * 10-12 Jul 2023 - I am visiting Tsinghua University,  Peking University, MSRA, Renmin University in Beijing.
@@ -70,6 +52,24 @@ Address: Bush House, 30 Aldwych, WC2B 4BG
 
 
 <!--
+
+
+## Recent News
+(For group related news, please visit [here](https://coopai.kcl.ac.uk/allnews.html))
+
+* Sep 2023 - 5 papers are accepted to NeurIPS 2023. We explore safe/interpretable/LLM-aligned RL and human-AI coordination. More details will be shared soon!
+* Sep 2023 - We are supported by EPSRC grant on [ Exploring Causality in Reinforcement Learning for Robust Decision Making](). One postdoc position is to be filled. Please get in touch if you are interested.
+* Aug 2023 - I authored an article on [The Conversation]() entitled [Why Meta is allowing users to see the inner workings of its new AI chatbot](https://theconversation.com/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-new-ai-chatbot-210079).
+* June 2023 - I authored an article on [The Conversation]() entitled [Microsoft and Google rivalry could supercharge development of AI](https://theconversation.com/microsoft-and-google-rivalry-could-supercharge-development-of-ai-206419).
+* Jun 2023 - I served as editor for Journal of AAMAS, [Special Issue on Citizen-Centric AI Systems](https://link.springer.com/collections/fjfgjaafef).
+* May 2023 - I served as organization committee for [AAMAS 2023](https://aamas2023.soton.ac.uk/)
+* 28 Dec 2022 - I am appointed as the an Associate Editor for [IEEE Transactions on AI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) editorial board. Look forward to serving the journal! 
+* 12 Dec 2022 - I give a tutorial on “Cooperative multi-agent learning: a review of progress and challenges" at [ACML](https://www.acml-conf.org/2022/cfp.html) 12-14 Dec, 2022 together with [Dr. Joel Z. Leibo](http://www.jzleibo.com/) from DeepMind. More details to be released.
+* 1 Sep 2022 - we are organizing the 1st International Workshop on Safe Reinforcement
+Learning Theory and its Applications. [Registration Deadline: Sep 1, 2022](http://saferl.online/2022/)
+* 17 Aug 2022 - I am giving a talk on "Decision Structure in Decentralized Multi-Agent Learning" at [International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom (IJTCS-FAW) 2022](https://conference.cs.cityu.edu.hk/ijtcs2022/).
+* 30 Jun 2022 - One paper on "[Scalable model-based policy optimization for decentralized networked systems](https://github.com/PKU-MARL/Model-Based-MARL)" has been accepted by  2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+* 08 Mar 2022 - Invited to give a tutorial at [Oxford Machine Learning Summer School](https://www.oxfordml.school/). This is a three-hour tutorial on optimisation for machine learning. Welcome to join!
 
 
 * 1 x Postdoc on Causal Reinforcement Learning
