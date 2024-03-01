@@ -8,17 +8,14 @@ redirect_from:
  - /about.html
 ---
 
-Dr Yali Du is an Assistant Professor (UK Lecturer)  in Artificial Intelligence at [King's College London](https://www.kcl.ac.uk/). 
+Dr Yali Du is a Lecturer in AI at [King's College London](https://www.kcl.ac.uk/), and a Turing Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/). 
 She leads the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
-Her research aims to enable machines to exhibit cooperative and responsible behaviour in intelligent decision making tasks. Her work focuses on reinforcement learning and multi-agent cooperation, with topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics). She was chosen for the AAAI New Faculty Highlights award (2023), Rising Star in AI 2023. She has given tutorials on cooperative multi-agent learning at ACML 2022 and AAAI 2023. She serves as the editors for Journal of AAMAS and IEEE Transactions on AI, and organising committee for AAMAS 2023. Her research is also supported by the Engineering and Physical Sciences Research Council (UKRI-EPSRC).
+Her research aims to enable machines to exhibit cooperative and responsible behaviour in intelligent decision making tasks. Her work focuses on reinforcement learning and multi-agent cooperation, with topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics). 
+She was chosen for the AAAI New Faculty Highlights award (2023), Rising Star in AI 2023. She has given tutorials on cooperative multi-agent learning at ACML 2022 and AAAI 2023. She serves as the editors for Journal of AAMAS and IEEE Transactions on AI, and organising committee for AAMAS 2023. Her research is also supported by the Engineering and Physical Sciences Research Council (UKRI-EPSRC).
 
-For latest news, please visit [here](https://coopai.kcl.ac.uk/allnews.html))
-
-[Join Us](#join-us)\
-[Recent Talks](#I-will-speak-at-the-following-events)
+For latest news, please visit [here](https://coopai.kcl.ac.uk/allnews.html).
 
 # Join Us!
-
 <span style="color:red">
 PostDoc Position: One PostDoc position available in Multi-Agent Reinforcement Learning and Foundation Models. Deadline: 12 Mar 2024. Please apply [here](https://www.kcl.ac.uk/jobs/084006-postdoc-research-associate-in-multi-agent-reinforcement-learning-and-foundation-models).
 </span> <br>
@@ -29,8 +26,10 @@ PhD Positions: We are constantly looking for highly motivated students to join o
 
 
 ## I will speak at the following events:
+* 27 Mar 2024 - Invited talk at [KCL PHS Departmental Seminars](https://www.kcl.ac.uk/events/series/department-of-population-health-sciences-seminars-1), Department of Population Health Sciences Seminars, KCL.
 * 29 Feb 2024 - Invited talk at MBZUAI [AI Talks](https://mbzuai.ac.ae/the-node/ai-talks/).
-* 2 Feb 2024 - Invited talk at Supply Chain AI Lab, University of Cambridge.
+* 2 Feb 2024 - Invited talk at [Supply Chain AI Lab](https://www.ifm.eng.cam.ac.uk/research/supply-chain-ai-lab/), University of Cambridge.
+* 2 Dec 2023 - Invited talk at e [A*STAR Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar/home), Singapore.
 * 19 Jul 2023 - Keynote speech at AICC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).
 * 16-19 Jul 2023 - [Cooperative AI Summer school](https://www.cooperativeai.com/summer-school/2023) on human-in-the-loop RL.
 * 10-12 Jul 2023 - I am visiting Tsinghua University,  Peking University, MSRA, Renmin University in Beijing.
@@ -52,6 +51,9 @@ Address: Bush House, 30 Aldwych, WC2B 4BG
 
 
 <!--
+
+[Join Us](#join-us)\
+[Recent Talks](#I-will-speak-at-the-following-events)
 
 
 ## Recent News
