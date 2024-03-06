@@ -27,7 +27,7 @@ PhD Positions: We are constantly looking for highly motivated students to join o
 
 ## I will speak at the following events:
 * 27 Mar 2024 - Invited talk at [KCL PHS Departmental Seminars](https://www.kcl.ac.uk/events/series/department-of-population-health-sciences-seminars-1), Department of Population Health Sciences Seminars, KCL.
-* 29 Feb 2024 - Invited talk at MBZUAI [AI Talks](https://mbzuai.ac.ae/the-node/ai-talks/).
+* 1 Mar 2024 - Invited talk at MBZUAI [AI Talks](https://mbzuai.ac.ae/the-node/ai-talks/).
 * 2 Feb 2024 - Invited talk at [Supply Chain AI Lab](https://www.ifm.eng.cam.ac.uk/research/supply-chain-ai-lab/), University of Cambridge.
 * 2 Dec 2023 - Invited talk at e [A*STAR Centre for Frontier AI Research (CFAR)](https://www.a-star.edu.sg/cfar/home), Singapore.
 * 19 Jul 2023 - Keynote speech at AICC Conference, [University of Southampton](https://www.southampton.ac.uk/research/groups/agents-interaction-complexity).

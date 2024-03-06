@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Public conversations 
+* [Artificial Intelligence: An explainer](https://post.parliament.uk/research-briefings/post-pb-0057/), a report collaborated with UK Parliamentary Office of Science and Technology(POST), which helps to define how AI can be used, how AI works, and discusses concerns and perceptions surrounding AI.
 * **Why Meta is allowing users to see the inner workings of its new AI chatbot**, an article published on [The Conversation](https://theconversation.com/uk), Aug 2023. <br>
  [Link](https://theconversation.com/why-meta-is-allowing-users-to-see-the-inner-workings-of-its-new-ai-chatbot-210079)
 * **Microsoft and Google rivalry could supercharge development of AI**, an article published on [The Conversation](https://theconversation.com/uk), Jun 2023. <br> 
@@ -13,11 +14,11 @@ author_profile: true
 * **Learning to Play Games with Humans V.S. Learning with Humans to Play**, Public talk at Next Level - AI and the Future of Games, King’s Festival of Artificial Intelligence. For more info, click [here](https://www.kcl.ac.uk/events/next-level-ai-future-of-games)
 
 ## Tutorials
+* **Cooperative multi-agent learning: a review of progress and challenges**, in AAAI 2023, ACML 2022, in collaboration wit Dr Joel Leibo (DeepMind). <br>
+[Tutorial website](https://sites.google.com/view/multi-agent-tutorial/home)
 * **A Gentle Dive into Reinforcement Learning**, guest lecture at Peking University and Australian National University (ANU) 2023. <br>
 [slides (one hour)](https://drive.google.com/file/d/1-dwHzMUwDnhEG2jxFuXo9GJLPj19tXRt/view?usp=sharing)
 |[slides (two hours)](https://drive.google.com/file/d/1-4yo18OUEggXYXI4qwXDfU-QT6K7aVBS/view?usp=sharing)
-* **Cooperative multi-agent learning: a review of progress and challenges**, in AAAI 2023, ACML 2022. <br>
-[slides](https://sites.google.com/view/multi-agent-tutorial/home)
 * **Optimisation for Machine Learning**, Oxford Machine Learning Summer School, 2022 & [2023]((https://www.oxfordml.school/))
 * **Multi-Agent Learning and Evaluation**, 
 An introduction to Stochastic Games for Multi-Agent Learning, Evaluation of Human and AI agents, Aug 2021. <br>
