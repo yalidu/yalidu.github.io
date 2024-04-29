@@ -17,7 +17,7 @@ For latest news, please visit [here](https://coopai.kcl.ac.uk/allnews.html).
 
 # Join Us!
 <span style="color:red">
-PostDoc Position: One PostDoc position available in Multi-Agent Reinforcement Learning and Foundation Models. Feel free to get in touch if you are interested. Please apply [here](https://www.kcl.ac.uk/jobs/084006-postdoc-research-associate-in-multi-agent-reinforcement-learning-and-foundation-models).
+PostDoc Position: One PostDoc position available in Multi-Agent Reinforcement Learning and Foundation Models. Feel free to get in touch if you are interested. 
 </span> <br>
 
 <span style="color:orangered">
