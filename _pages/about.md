@@ -26,6 +26,7 @@ PhD Positions: We are constantly looking for highly motivated students to join o
 
 
 ## I will speak at the following events:
+* 12 Aug 2024 - Invited talk at JPMC AI in Dynamic Decision-Making Seminar, J.P. Morgan AI Research Group.
 * 27 Mar 2024 - Invited talk at [KCL PHS Departmental Seminars](https://www.kcl.ac.uk/events/series/department-of-population-health-sciences-seminars-1), Department of Population Health Sciences Seminars, KCL.
 * 1 Mar 2024 - Invited talk at MBZUAI [AI Talks](https://mbzuai.ac.ae/the-node/ai-talks/).
 * 2 Feb 2024 - Invited talk at [Supply Chain AI Lab](https://www.ifm.eng.cam.ac.uk/research/supply-chain-ai-lab/), University of Cambridge.
