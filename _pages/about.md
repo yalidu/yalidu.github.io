@@ -26,7 +26,7 @@ PhD Positions: We are constantly looking for highly motivated students to join o
 
 
 ## I will speak at the following events:
-* Sep 2024 - Invited talk at Center for AI, AstraZeneca.
+* 25 Sep 2024 - Invited talk at Center for AI, AstraZeneca.
 * 12 Aug 2024 - Invited talk at JPMC AI in Dynamic Decision-Making Seminar, [J.P. Morgan AI Research Group](https://www.jpmorgan.com/global).
 * 21 May 2024 - [King's Festival of Artificial Intelligence](https://www.kcl.ac.uk/ai) on Perspectives on AI: Learning to Cooperate from Human Instructions.
 * 27 Mar 2024 - Invited talk at [KCL PHS Departmental Seminars](https://www.kcl.ac.uk/events/series/department-of-population-health-sciences-seminars-1), Department of Population Health Sciences Seminars, KCL.

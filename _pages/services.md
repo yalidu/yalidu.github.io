@@ -7,15 +7,17 @@ author_profile: true
 
 
 ### Editorships and Organisation Committee 
+* Organization committee for [NeurIPS 2024](https://aamas2023.soton.ac.uk/), serving as Communication Chair.
+* Organizer for workshop on [Citizen-Centric Multi Agent Systems](https://sites.google.com/view/cmas24) for AAMAS 2024
 * Organization committee for [AAMAS 2023](https://aamas2023.soton.ac.uk/)
+* Organizer for [the 1st International Workshop on Safe Reinforcement Learning Theory and its Applications, 2022](https://saferl.online/2022/)
 * Editor for Journal of AAMAS, [Special Issue on Citizen-Centric AI Systems](https://link.springer.com/collections/fjfgjaafef)
 * Associate Editor for [IEEE Transactions on AI](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence) 
-* Organizer for [the 1st International Workshop on Safe Reinforcement Learning Theory and its Applications, 2022](https://saferl.online/2022/)
 
 ### Chair/PC/Senior PC
-* Session Chair for Reinforcement Learning in [IROS 2022](https://iros2022.org/)
+* Area Chair for [NeurIPS 2024](https://neurips.cc/Conferences/2024)
+* Senior PC for [ECAI 2024](https://www.ecai2024.eu/)
 * Senior PC for [AAAI 2022](https://aaai.org/Conferences/AAAI-22/)
-* Session Chair for Reinforcement Learning in [ACML 2021](https://www.acml-conf.org/2021/)
 * PC & Reviewer for 
      ICML (2020-present); 
      NeurIPS(2020-present); 
@@ -36,6 +38,8 @@ author_profile: true
 
 
 <!--
+* Session Chair for Reinforcement Learning in [IROS 2022](https://iros2022.org/)
+* Session Chair for Reinforcement Learning in [ACML 2021](https://www.acml-conf.org/2021/)
 
 <embed src="/files/202305.pdf" type="application/pdf">
 
