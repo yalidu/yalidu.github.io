@@ -29,9 +29,9 @@ PhD Positions: We are constantly looking for highly motivated students to join o
 * 22 Nov 2024 - Invited talk at JPMC AI in Dynamic Decision-Making Seminar, [J.P. Morgan AI Research Group](https://www.jpmorgan.com/global).
 * 10 Oct 2024 - Invited talk at [CCAIS Seminars series AI](https://sites.google.com/view/ccais-seminar/home) on citizen-centric AI. 
 * 23 Oct 2024 - Invited talk at [Institute of Chartered Accountants in England and Wales](https://www.icaew.com/) (ICAEW) [Global Ethics Day]( https://events.icaew.com/pd/29561/global-ethics-day) to discuss ethical practices related to accountancy. 
-* 26 Sep 2024 - I am invited to speak at the [Conversations on AI workshop](https://events.cognizant.com/event/01f0617c-7b97-4cdf-92ea-3c7ff7f7a7ee/summary) organised by [Cognizant](https://events.cognizant.com/event/01f0617c-7b97-4cdf-92ea-3c7ff7f7a7ee/summary) on **How AI can responsibly transform financial services?**
-* 25 Sep 2024 - Invited talk at Center for AI, AstraZeneca.
-* 16 Sep 2024 - Invited talk at Ocado Technology on``Cooperative AI Agents''. We will discuss RL/LLM for multi-agent decision making and its relevance to the areas of robotics.
+* 26 Sep 2024 - I am invited to speak at the [Conversations on AI workshop](https://events.cognizant.com/event/01f0617c-7b97-4cdf-92ea-3c7ff7f7a7ee/summary) organised by [Cognizant](https://events.cognizant.com/event/01f0617c-7b97-4cdf-92ea-3c7ff7f7a7ee/summary) on *How AI can responsibly transform financial services?*
+* 25 Sep 2024 - Invited talk at Center for AI, [AstraZeneca](https://www.astrazeneca.co.uk/).
+* 16 Sep 2024 - Invited talk at [Ocado Technology](https://www.ocadogroup.com/) on *Cooperative AI Agents*. We will discuss RL/LLM for multi-agent decision making and its relevance to the areas of robotics.
 * 21 May 2024 - [King's Festival of Artificial Intelligence](https://www.kcl.ac.uk/ai) on Perspectives on AI: Learning to Cooperate from Human Instructions.
 * 27 Mar 2024 - Invited talk at [KCL PHS Departmental Seminars](https://www.kcl.ac.uk/events/series/department-of-population-health-sciences-seminars-1), Department of Population Health Sciences Seminars, KCL.
 * 1 Mar 2024 - Invited talk at MBZUAI [AI Talks](https://mbzuai.ac.ae/the-node/ai-talks/).
