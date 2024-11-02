@@ -27,8 +27,10 @@ PhD Positions: We are constantly looking for highly motivated students to join o
 
 ## I will speak at the following events:
 * 22 Nov 2024 - Invited talk at JPMC AI in Dynamic Decision-Making Seminar, [J.P. Morgan AI Research Group](https://www.jpmorgan.com/global).
-* 10 Oct 2024 - Invited talk at [CCAIS Seminars series AI](https://sites.google.com/view/ccais-seminar/home) on citizen-centric AI. 
+* 6 Nov 2024 - I am invited to speak at the UKSIF's Leadership Summit, hosted by [UK Sustainable Investment and Finance Association](https://uksif.org/) on *Responsible AI in building portfolios*.
+* 1 Nov 2024 - Invited talk at [University of Macao](https://www.um.edu.mo/zh-hant/) on *Cooperative AI Agents*, hosted by [Qingbiao Li](https://qingbiaoli.github.io/). 
 * 23 Oct 2024 - Invited talk at [Institute of Chartered Accountants in England and Wales](https://www.icaew.com/) (ICAEW) [Global Ethics Day]( https://events.icaew.com/pd/29561/global-ethics-day) to discuss ethical practices related to accountancy. 
+* 10 Oct 2024 - Invited talk at [CCAIS Seminars series AI](https://sites.google.com/view/ccais-seminar/home) on citizen-centric AI. 
 * 26 Sep 2024 - I am invited to speak at the [Conversations on AI workshop](https://events.cognizant.com/event/01f0617c-7b97-4cdf-92ea-3c7ff7f7a7ee/summary) organised by [Cognizant](https://events.cognizant.com/event/01f0617c-7b97-4cdf-92ea-3c7ff7f7a7ee/summary) on *How AI can responsibly transform financial services?*
 * 25 Sep 2024 - Invited talk at Center for AI, [AstraZeneca](https://www.astrazeneca.co.uk/).
 * 16 Sep 2024 - Invited talk at [Ocado Technology](https://www.ocadogroup.com/) on *Cooperative AI Agents*. We will discuss RL/LLM for multi-agent decision making and its relevance to the areas of robotics.
