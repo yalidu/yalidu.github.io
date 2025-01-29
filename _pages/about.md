@@ -26,7 +26,7 @@ PhD Positions: We are constantly looking for highly motivated students to join o
 
 ## What's New
 
-* Excited to share that we receive support from the AI Safety Institute ( https://www.aisi.gov.uk/) our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. 
+* Excited to share that we receive support from the [AI Safety Institute](https://www.aisi.gov.uk/) our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. 
 
 I will speak at the following events:
 * 1 Apr 2025 -  Social Norms Seminars, Royal Holloway, University of London.
