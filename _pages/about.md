@@ -24,8 +24,13 @@ PostDoc Position: One PostDoc position available in Multi-Agent Reinforcement Le
 PhD Positions: We are constantly looking for highly motivated students to join our lab. Interested applicants, please contact yali.du@kcl.ac.uk.
 </span>
 
+## What's New
 
-## I will speak at the following events:
+* Excited to share that we receive support from the AI Safety Institute ( https://www.aisi.gov.uk/) our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. 
+
+I will speak at the following events:
+* 1 Apr 2025 -  Social Norms Seminars, Royal Holloway, University of London.
+* 28 Feb 2025 - UCL [JumpTrading/ELLIS CSML Seminar Series](https://ucl-ellis.github.io/jt_csml_seminar_home/).
 * 22 Nov 2024 - Invited talk at JPMC AI in Dynamic Decision-Making Seminar, [J.P. Morgan AI Research Group](https://www.jpmorgan.com/global).
 * 6 Nov 2024 - I am invited to speak at the UKSIF's Leadership Summit, hosted by [UK Sustainable Investment and Finance Association](https://uksif.org/) on *Responsible AI in building portfolios*.
 * 1 Nov 2024 - Invited talk at [University of Macao](https://www.um.edu.mo/zh-hant/) on *Cooperative AI Agents*, hosted by [Qingbiao Li](https://qingbiaoli.github.io/). 
