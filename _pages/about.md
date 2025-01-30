@@ -11,7 +11,8 @@ redirect_from:
 Dr Yali Du is a Senior Lecturer (Associate Professor) in AI at [King's College London](https://www.kcl.ac.uk/people/yali-du), and a Turing Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/people/turing-fellows/yali-du).
 She leads the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
 Her research aims to enable machines to exhibit cooperative and safe behaviour in intelligent decision making tasks. Her work focuses on reinforcement learning and multi-agent cooperation, with topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics). 
-She was chosen for the AAAI New Faculty Highlights award (2023), Rising Star in AI 2023. She has given tutorials on cooperative multi-agent learning at ACML 2022 and AAAI 2023. She serves as the editors for Journal of AAMAS and IEEE Transactions on AI, Area Chair for NeurIPS 2024. She also serves in organising committee for AAMAS 2023 and NeurIPS 2024. Her research is also supported by the Engineering and Physical Sciences Research Council (UKRI-EPSRC).
+She was chosen for the AAAI New Faculty Highlights award (2023), Rising Star in AI 2023. She has given tutorials on cooperative multi-agent learning at ACML 2022 and AAAI 2023. She serves as the editors for Journal of AAMAS and IEEE Transactions on AI, Area Chair for NeurIPS 2024. She also serves in organising committee for AAMAS 2023 and NeurIPS 2024. 
+Her research is also supported by the [Engineering and Physical Sciences Research Council(EPSRC)](https://www.ukri.org/opportunity/early-career-researcher-international-collaboration-grants/) and [AI Safety Insitute (AISI)](https://www.aisi.gov.uk/)).
 
 For latest news, please visit [here](https://coopai.kcl.ac.uk/allnews.html).
 
