@@ -12,22 +12,15 @@ Dr Yali Du is a Senior Lecturer (Associate Professor) in AI at [King's College L
 She leads the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
 Her research aims to enable machines to exhibit cooperative and safe behaviour in intelligent decision making tasks. Her work focuses on reinforcement learning and multi-agent cooperation, with topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics). 
 She was chosen for the AAAI New Faculty Highlights award (2023), Rising Star in AI 2023. She has given tutorials on cooperative multi-agent learning at ACML 2022 and AAAI 2023. She serves as the editors for Journal of AAMAS and IEEE Transactions on AI, Area Chair for NeurIPS 2024. She also serves in organising committee for AAMAS 2023 and NeurIPS 2024. 
-Her research is also supported by the [Engineering and Physical Sciences Research Council(EPSRC)](https://www.ukri.org/opportunity/early-career-researcher-international-collaboration-grants/) and [AI Safety Insitute (AISI)](https://www.aisi.gov.uk/)).
+Her research is also supported by the [Engineering and Physical Sciences Research Council(EPSRC)](https://www.ukri.org/opportunity/early-career-researcher-international-collaboration-grants/) and [AI Safety Insitute (AISI)](https://www.aisi.gov.uk/).
 
 For latest news, please visit [here](https://coopai.kcl.ac.uk/allnews.html).
 
-# Join Us!
-<span style="color:red">
-PostDoc Position: One PostDoc position available in Multi-Agent Reinforcement Learning and Foundation Models. Feel free to get in touch if you are interested. 
-</span> <br>
-
-<span style="color:orangered">
-PhD Positions: We are constantly looking for highly motivated students to join our lab. Interested applicants, please contact yali.du@kcl.ac.uk.
-</span>
-
 ## What's New
-
-* Excited to share that we receive support from the [AI Safety Institute](https://www.aisi.gov.uk/) our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. 
+ 
+<span style="color:red">
+Excited to share that we receive support from the [AI Safety Institute](https://www.aisi.gov.uk/) our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. One Postdoc position is funded.
+</span>
 
 I will speak at the following events:
 * 1 Apr 2025 -  Social Norms Seminars, Royal Holloway, University of London.
@@ -66,6 +59,17 @@ Address: Bush House, 30 Aldwych, WC2B 4BG
 
 
 <!--
+
+
+# Join Us!
+<span style="color:red">
+PostDoc Position: One PostDoc position available in Multi-Agent Reinforcement Learning and Foundation Models. Feel free to get in touch if you are interested. 
+</span> <br>
+
+<span style="color:orangered">
+PhD Positions: We are constantly looking for highly motivated students to join our lab. Interested applicants, please contact yali.du@kcl.ac.uk.
+</span>
+
 
 [Join Us](#join-us)\
 [Recent Talks](#I-will-speak-at-the-following-events)
@@ -132,15 +136,6 @@ The application deadline is February 10th, 2023.
 Details to application is found [here](https://docs.google.com/document/d/1Z5-Ru52ajWuWtwDfBrDxJPGMcyUHHbMMfr7-59hSjr4/edit?usp=sharing)
 </span>
 
-
-
-, hosted by [Prof. Long Tran-Thanh
-](https://warwick.ac.uk/fac/sci/dcs/people/long_tran-thanh/) and [Prof. Yu Guan](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/)
-
-
-
-* I am actively looking for [PhD students](opening.md) and [postdocs](opening.md) to work with me. Check [Openings](opening.md) for funding opportunities and topics of interest. Please drop me an email with your CV and interest.
-* I am happy to host undergraduate / graduate visitors and supervise summer research projects. Please drop me an email with your CV and interest.
 
 
 <span style="color:red">
