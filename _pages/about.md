@@ -18,9 +18,6 @@ For latest news, please visit [here](https://coopai.kcl.ac.uk/allnews.html).
 
 ## What's New
  
-<span style="color:red">
-Excited to share that we receive support from the [AI Safety Institute](https://www.aisi.gov.uk/) our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. One Postdoc position is funded.
-</span>
 
 I will speak at the following events:
 * 1 Apr 2025 -  Social Norms Seminars, Royal Holloway, University of London.
@@ -59,6 +56,11 @@ Address: Bush House, 30 Aldwych, WC2B 4BG
 
 
 <!--
+
+
+<span style="color:red">
+Excited to share that we receive support from the [AI Safety Institute](https://www.aisi.gov.uk/) our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. One Postdoc position is funded.
+</span>
 
 
 # Join Us!
