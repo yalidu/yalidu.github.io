@@ -18,6 +18,7 @@ For latest news, please visit [here](https://coopai.kcl.ac.uk/allnews.html).
 
 ## What's New
  
+* The UK Multi-Agent Systems Symposium 2025 ([UK-MAS](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas)) will be held at King's College London as a fringe event of [AI UK](https://ai-uk.turing.ac.uk/). We warmly welcome you to attend!
 
 I will speak at the following events:
 * 1 Apr 2025 -  Social Norms Seminars, Royal Holloway, University of London.
