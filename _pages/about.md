@@ -17,7 +17,7 @@ Her research is also supported by the [Engineering and Physical Sciences Researc
 
 
 <span style="color:red">
-Excited to share that we receive support from the [AI Safety Institute](https://www.aisi.gov.uk/) our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. One Postdoc position is funded.
+Excited to share that we receive support from the [UK AI Safety Institute](https://www.aisi.gov.uk/) for our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. One Postdoc position is funded.
 </span>
 
 For group news, please also visit [here](https://coopai.kcl.ac.uk/allnews.html).
