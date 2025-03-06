@@ -14,15 +14,15 @@ Her research aims to enable machines to exhibit cooperative and safe behaviour i
 She was chosen for the AAAI New Faculty Highlights award (2023), Rising Star in AI 2023. She has given tutorials on cooperative multi-agent learning at ACML 2022 and AAAI 2023. She serves as the editors for Journal of AAMAS and IEEE Transactions on AI, Area Chair for NeurIPS 2024. She also serves in organising committee for AAMAS 2023 and NeurIPS 2024. 
 Her research is also supported by the [Engineering and Physical Sciences Research Council(EPSRC)](https://www.ukri.org/opportunity/early-career-researcher-international-collaboration-grants/) and [AI Safety Insitute (AISI)](https://www.aisi.gov.uk/).
 
-For latest news, please visit [here](https://coopai.kcl.ac.uk/allnews.html).
 
-## What's New
 
 <span style="color:red">
 Excited to share that we receive support from the [AI Safety Institute](https://www.aisi.gov.uk/) our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. One Postdoc position is funded.
 </span>
 
+For group news, please also visit [here](https://coopai.kcl.ac.uk/allnews.html).
 
+## What's New
 * The UK Multi-Agent Systems Symposium 2025 ([UK-MAS](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas)) will be held at King's College London as a fringe event of [AI UK](https://ai-uk.turing.ac.uk/). We warmly welcome you to attend!
 
 I will speak at the following events:
