@@ -7,8 +7,9 @@ author_profile: true
 
 ### Editorships and Organisation Committee 
 * Organization committee for [NeurIPS 2024](https://aamas2023.soton.ac.uk/).
-* Organizer for workshop on [Citizen-Centric Multi Agent Systems](https://sites.google.com/view/cmas24) for AAMAS 2024 and AAMAS 2025
 * Organization committee for [AAMAS 2023](https://aamas2023.soton.ac.uk/)
+* Organizer for workshop on [ Reasoning and Planning for Large Language Models](https://sites.google.com/view/cmas24) for ICLR 2025
+* Organizer for workshop on [Citizen-Centric Multi Agent Systems](https://sites.google.com/view/cmas24) for AAMAS 2024 and 2025
 * Organizer for [the 1st International Workshop on Safe Reinforcement Learning Theory and its Applications, 2022](https://saferl.online/2022/)
 * Guest Editor for Journal of AAMAS, [Special Issue on Citizen-Centric AI Systems](https://link.springer.com/collections/fjfgjaafef)
 * Guest Editor for Robotics and Computer-Integrated Manufacturing, Special issue on [Generative Artificial Intelligence for Robotics and Smart Manufacturing](https://www.sciencedirect.com/special-issue/316410/generative-artificial-intelligence-for-robotics-and-smart-manufacturing?utm_campaign=STMJ_250818_STMJIN_OA&utm_medium=email&utm_acid=258887543&SIS_ID=&dgcid=STMJ_250818_STMJIN_OA&CMX_ID=&utm_in=DM530315&utm_source=AC_)
