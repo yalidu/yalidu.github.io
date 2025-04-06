@@ -15,6 +15,7 @@ She was chosen for the AAAI New Faculty Highlights award (2023), Rising Star in 
 Her research is also supported by the [Engineering and Physical Sciences Research Council(EPSRC)](https://www.ukri.org/opportunity/early-career-researcher-international-collaboration-grants/) and [AI Safety Insitute (AISI)](https://www.aisi.gov.uk/).
 
 
+I normally recruit 2~3 PhD students each year. If you are interested in joining us, please complete [this form](https://forms.gle/rqDTxTnMFAb4ZS9R9) and email (yali.du AT kcl.ac.uk). See the form for requirements.
 
 <span style="color:red">
 Excited to share that we receive support from the [UK AI Safety Institute](https://www.aisi.gov.uk/) for our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. One Postdoc position is funded.
