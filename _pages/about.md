@@ -17,24 +17,26 @@ Her research is also supported by the [Engineering and Physical Sciences Researc
 
 I normally recruit 2~3 PhD students each year. If you are interested in joining us, please complete [this form](https://forms.gle/rqDTxTnMFAb4ZS9R9) and email (yali.du@kcl.ac.uk). See the form for requirements.
 
-<span style="color:darkorange">
+
+<font color="darkorange">
 
 * Excited to share that we receive support from the [UK AI Safety Institute](https://www.aisi.gov.uk/) for our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. One Postdoc position is funded.
 * Mar 2025 - We’ve released SocialJax — a suite of sequential social dilemma environments for multi-agent RL in JAX, developed together with DeepMind researcher Joel Leibo. Built for speed, SocialJax leverages JAX’s GPU/TPU acceleration to scale MARL research. Code is available [here]( https://lnkd.in/ex8edRrv).
 * DAI 2025 is calling for presentations, workshops and tutorials. Check [here](https://www.adai.ai/dai/2025/index.html) for more details.
 
-</span>
+</font>
 
 
 ## What's New
-
+* Oct 2025, I am attending IROS 2025 Hangzhou and speak at the [Workshop on Generative AI for Robotics and Smart Manufacturing](https://iros-2025-ai4roboticsmanufacturing.github.io/).
+* Sep 2025, Invited talk at the workshop on [Rethinking Multi-Agent Systems
+in the Era of LLMs](https://sites.google.com/view/rethinking-mas/home), University of Oxford.
 * Aug 2025, Invited for IJCAI Early Career Spotlight Talk 2025.
 * Jul 2025, Invited talk at the Apple Reasoning and Planning Workshop in Cupertino.
 * 18 Mar 2025 The UK Multi-Agent Systems Symposium 2025 ([UK-MAS](https://www.turing.ac.uk/events/uk-multi-agent-systems-symposium-2025-uk-mas)) will be held at King's College London as a fringe event of [AI UK](https://ai-uk.turing.ac.uk/). We warmly welcome you to attend!
 
-I will speak at the following events:
-* 1 Apr 2025 -  Social Norms Seminars, Royal Holloway, University of London.
-* 28 Feb 2025 - UCL [JumpTrading/ELLIS CSML Seminar Series](https://ucl-ellis.github.io/jt_csml_seminar_home/).
+* 1 Apr 2025 - Invited talk at Social Norms Seminars, Royal Holloway, University of London.
+* 28 Feb 2025 - Invited talk at UCL [JumpTrading/ELLIS CSML Seminar Series](https://ucl-ellis.github.io/jt_csml_seminar_home/).
 * 22 Nov 2024 - Invited talk at JPMC AI in Dynamic Decision-Making Seminar, [J.P. Morgan AI Research Group](https://www.jpmorgan.com/global).
 * 6 Nov 2024 - I am invited to speak at the UKSIF's Leadership Summit, hosted by [UK Sustainable Investment and Finance Association](https://uksif.org/) on *Responsible AI in building portfolios*.
 * 1 Nov 2024 - Invited talk at [University of Macao](https://www.um.edu.mo/zh-hant/) on *Cooperative AI Agents*, hosted by [Qingbiao Li](https://qingbiaoli.github.io/). 
