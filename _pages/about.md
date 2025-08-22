@@ -17,17 +17,16 @@ Her research is also supported by the [Engineering and Physical Sciences Researc
 
 I normally recruit 2~3 PhD students each year. If you are interested in joining us, please complete [this form](https://forms.gle/rqDTxTnMFAb4ZS9R9) and email (yali.du@kcl.ac.uk). See the form for requirements.
 
+<div style="color:darkorange">
 
-<font color="darkorange">
+* Excited to share that we receive support from the [UK AI Safety Institute](https://www.aisi.gov.uk/) …
+* Mar 2025 - Released SocialJax …
+* DAI 2025 is calling for presentations …
 
-* Excited to share that we receive support from the [UK AI Safety Institute](https://www.aisi.gov.uk/) for our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. One Postdoc position is funded.
-* Mar 2025 - We’ve released SocialJax — a suite of sequential social dilemma environments for multi-agent RL in JAX, developed together with DeepMind researcher Joel Leibo. Built for speed, SocialJax leverages JAX’s GPU/TPU acceleration to scale MARL research. Code is available [here]( https://lnkd.in/ex8edRrv).
-* DAI 2025 is calling for presentations, workshops and tutorials. Check [here](https://www.adai.ai/dai/2025/index.html) for more details.
-
-</font>
-
+</div>
 
 ## What's New
+* Two papers are accepted to EMNLP! I will attend the conference in Suzhou. Look forward to catch up!
 * Oct 2025, I am attending IROS 2025 Hangzhou and speak at the [Workshop on Generative AI for Robotics and Smart Manufacturing](https://iros-2025-ai4roboticsmanufacturing.github.io/).
 * Sep 2025, Invited talk at the workshop on [Rethinking Multi-Agent Systems
 in the Era of LLMs](https://sites.google.com/view/rethinking-mas/home), University of Oxford.
