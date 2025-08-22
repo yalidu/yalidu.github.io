@@ -15,7 +15,7 @@ She was chosen for the AAAI New Faculty Highlights award (2023), Rising Star in 
 Her research is also supported by the [Engineering and Physical Sciences Research Council(EPSRC)](https://www.ukri.org/opportunity/early-career-researcher-international-collaboration-grants/) and [AI Safety Insitute (AISI)](https://www.aisi.gov.uk/).
 
 
-I normally recruit 2~3 PhD students each year. If you are interested in joining us, please complete [this form](https://forms.gle/rqDTxTnMFAb4ZS9R9) and email (yali.du AT kcl.ac.uk). See the form for requirements.
+I normally recruit 2~3 PhD students each year. If you are interested in joining us, please complete [this form](https://forms.gle/rqDTxTnMFAb4ZS9R9) and email (yali.du@kcl.ac.uk). See the form for requirements.
 
 <span style="color:darkorange">
 
@@ -64,7 +64,7 @@ I will speak at the following events:
 
 
 ## Contact
-Email:  [yali.du AT kcl.ac.uk](mailto:yali.du@kcl.ac.uk)  <br>
+Email:  [yali.du@kcl.ac.uk](mailto:yali.du@kcl.ac.uk)  <br>
 Address: Bush House, 30 Aldwych, WC2B 4BG
 
 
