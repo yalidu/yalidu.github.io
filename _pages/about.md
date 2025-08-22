@@ -19,12 +19,13 @@ I normally recruit 2~3 PhD students each year. If you are interested in joining 
 
 
 <div style="color:darkorange">
-
-* Excited to share that we receive support from the [UK AI Safety Institute](https://www.aisi.gov.uk/) for our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. One Postdoc position is funded.
-* Mar 2025 - We’ve released SocialJax — a suite of sequential social dilemma environments for multi-agent RL in JAX, developed together with DeepMind researcher Joel Leibo. Built for speed, SocialJax leverages JAX’s GPU/TPU acceleration to scale MARL research. Code is available [here]( https://lnkd.in/ex8edRrv).
-* DAI 2025 is calling for presentations, workshops and tutorials. Check [here](https://www.adai.ai/dai/2025/index.html) for more details.
-
+<ul>
+  <li>Excited to share that we receive support from the <a href="https://www.aisi.gov.uk/">UK AI Safety Institute</a> for our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. One Postdoc position is funded.</li>
+  <li>Mar 2025 - We’ve released SocialJax — a suite of sequential social dilemma environments for multi-agent RL in JAX, developed together with DeepMind researcher Joel Leibo. Built for speed, SocialJax leverages JAX’s GPU/TPU acceleration to scale MARL research. Code is available <a href="https://lnkd.in/ex8edRrv">here</a>.</li>
+  <li>DAI 2025 is calling for presentations, workshops and tutorials. Check <a href="https://www.adai.ai/dai/2025/index.html">here</a> for more details.</li>
+</ul>
 </div>
+
 
 ## What's New
 * Two papers are accepted to EMNLP! I will attend the conference in Suzhou. Look forward to catch up!
