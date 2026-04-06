@@ -8,12 +8,10 @@ redirect_from:
  - /about.html
 ---
 
-Dr Yali Du is a Senior Lecturer (Associate Professor) in AI at [King's College London](https://www.kcl.ac.uk/people/yali-du), and a Turing Fellow at [The Alan Turing Institute](https://www.turing.ac.uk/people/turing-fellows/yali-du).
-At King's, she is the head of the [Distributed AI Group](https://www.kcl.ac.uk/research/dai).  She directs the [Cooperative AI Lab](https://coopai.kcl.ac.uk/).
-Her research aims to enable machines to exhibit cooperative and safe behaviour in intelligent decision making tasks. Her work focuses on reinforcement learning and multi-agent cooperation, with topics such as generalization, zero-shot coordination, evaluation of human and AI players, and social agency (e.g., human-involved learning, safety, and ethics). 
-She was chosen for the AAAI New Faculty Highlights award (2023), Rising Star in AI 2023. She has given tutorials on cooperative multi-agent learning at ACML 2022 and AAAI 2023. She serves as the editors for Journal of AAMAS and IEEE Transactions on AI, Area Chair for NeurIPS 2024. She also serves in organising committee for AAMAS 2023 and NeurIPS 2024. 
-Her research is also supported by the [Engineering and Physical Sciences Research Council(EPSRC)](https://www.ukri.org/opportunity/early-career-researcher-international-collaboration-grants/) and [AI Safety Insitute (AISI)](https://www.aisi.gov.uk/).
-
+Dr Yali Du is a Senior Lecturer (Associate Professor) in AI at King’s College London, where she heads the [Distributed AI Group](https://www.kcl.ac.uk/research/dai) and leads the [Cooperative AI Lab](https://coopai.kcl.ac.uk/). She is also a Turing Fellow and secondee at [The Alan Turing Institute](https://www.turing.ac.uk/people/turing-fellows/yali-du), and a member of the [European Laboratory for Learning and Intelligent Systems (ELLIS)](https://ellis.eu/person/yali-du).
+Her research develops cooperative and safe AI agents that can learn, coordinate, and align with humans in complex decision-making environments, with a focus on scalable multi-agent learning, human–AI coordination, and value alignment. 
+She received the AAAI New Faculty Highlights Award  and was named a Rising Star in AI by KAUST in 2023. Dr Du serves as Senior Area Chair for AAMAS, Area Chair for NeurIPS, ICML, ICLR, and IJCAI, Associate Editor for IEEE Transactions on Artificial Intelligence, and Guest Editor for the Journal of Autonomous Agents and Multi-Agent Systems and Robotics and Computer-Integrated Manufacturing. 
+She has also served on the organising committees of AAMAS 2023, NeurIPS 2024, DAI 2025, and AAMAS 2027.
 
 I normally recruit 2~3 PhD students each year. If you are interested in joining us, please complete [this form](https://forms.gle/rqDTxTnMFAb4ZS9R9) and email (yali.du@kcl.ac.uk). See the form for requirements.
 
@@ -22,14 +20,17 @@ I normally recruit 2~3 PhD students each year. If you are interested in joining 
 <ul>
   <li>We are organizing the Agentic AI Frontier Online Seminar every Friday at 9 AM PT. Check the upcoming sessions and subscribe to the mailing list <a href="https://agentic-ai-frontier-seminar.github.io/index.html">here</a>.</li> 
   <li>Excited to share that we receive support from the <a href="https://www.aisi.gov.uk/">UK AI Safety Institute</a> for our research on the systemic safety of large language models, with a particular focus on the emergent behaviors of LLM agent groups. One Postdoc position is funded.</li>
-  <li>Mar 2025 - We’ve released SocialJax — a suite of sequential social dilemma environments for multi-agent RL in JAX, developed together with DeepMind researcher Joel Leibo. Built for speed, SocialJax leverages JAX’s GPU/TPU acceleration to scale MARL research. Code is available <a href="https://lnkd.in/ex8edRrv">here</a>.</li>
-  <li>DAI 2025 is calling for presentations, workshops and tutorials. Check <a href="https://www.adai.ai/dai/2025/index.html">here</a> for more details.</li>
+  <li> Mar 2025 - We’ve released SocialJax — a suite of sequential social dilemma environments for multi-agent RL in JAX, developed together with DeepMind researcher Joel Leibo. Built for speed, SocialJax leverages JAX’s GPU/TPU acceleration to scale MARL research. Code is available <a href="https://lnkd.in/ex8edRrv">here</a>.</li>
 </ul>
 </div>
 
 
 ## What's New
-* Two papers are accepted to EMNLP! I will attend the conference in Suzhou. Look forward to catch up!
+* 2 Apr, Invited talk at the [Edge AI Agent Workshop](https://www.cdeng.net/note/posts/edge-ai-agent-workshop/) at University of Edinburgh. Welcome to attend!  
+* 22 Mar, I will give a talk at [Isambard Summit 2026¶](https://docs.isambard.ac.uk/events/isambard_summit_2026/) on Evaluating the cooperative behaviour of systems of generative agents.
+* 18th Mar, we are very excited to receive two [Responsible Ai UK](https://rai.ac.uk/ai-robotics-research-awards/) AI & Robotics Best Research Paper Awards on Scalable Reinforcement Learning and efficient Chain-of-Thought.  Huge congratulations to my co-authors and sincere thanks to the community for the recognition and support.
+* Jan 2026, I have joined the [ELLIS](https://ellis.eu/) community as an [ELLIS Member](https://ellis.eu/person/yali-du)! 
+* Nov 2025, Two papers are accepted to EMNLP! I will attend the conference in Suzhou. Look forward to catch up!
 * Oct 2025, I am attending IROS 2025 Hangzhou and speak at the [Workshop on Generative AI for Robotics and Smart Manufacturing](https://iros-2025-ai4roboticsmanufacturing.github.io/).
 * Sep 2025, Invited talk at the workshop on [Rethinking Multi-Agent Systems
 in the Era of LLMs](https://sites.google.com/view/rethinking-mas/home), University of Oxford.
