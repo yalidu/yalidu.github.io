@@ -26,12 +26,12 @@ I normally recruit 2~3 PhD students each year. If you are interested in joining 
 
 
 ## What's New
-* 8 Dec 2026, I am organising the ELLIS Unconference on Multi-Agent AI for Science.
+* 8 Dec 2026, I am organising the ELLIS UnConference [Multi-Agent AI for Scientific Discovery](https://yalidu.github.io/ellis-multi-agent-workshop-2026/).
 * 11 Nov 2026, Invited talk at the Department of Chemistry, University of Liverpool, hosted by Prof. Andy Cooper.
-* 21–23 Oct 2026, Invited talk at the [Multi-Agent System and AI 2026](https://www.cityu.edu.hk/ias/prd/event/multi-agent-system-and-ai-2026/) event, Hong Kong Institute for Advanced Study (HKIAS), City University of Hong Kong.
+* 21–23 Oct 2026, Invited talk at the [HKIAS International Conference on Multi-Agent Systems and AI 2026](https://www.cityu.edu.hk/ias/prd/event/multi-agent-system-and-ai-2026/), City University of Hong Kong.
 * 19–21 Oct 2026, Visiting HKUST, PolyU and Hong Kong Baptist University.
 * 12 Oct 2026, Invited talk at the Oxford Control Seminar Series.
-* Jun 2026, I am invited to serve as Senior Area Chair for NAACL and AAMAS 2027.
+* Jun 2026, I am invited to serve as Senior Area Chair for NAACL 2027 and AAMAS 2027.
 * 2 Apr, Invited talk at the [Edge AI Agent Workshop](https://www.cdeng.net/note/posts/edge-ai-agent-workshop/) at University of Edinburgh. Welcome to attend!  
 * 22 Mar, I will give a talk at [Isambard Summit 2026¶](https://docs.isambard.ac.uk/events/isambard_summit_2026/) on Evaluating the cooperative behaviour of systems of generative agents.
 * 18th Mar, we are very excited to receive two [Responsible Ai UK](https://rai.ac.uk/ai-robotics-research-awards/) AI & Robotics Best Research Paper Awards on Scalable Reinforcement Learning and efficient Chain-of-Thought.  Huge congratulations to my co-authors and sincere thanks to the community for the recognition and support.
