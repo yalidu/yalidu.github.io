@@ -6,7 +6,7 @@ author_profile: true
 ---
 <br>
 ([BibTex](https://github.com/yalidu/yalidu.github.io/blob/master/bibtex_ydu.bib) 
-| [Full list](https://scholar.google.com/citations?hl=en&user=WMlPkOoAAAAJ)
+| [Full list](https://scholar.google.com/citations?hl=en&user=7tj9yu8AAAAJ)
 | * equal contributions
 )
 
