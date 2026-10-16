@@ -27,8 +27,8 @@ I normally recruit 2~3 PhD students each year. If you are interested in joining 
 
 ## What's New
 * 8 Dec 2026, I am organising the ELLIS Unconference on Multi-Agent AI for Science.
-* Invited talk at the [Multi-Agent System and AI 2026](https://www.cityu.edu.hk/ias/prd/event/multi-agent-system-and-ai-2026/) event, Hong Kong Institute for Advanced Study (HKIAS), City University of Hong Kong.
-* Visiting HKUST, PolyU and Hong Kong Baptist University.
+* 21–23, Invited talk at the [Multi-Agent System and AI 2026](https://www.cityu.edu.hk/ias/prd/event/multi-agent-system-and-ai-2026/) event, Hong Kong Institute for Advanced Study (HKIAS), City University of Hong Kong.
+* 19–21, Visiting HKUST, PolyU and Hong Kong Baptist University.
 * 11 Nov 2026, Invited talk at the Department of Chemistry, University of Liverpool, hosted by Prof. Andy Cooper.
 * 12 Oct 2026, Invited talk at the Oxford Control Seminar Series.
 * Jun 2026, I am invited to serve as Senior Area Chair for NAACL and AAMAS 2027.
