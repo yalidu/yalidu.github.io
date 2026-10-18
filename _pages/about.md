@@ -26,12 +26,12 @@ I normally recruit 2~3 PhD students each year. If you are interested in joining 
 
 
 ## What's New
-* 8 Dec 2026, I am organising the ELLIS UnConference [Multi-Agent AI for Scientific Discovery](https://yalidu.github.io/ellis-multi-agent-workshop-2026/).
-* 11 Nov 2026, Invited talk at the Department of Chemistry, University of Liverpool, hosted by Prof. Andy Cooper.
-* 21–23 Oct 2026, Invited talk at the [HKIAS International Conference on Multi-Agent Systems and AI 2026](https://www.cityu.edu.hk/ias/prd/event/multi-agent-system-and-ai-2026/), City University of Hong Kong.
-* 19–21 Oct 2026, Visiting HKUST, PolyU and Hong Kong Baptist University.
-* 12 Oct 2026, Invited talk at the Oxford Control Seminar Series.
-* Jun 2026, I am invited to serve as Senior Area Chair for NAACL 2027 and AAMAS 2027.
+* 8 Dec 2026, Organising the ELLIS UnConference on [Multi-Agent AI for Scientific Discovery](https://yalidu.github.io/ellis-multi-agent-workshop-2026/).
+* 11 Nov 2026, Invited talk at the [Department of Chemistry](https://www.liverpool.ac.uk/chemistry/), University of Liverpool, at the invitation of [Prof. Andy Cooper](https://www.liverpool.ac.uk/people/andrew-cooper) and [Dr Xenofon Evangelopoulos](https://www.liverpool.ac.uk/people/xenofon-evangelopoulos).
+* 21–23 Oct 2026, Invited speaker at the [HKIAS International Conference on Multi-Agent Systems and AI 2026](https://www.cityu.edu.hk/ias/prd/event/multi-agent-system-and-ai-2026/), Hong Kong Institute for Advanced Study, City University of Hong Kong.
+* 19–21 Oct 2026, Academic visits to [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) and [Hong Kong Baptist University](https://www.hkbu.edu.hk/).
+* 12 Oct 2026, Invited talk at the Oxford Control Seminar Series, [Control Group](https://eng.ox.ac.uk/control/), Department of Engineering Science, University of Oxford, at the invitation of [Prof. Antonis Papachristodoulou](https://eng.ox.ac.uk/people/antonis-papachristodoulou).
+* Jun 2026, Invited to serve as Senior Area Chair for [NAACL 2027](https://2027.naacl.org/) and [AAMAS 2027](https://warwick.ac.uk/fac/sci/dcs/aamas2027/).
 * 2 Apr, Invited talk at the [Edge AI Agent Workshop](https://www.cdeng.net/note/posts/edge-ai-agent-workshop/) at University of Edinburgh. Welcome to attend!  
 * 22 Mar, I will give a talk at [Isambard Summit 2026¶](https://docs.isambard.ac.uk/events/isambard_summit_2026/) on Evaluating the cooperative behaviour of systems of generative agents.
 * 18th Mar, we are very excited to receive two [Responsible Ai UK](https://rai.ac.uk/ai-robotics-research-awards/) AI & Robotics Best Research Paper Awards on Scalable Reinforcement Learning and efficient Chain-of-Thought.  Huge congratulations to my co-authors and sincere thanks to the community for the recognition and support.
