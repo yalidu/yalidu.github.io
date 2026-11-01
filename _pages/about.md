@@ -28,6 +28,7 @@ I normally recruit 2~3 PhD students each year. If you are interested in joining 
 ## What's New
 * 8 Dec 2026, Organising the ELLIS UnConference on [Multi-Agent AI for Scientific Discovery](https://yalidu.github.io/ellis-multi-agent-workshop-2026/).
 * 11 Nov 2026, Invited talk at the [Department of Chemistry](https://www.liverpool.ac.uk/chemistry/), University of Liverpool, at the invitation of [Prof. Andy Cooper](https://www.liverpool.ac.uk/people/andrew-cooper) and [Dr Xenofon Evangelopoulos](https://www.liverpool.ac.uk/people/xenofon-evangelopoulos).
+* 8 Nov 2026, Invited keynote at the [LLM Agents for Social Simulation Workshop](https://lassworkshop26.github.io/) at CIKM 2026.
 * 21–23 Oct 2026, Invited speaker at the [HKIAS International Conference on Multi-Agent Systems and AI 2026](https://www.cityu.edu.hk/ias/prd/event/multi-agent-system-and-ai-2026/), Hong Kong Institute for Advanced Study, City University of Hong Kong.
 * 19–21 Oct 2026, Academic visits to [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) and [Hong Kong Baptist University](https://www.hkbu.edu.hk/).
 * 12 Oct 2026, Invited talk at the Oxford Control Seminar Series, [Control Group](https://eng.ox.ac.uk/control/), Department of Engineering Science, University of Oxford, at the invitation of [Prof. Antonis Papachristodoulou](https://eng.ox.ac.uk/people/antonis-papachristodoulou).
