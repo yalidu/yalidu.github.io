@@ -27,33 +27,45 @@ I am a Senior Lecturer (Associate Professor) in AI at King's College London, whe
 
 My research develops **cooperative and safe AI agents** that can learn, coordinate, and align with humans in complex decision-making environments, with a focus on scalable multi-agent learning, human–AI coordination, and value alignment.
 
-I received the AAAI New Faculty Highlights Award and was named a Rising Star in AI by KAUST in 2023. I serve as Senior Area Chair for AAMAS, Area Chair for NeurIPS, ICML, ICLR and IJCAI, and Associate Editor for IEEE Transactions on Artificial Intelligence, and have served on the organising committees of AAMAS 2023, NeurIPS 2024, DAI 2025 and AAMAS 2027.
+I received the AAAI New Faculty Highlights Award and was named a Rising Star in AI by KAUST in 2023. I serve as Senior Area Chair for AAMAS and NAACL, Area Chair for NeurIPS, ICML, ICLR and IJCAI, and Associate Editor for IEEE Transactions on Artificial Intelligence, and have served on the organising committees of AAMAS 2023, NeurIPS 2024, DAI 2025 and AAMAS 2027.
 
 <div style="border:1px solid var(--global-theme-color);border-radius:8px;padding:12px 16px;margin:1.2rem 0;">
 <strong>Join us.</strong> I normally recruit 2–3 PhD students each year. If you are interested in joining the lab, please read the guidance for <a href="{{ '/prospective-students/' | relative_url }}"><strong>prospective students</strong></a> before getting in touch.
 </div>
 
-## research
+## research: safe and cooperative AI
 
-**Cooperative AI & social dilemmas** — when and why agents cooperate: mixed-motive games, norms, and the emergent behaviour of agent populations.
+Three connected directions in the Cooperative AI Lab. The goal: agents that can **learn, coordinate and remain safe** in multi-agent and human-centred environments.
 
-- [SocialJax: An Evaluation Suite for Multi-Agent Reinforcement Learning in Sequential Social Dilemmas](https://arxiv.org/abs/2503.14576), ICLR 2026 · [code](https://github.com/cooperativex/SocialJax)
-- [Quantifying the Self-Interest Level of Markov Social Dilemmas](https://arxiv.org/abs/2501.16138), preprint 2025
-
-**Multi-agent learning & credit assignment** — scalable coordination, communication and credit assignment in cooperative multi-agent reinforcement learning.
-
-- LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning, NeurIPS 2019 · [code](https://github.com/yalidu/liir)
-- MACCA: Offline Multi-agent Reinforcement Learning with Causal Credit Assignment, TMLR 2025
-
-**LLM agents & reasoning** — reasoning, memory and planning for language agents, and how groups of LLM agents interact and coordinate.
-
-- [CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation](https://arxiv.org/abs/2502.21074), EMNLP 2025 · [code](https://github.com/zhenyi4/codi)
-- Natural Language Reinforcement Learning, preprint 2024
-
-**Human–AI coordination & safety** — learning from human feedback and language, zero-shot coordination with people, and safe multi-agent systems.
-
-- Tackling Cooperative Incompatibility for Zero-Shot Human-AI Coordination, JAIR 2024
-- Safe Reinforcement Learning with Free-form Natural Language Constraints and Pre-Trained Language Models, AAMAS 2024
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:1.5rem;margin:1.2rem 0;">
+<div>
+<h4 style="color:var(--global-theme-color);margin-bottom:.3rem;">Evaluating agent societies</h4>
+<p><em>What emerges when many agents interact under mixed motives?</em></p>
+<ul>
+<li><a href="https://arxiv.org/abs/2503.14576">SocialJax</a> (ICLR '26)</li>
+<li>OpenSocialJax (arXiv '26)</li>
+<li>LLM agent populations (AAMAS '25)</li>
+</ul>
+</div>
+<div>
+<h4 style="color:var(--global-theme-color);margin-bottom:.3rem;">Learning &amp; aligning</h4>
+<p><em>How can agents coordinate at scale, with partners and with humans?</em></p>
+<ul>
+<li>Scalable networked MARL (Nature MI '24, NeurIPS '25)</li>
+<li>Zero-shot human–AI coordination (NeurIPS '23)</li>
+<li>Learning from human and language feedback (ICML '25, EMNLP '25)</li>
+</ul>
+</div>
+<div>
+<h4 style="color:var(--global-theme-color);margin-bottom:.3rem;">Safety &amp; oversight</h4>
+<p><em>How do we keep agent societies safe and accountable?</em></p>
+<ul>
+<li>Delegation safety: BazaarBench (arXiv '26)</li>
+<li>Safe MARL with language constraints (AAAI '26)</li>
+<li>Multi-agent AI safety and governance</li>
+</ul>
+</div>
+</div>
 
 Full publication list: [Cooperative AI Lab publications](https://coopai.kcl.ac.uk/publications/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=7tj9yu8AAAAJ)
 
