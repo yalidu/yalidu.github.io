@@ -10,27 +10,21 @@ Thank you for your interest in joining the [Cooperative AI Lab](https://coopai.k
 
 Before getting in touch, please look at my research and recent publications to check that your interests fit the group's work.
 
-**All enquiries go by email to [yali.du@kcl.ac.uk](mailto:yali.du@kcl.ac.uk).** Please send everything in **one email**, with materials attached as PDFs.
-
 ## PhD applicants
 
 I normally recruit 2–3 PhD students each year.
 
-**Subject line** — must start with the code below, otherwise your email may not reach me:
+**How to apply.** Please complete the [**PhD application form**](https://docs.google.com/forms/d/e/1FAIpQLSdEVCX9SY-u99Xa-S4-5e7b9pF8Cn1Zmw4BD5NNyeOYEYkDZg/viewform). The form is the only way to apply: applications sent by email will not be considered.
 
-```
-CooperativeAI-PHD | Your Name | Research Topic
-```
+The form asks about your background, grades, research experience and interests, and intended funding route, and for **one PDF** containing, in this order:
 
-**Attach as PDFs:**
+1. CV, including publications if any
+2. Transcripts from your undergraduate and/or master's degree
+3. A research proposal (max 2 pages): the problem you want to work on, why it matters, and how it relates to the group's work
 
-* CV, including publications if any
-* Transcripts from your undergraduate and/or master's degree
-* A research statement (1–2 pages): the problem you want to work on, why it matters, and how it relates to the group's work
+You will need to be signed in to a Google account to upload the file.
 
-**In the email body:** links to papers or code you have written, and your intended funding route (see below).
-
-**What happens next.** Shortlisted candidates will be invited to an interview. Because of the volume of enquiries, I cannot reply to every email; if you have not heard from me within **two weeks**, please assume your application will not be taken further. Formal applications go through the [King's postgraduate research admissions](https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply) process.
+**What happens next.** Shortlisted candidates will be invited to an interview. Because of the volume of applications, I will only contact shortlisted candidates. Formal applications go through the [King's postgraduate research admissions](https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply) process.
 
 ### Funding opportunities
 
@@ -42,13 +36,13 @@ CooperativeAI-PHD | Your Name | Research Topic
 
 Funded postdoc positions are announced on the [home page]({{ '/' | relative_url }}) when available. I am also happy to support strong candidates applying for fellowships to join the lab, including King's fellowship schemes and, for Chinese citizens, the CSC-funded Postdoc Programme.
 
-Subject line: `CooperativeAI-POSTDOC | Your Name`, with your CV and a short research proposal attached.
+To enquire, email [yali.du@kcl.ac.uk](mailto:yali.du@kcl.ac.uk) with the subject line `CooperativeAI-POSTDOC | Your Name`, attaching your CV and a short research proposal.
 
 ## Visiting students and interns
 
 I host (remote and in-person) visiting students. Formal visits are arranged through King's [Visiting Research Students](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students) programme.
 
-Subject line: `CooperativeAI-VISIT | Your Name`, with your CV and the dates and length of the visit you have in mind.
+To enquire, email [yali.du@kcl.ac.uk](mailto:yali.du@kcl.ac.uk) with the subject line `CooperativeAI-VISIT | Your Name`, attaching your CV and the dates and length of the visit you have in mind.
 
 ## King's MSc and undergraduate students
 
