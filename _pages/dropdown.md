@@ -1,13 +1,15 @@
 ---
 layout: page
-title: submenus
+title: lab
 nav: true
-nav_order: 8
+nav_order: 4
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Cooperative AI Lab
+    permalink: https://coopai.kcl.ac.uk/
+  - title: publications
+    permalink: https://coopai.kcl.ac.uk/publications/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Distributed AI Group
+    permalink: https://www.kcl.ac.uk/research/dai
 ---
