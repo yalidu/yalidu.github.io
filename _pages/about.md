@@ -65,13 +65,13 @@ Full publication list: [Cooperative AI Lab publications](https://coopai.kcl.ac.u
 
 ## news
 
-| Dec 2026 | Organising the ELLIS UnConference on [Multi-Agent AI for Scientific Discovery](https://yalidu.github.io/ellis-multi-agent-workshop-2026/). |
-| Nov 2026 | Invited talk at the [Department of Chemistry](https://www.liverpool.ac.uk/chemistry/), University of Liverpool. |
-| Nov 2026 | Invited keynote at the [LLM Agents for Social Simulation Workshop](https://lassworkshop26.github.io/) at CIKM 2026. |
-| Oct 2026 | Invited speaker at the [HKIAS International Conference on Multi-Agent Systems and AI 2026](https://www.cityu.edu.hk/ias/prd/event/multi-agent-system-and-ai-2026/); academic visits to HKUST, PolyU and HKBU. |
-| Oct 2026 | Invited talk at the Oxford Control Seminar Series, [Control Group](https://eng.ox.ac.uk/control/), University of Oxford. |
-| Jun 2026 | Invited to serve as Senior Area Chair for [NAACL 2027](https://2027.naacl.org/) and [AAMAS 2027](https://warwick.ac.uk/fac/sci/dcs/aamas2027/). |
-| Mar 2026 | Two [Responsible AI UK](https://rai.ac.uk/ai-robotics-research-awards/) AI & Robotics Best Research Paper Awards. |
-| Jan 2026 | Joined [ELLIS](https://ellis.eu/person/yali-du) as an ELLIS Member. |
+| Dec&nbsp;2026 | Organising the ELLIS UnConference on [Multi-Agent AI for Scientific Discovery](https://yalidu.github.io/ellis-multi-agent-workshop-2026/). |
+| Nov&nbsp;2026 | Invited talk at the [Department of Chemistry](https://www.liverpool.ac.uk/chemistry/), University of Liverpool. |
+| Nov&nbsp;2026 | Invited keynote at the [LLM Agents for Social Simulation Workshop](https://lassworkshop26.github.io/) at CIKM 2026. |
+| Oct&nbsp;2026 | Invited speaker at the [HKIAS International Conference on Multi-Agent Systems and AI 2026](https://www.cityu.edu.hk/ias/prd/event/multi-agent-system-and-ai-2026/); academic visits to HKUST, PolyU and HKBU. |
+| Oct&nbsp;2026 | Invited talk at the Oxford Control Seminar Series, [Control Group](https://eng.ox.ac.uk/control/), University of Oxford. |
+| Jun&nbsp;2026 | Invited to serve as Senior Area Chair for [NAACL 2027](https://2027.naacl.org/) and [AAMAS 2027](https://warwick.ac.uk/fac/sci/dcs/aamas2027/). |
+| Mar&nbsp;2026 | Two [Responsible AI UK](https://rai.ac.uk/ai-robotics-research-awards/) AI & Robotics Best Research Paper Awards. |
+| Jan&nbsp;2026 | Joined [ELLIS](https://ellis.eu/person/yali-du) as an ELLIS Member. |
 
 [All news →]({{ '/news/' | relative_url }})
