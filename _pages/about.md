@@ -29,7 +29,7 @@ My research develops **cooperative and safe AI agents** that can learn, coordina
 
 I received the AAAI New Faculty Highlights Award and was named a Rising Star in AI by KAUST in 2023. I serve as Senior Area Chair for AAMAS and NAACL, Area Chair for NeurIPS, ICML, ICLR and IJCAI, and Associate Editor for IEEE Transactions on Artificial Intelligence, and have served on the organising committees of AAMAS 2023, NeurIPS 2024, DAI 2025 and AAMAS 2027.
 
-<div style="border:1px solid var(--global-theme-color);border-radius:8px;padding:12px 16px;margin:1.2rem 0;">
+<div style="border:1px solid var(--global-theme-color);border-radius:8px;padding:12px 16px;margin:1.2rem 0;overflow:hidden;">
 <strong>Join us.</strong> I normally recruit 2–3 PhD students each year. If you are interested in joining the lab, please read the guidance for <a href="{{ '/prospective-students/' | relative_url }}"><strong>prospective students</strong></a> before getting in touch.
 </div>
 
