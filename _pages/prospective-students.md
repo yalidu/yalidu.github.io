@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-Thank you for your interest in joining the [Cooperative AI Lab](https://coopai.kcl.ac.uk/). Please read this page carefully before emailing me — it helps me give every application proper attention.
+Thank you for your interest in joining the [Cooperative AI Lab](https://coopai.kcl.ac.uk/). Please read this page carefully before applying — it helps me give every application proper attention.
 
 Before getting in touch, please look at my research and recent publications to check that your interests fit the group's work.
 
@@ -16,11 +16,7 @@ I normally recruit 2–3 PhD students each year.
 
 **How to apply.** Please complete the [**PhD application form**](https://docs.google.com/forms/d/e/1FAIpQLSdEVCX9SY-u99Xa-S4-5e7b9pF8Cn1Zmw4BD5NNyeOYEYkDZg/viewform). The form is the only way to apply: applications sent by email will not be considered.
 
-The form asks about your background, grades, research experience and interests, and intended funding route, and for **one PDF** containing, in this order:
-
-1. CV, including publications if any
-2. Transcripts from your undergraduate and/or master's degree
-3. A research proposal (max 2 pages): the problem you want to work on, why it matters, and how it relates to the group's work
+The form asks about your background, grades, research experience and interests, why you want to join the lab, and your intended funding route. You will also upload **one PDF** containing your CV (including publications if any) followed by your transcripts. A research proposal is not required at this stage.
 
 You will need to be signed in to a Google account to upload the file.
 
