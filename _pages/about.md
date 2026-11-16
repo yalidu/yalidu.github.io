@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Associate Professor in AI · <a href='https://www.kcl.ac.uk/'>King's College London</a> · Turing Fellow · ELLIS Member
 
@@ -33,7 +33,7 @@ I received the AAAI New Faculty Highlights Award and was named a Rising Star in 
 <strong>Join us.</strong> I normally recruit 2–3 PhD students each year. If you are interested in joining the lab, please read the guidance for <a href="{{ '/prospective-students/' | relative_url }}"><strong>prospective students</strong></a> before getting in touch.
 </div>
 
-## research: safe and cooperative AI
+## Research: Safe and Cooperative AI
 
 Three connected directions in the Cooperative AI Lab. The goal: agents that can **learn, coordinate and remain safe** in multi-agent and human-centred environments.
 
@@ -69,13 +69,13 @@ Three connected directions in the Cooperative AI Lab. The goal: agents that can 
 
 Full publication list: [Cooperative AI Lab publications](https://coopai.kcl.ac.uk/publications/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=7tj9yu8AAAAJ)
 
-## announcements
+## Announcements
 
 - We run the [Agentic AI Frontier Online Seminar](https://agentic-ai-frontier-seminar.github.io/index.html) every Friday at 9 AM PT. Check the upcoming sessions and subscribe to the mailing list.
 - We receive support from the [UK AI Security Institute](https://www.aisi.gov.uk/) for our research on the systemic safety of large language models, with a focus on the emergent behaviours of LLM agent groups. One postdoc position is funded.
 - [SocialJax](https://github.com/cooperativex/SocialJax), a suite of sequential social dilemma environments for multi-agent RL in JAX, developed with Joel Leibo (Google DeepMind).
 
-## news
+## News
 
 | Dec&nbsp;2026 | Organising the ELLIS UnConference on [Multi-Agent AI for Scientific Discovery](https://yalidu.github.io/ellis-multi-agent-workshop-2026/). |
 | Nov&nbsp;2026 | Invited talk at the [Department of Chemistry](https://www.liverpool.ac.uk/chemistry/), University of Liverpool. |
