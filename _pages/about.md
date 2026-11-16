@@ -77,6 +77,8 @@ Full publication list: [Cooperative AI Lab publications](https://coopai.kcl.ac.u
 
 ## News
 
+<div class="news-table" markdown="1">
+
 | Dec&nbsp;2026 | Organising the ELLIS UnConference on [Multi-Agent AI for Scientific Discovery](https://yalidu.github.io/ellis-multi-agent-workshop-2026/). |
 | Nov&nbsp;2026 | Invited talk at the [Department of Chemistry](https://www.liverpool.ac.uk/chemistry/), University of Liverpool. |
 | Nov&nbsp;2026 | Invited keynote at the [LLM Agents for Social Simulation Workshop](https://lassworkshop26.github.io/) at CIKM 2026. |
@@ -85,5 +87,7 @@ Full publication list: [Cooperative AI Lab publications](https://coopai.kcl.ac.u
 | Jun&nbsp;2026 | Invited to serve as Senior Area Chair for [NAACL 2027](https://2027.naacl.org/) and [AAMAS 2027](https://warwick.ac.uk/fac/sci/dcs/aamas2027/). |
 | Mar&nbsp;2026 | Two [Responsible AI UK](https://rai.ac.uk/ai-robotics-research-awards/) AI & Robotics Best Research Paper Awards. |
 | Jan&nbsp;2026 | Joined [ELLIS](https://ellis.eu/person/yali-du) as an ELLIS Member. |
+
+</div>
 
 [All news →]({{ '/news/' | relative_url }})
