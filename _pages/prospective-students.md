@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /prospective-students/
-title: prospective students
+title: Prospective Students
 nav: true
 nav_order: 3
 ---
