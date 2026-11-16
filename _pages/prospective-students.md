@@ -16,7 +16,7 @@ I normally recruit 2–3 PhD students each year.
 
 **How to apply.** Please complete the [**PhD application form**](https://docs.google.com/forms/d/e/1FAIpQLSdEVCX9SY-u99Xa-S4-5e7b9pF8Cn1Zmw4BD5NNyeOYEYkDZg/viewform). The form is the only way to apply: applications sent by email will not be considered.
 
-The form asks about your background, grades, research experience and interests, why you want to join the lab, and your intended funding route. You will also upload **one PDF** containing your CV (including publications if any) followed by your transcripts. A research proposal is not required at this stage.
+The form asks about your academic background and past experience, why you want to join the lab and the research topics you would like to work on, and your intended funding route. You will also upload **one PDF** containing your CV (including publications if any) followed by your transcripts. A research proposal is not required at this stage.
 
 You will need to be signed in to a Google account to upload the file.
 
