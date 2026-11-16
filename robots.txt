@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yalidu.github.io/homepage-new/sitemap.xml
+Sitemap: https://yalidu.github.io/sitemap.xml
