@@ -39,7 +39,3 @@ To enquire, email [yali.du@kcl.ac.uk](mailto:yali.du@kcl.ac.uk) with the subject
 I host (remote and in-person) visiting students. Formal visits are arranged through King's [Visiting Research Students](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students) programme.
 
 To enquire, email [yali.du@kcl.ac.uk](mailto:yali.du@kcl.ac.uk) with the subject line `CooperativeAI-VISIT | Your Name`, attaching your CV and the dates and length of the visit you have in mind.
-
-## King's MSc and undergraduate students
-
-For MSc and undergraduate projects at King's, please contact me **before** listing me as your supervisor.
