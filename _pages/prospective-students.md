@@ -10,7 +10,7 @@ Thank you for your interest in joining the [Cooperative AI Lab](https://coopai.k
 
 Before getting in touch, please look at my research and recent publications to check that your interests fit the group's work.
 
-## PhD applicants
+## PhD Applicants
 
 I normally recruit 2–3 PhD students each year.
 
@@ -18,19 +18,19 @@ I normally recruit 2–3 PhD students each year.
 
 **What happens next.** Shortlisted candidates will be invited to an interview. Because of the volume of applications, I will only contact shortlisted candidates. Formal applications go through the [King's postgraduate research admissions](https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply) process.
 
-### Funding opportunities
+**Funding.** Possible funding routes include:
 
 * [King's postgraduate research funding](https://www.kcl.ac.uk/study/postgraduate-research/funding) — scholarships, studentships and the funding database
 * [Department of Informatics research degrees](https://www.kcl.ac.uk/informatics/study-with-us/research-degrees) — departmental studentships and doctoral training programmes
 * [King's–China Scholarship Council (K-CSC) PhD Scholarship](https://www.kcl.ac.uk/study/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) — for Chinese applicants; the call usually runs from autumn to January
 
-## Postdocs and research fellows
+## Postdocs and Research Fellows
 
 Funded postdoc positions are announced on the [home page]({{ '/' | relative_url }}) when available. I am also happy to support strong candidates applying for fellowships to join the lab, including King's fellowship schemes and, for Chinese citizens, the CSC-funded Postdoc Programme.
 
 To enquire, email [yali.du@kcl.ac.uk](mailto:yali.du@kcl.ac.uk) with the subject line `CooperativeAI-POSTDOC | Your Name`, attaching your CV and a short research proposal.
 
-## Visiting students and interns
+## Visiting Students and Interns
 
 I host (remote and in-person) visiting students. Formal visits are arranged through King's [Visiting Research Students](https://www.kcl.ac.uk/study/postgraduate-research/visiting-research-students) programme.
 
